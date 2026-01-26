@@ -1,4 +1,4 @@
-﻿#b#cff0000ff Pet Sacrificing #nb#nc
-You can #bchange the level#nb of your current pet's tier by sacrificing another pet with the #bsame tier or higher#nb.
-#cffff0000The pet that you input below will be permanently destroyed.#nc
-The higher the tier of the pet you destroy, the better the chance to get a good level.
+﻿#b#cff0000ffSacrifice de Compagnon#nb#nc
+Vous pouvez #bchanger le niveau#nb du palier de votre compagnon actuel en sacrifiant un autre compagnon ayant le #bmême palier ou un palier supérieur#nb.
+#cffff0000Le compagnon que vous sélectionnez ci-dessous sera détruit de manière permanente.#nc
+Plus le palier du compagnon sacrifié est élevé, meilleures sont les chances d’obtenir un bon niveau.
