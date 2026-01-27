@@ -45,7 +45,7 @@ MMI_50,Un-summon pet,Odwołaj Zwierzaka
 MMI_51,Create Shining Power Dice,Stwórz lśniące Kości Mocy
 MMI_53,Create Jewels,Stwórz Klejnoty
 MMI_54,Create Unique Weapon,Stwórz Unikatowe Bronie
-MMI_59,Remove Element,Remove Element
+MMI_59,Remove Element,Usuń Żywioł
 MMI_71,Remove Level Reduction,Usuń Redukcję Poziomu
 MMI_74,Get Buffed!,Wzmocnij Się!
 MMI_75,Exchange Rare Item Pieces,Wymiana Fragmentów Rzadkich Przedmiotów
@@ -54,15 +54,15 @@ MMI_79,Remove Premium Item Blessing,Usuń Błogosławieństwo Przedmiotu Premium
 MMI_80,Enter Arena,Wejdź na Arenę
 MMI_81,Leave Arena,Wyjdź z Areny
 MMI_82,Arena Ranking,Ranking Areny
-MMI_83,Arena Reward,Arena Reward
+MMI_83,Arena Reward,Nagroda Areny
 MMI_134,Upgrading,Ulepszanie
 MMI_136,Piercing,Piercing
 MMI_167,Element Upgrading,Nadanie Żywiołu
 MMI_142,Store Pet,Schowaj Zwierzaka
 MMI_272,Exchange RPS Coupon,Wymień kupon K-P-N
 MMI_309,Card Upgrade,Ulepszanie Kart
-MMI_310,Weapon Socket Card Reshuffle,Weapon Socket Card Reshuffle
-MMI_311,Couple proposal,Couple proposal
+MMI_310,Weapon Socket Card Reshuffle,Tasowanie Kart Gniazda Broni
+MMI_311,Couple proposal,Propozycja Pary
 MMI_1000,Drop Filter,Filtr Łupu
 MMI_1001,Report,Wyślij Raport
 MMI_1002,Inspect,Sprawdzać

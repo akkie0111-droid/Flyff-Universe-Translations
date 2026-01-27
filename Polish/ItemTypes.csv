@@ -1,25 +1,25 @@
 ﻿Key,English,Polish
-ITEMTYPE_1H_SWORD,1H Sword,1H Sword
-ITEMTYPE_2H_SWORD,2H Sword,2H Sword
-ITEMTYPE_1H_AXE,1H Axe,1H Axe
-ITEMTYPE_2H_AXE,2H Axe,2H Axe
-ITEMTYPE_KNUCKLE,Knuckle,Knuckle
-ITEMTYPE_STICK,Stick,Stick
-ITEMTYPE_BOW,Bow,Bow
+ITEMTYPE_1H_SWORD,1H Sword,Miecz Jednuręczny
+ITEMTYPE_2H_SWORD,2H Sword,Miecz Dwuręczny
+ITEMTYPE_1H_AXE,1H Axe,Topór Jednuręczny
+ITEMTYPE_2H_AXE,2H Axe,Topór Dwuręczny
+ITEMTYPE_KNUCKLE,Knuckle,Pięść
+ITEMTYPE_STICK,Stick,Kij
+ITEMTYPE_BOW,Bow,Łuk
 ITEMTYPE_YOYO,Yo-Yo,Yo-Yo
-ITEMTYPE_WAND,Wand,Wand
-ITEMTYPE_STAFF,Staff,Staff
-ITEMTYPE_COSTUME,Costume,Costume
-ITEMTYPE_SHOES,Shoes,Shoes
-ITEMTYPE_PICKUP,Pick-Up Pet,Pick-Up Pet
-ITEMTYPE_REAR_PET,Raised Pet,Raised Pet
-ITEMTYPE_CONSUMABLE,Consumable,Consumable
-ITEMTYPE_BOARD,Board,Board
-ITEMTYPE_CAR,Car,Car
-ITEMTYPE_WINGS,Wings,Wings
-ITEMTYPE_BIKE,Bike,Bike
-ITEMTYPE_BERRY,Berry,Berry
-ITEMTYPE_DICE,Dice,Dice
-ITEMTYPE_BOX,Box,Box
-ITEMTYPE_VANITY,Vanity,Vanity
-ITEMTYPE_CHIP,Chip,Chip
+ITEMTYPE_WAND,Wand,Różdżka
+ITEMTYPE_STAFF,Staff,Personel
+ITEMTYPE_COSTUME,Costume,Kostium
+ITEMTYPE_SHOES,Shoes,Buty
+ITEMTYPE_PICKUP,Pick-Up Pet,Pet Zbierający
+ITEMTYPE_REAR_PET,Raised Pet,Pet Wychowywany
+ITEMTYPE_CONSUMABLE,Consumable,Przedmiot Zużywalny
+ITEMTYPE_BOARD,Board,Deska
+ITEMTYPE_CAR,Car,Samochód
+ITEMTYPE_WINGS,Wings,Skrzydła
+ITEMTYPE_BIKE,Bike,Motor
+ITEMTYPE_BERRY,Berry,Jagoda
+ITEMTYPE_DICE,Dice,Kość
+ITEMTYPE_BOX,Box,Pudełko
+ITEMTYPE_VANITY,Vanity,Przedmiot Dekoracyjny
+ITEMTYPE_CHIP,Chip,Żeton
