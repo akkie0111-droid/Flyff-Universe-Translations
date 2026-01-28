@@ -21,8 +21,8 @@ CHARACTER_INC_000075,Ismeralda,Ismeralda
 CHARACTER_INC_000083,Flaris Pang,Flaris Pang
 CHARACTER_INC_000091,Jeff,Jeff
 CHARACTER_INC_000099,[High-Dwarpet] Tucani,[High-Dwarpet] Tucani
-CHARACTER_INC_000101,[Jester Wise-man] Radyon,[Jester Wise-man] Radyon
-CHARACTER_INC_000103,[Ranger Wise-man] Kimel,[Ranger Wise-man] Kimel
+CHARACTER_INC_000101,[Jester Wise-man] Radyon,[Jester Weiser] Radyon
+CHARACTER_INC_000103,[Ranger Wise-man] Kimel,[Ranger Weiser] Kimel
 CHARACTER_INC_000111,[Pepoview] Brodeay,[Tantalus] Brodeay
 CHARACTER_INC_000113,[Pepoview] Ruminerr,[Tantalus] Ruminerr
 CHARACTER_INC_000115,[Pepoview] Ellangdl,[Tantalus] Ellangdl
@@ -358,48 +358,48 @@ CHARACTER_INC_000778,Anna,Anna
 CHARACTER_INC_000779,Sea Shell,Muschel
 CHARACTER_INC_000780,Mr. Flyff,Mr. Flyff
 CHARACTER_INC_000781,[Event] Roger,[Event] Roger
-CHARACTER_INC_003250,[Personal House NPC] Klock,[Personal House NPC] Klock
-CHARACTER_INC_100103,[Messenger of Love] Cupid,[Messenger of Love] Cupid
-CHARACTER_INC_003251,[Personal House NPC] Mac (F Grade),[Personal House NPC] Mac (F Grade)
-CHARACTER_INC_003252,[Personal House NPC] Mac (E Grade),[Personal House NPC] Mac (E Grade)
-CHARACTER_INC_003253,[Personal House NPC] Mac (D Grade),[Personal House NPC] Mac (D Grade)
-CHARACTER_INC_003254,[Personal House NPC] Mac (C Grade),[Personal House NPC] Mac (C Grade)
-CHARACTER_INC_003255,[Personal House NPC] Mac (B Grade),[Personal House NPC] Mac (B Grade)
-CHARACTER_INC_003256,[Personal House NPC] Mac (A Grade),[Personal House NPC] Mac (A Grade)
-CHARACTER_INC_140000,Couple Rings,Couple Rings
-CHARACTER_INC_100104,[Life Master] Livi,[Life Master] Livi
-CHARACTER_INC_100105,Gathering Tool,Gathering Tool
+CHARACTER_INC_003250,[Personal House NPC] Klock,[Privates Haus NPC] Klock
+CHARACTER_INC_100103,[Messenger of Love] Cupid,[Bote der Liebe] Amor
+CHARACTER_INC_003251,[Personal House NPC] Mac (F Grade),[Privates Haus NPC] Mac (Stufe F)
+CHARACTER_INC_003252,[Personal House NPC] Mac (E Grade),[Privates Haus NPC] Mac (Stufe E)
+CHARACTER_INC_003253,[Personal House NPC] Mac (D Grade),[Privates Haus NPC] Mac (Stufe D)
+CHARACTER_INC_003254,[Personal House NPC] Mac (C Grade),[Privates Haus NPC] Mac (Stufe C)
+CHARACTER_INC_003255,[Personal House NPC] Mac (B Grade),[Privates Haus NPC] Mac (Stufe B)
+CHARACTER_INC_003256,[Personal House NPC] Mac (A Grade),[Privates Haus NPC] Mac (Stufe A)
+CHARACTER_INC_140000,Couple Rings,Eheringe
+CHARACTER_INC_100104,[Life Master] Livi,[Life Meister] Livi
+CHARACTER_INC_100105,Gathering Tool,Sammelwerkzeug
 CHARACTER_INC_100106,Sovann,Sovann
 CHARACTER_INC_100107,[Event] Mr.Kang,[Event] Mr.Kang
 CHARACTER_INC_100108,Hyuna,Hyuna
 CHARACTER_INC_100109,[Event] Boss Pang,[Event] Boss Pang
-CHARACTER_INC_100110,Wounded Revolutionary,Wounded Revolutionary
+CHARACTER_INC_100110,Wounded Revolutionary,Verwundeter Revolutionär
 CHARACTER_INC_100111,[Event] Mr.Pumpkin,[Event] Mr.Pumpkin
-CHARACTER_INC_150001,[Airport Guard] Doran,[Airport Guard] Doran
-CHARACTER_INC_150002,[Airport Guard] Chiron,[Airport Guard] Chiron
-CHARACTER_INC_150003,[Airport Guard] Bran,[Airport Guard] Bran
-CHARACTER_INC_150004,[Airport Guard] Karr,[Airport Guard] Karr
-CHARACTER_INC_150005,[Airport Guard] Zerke,[Airport Guard] Zerke
-CHARACTER_INC_150006,[Airport Guard] Elin,[Airport Guard] Elin
-CHARACTER_INC_150007,[Eillun Guard] Gard,[Eillun Guard] Gard
-CHARACTER_INC_150008,[Eillun Guard] Liont,[Eillun Guard] Liont
-CHARACTER_INC_150009,[Eillun Guard] Serkan,[Eillun Guard] Serkan
-CHARACTER_INC_150010,[Eillun Guard] Kras,[Eillun Guard] Kras
-CHARACTER_INC_150011,[Eillun Guard] Maeron,[Eillun Guard] Maeron
-CHARACTER_INC_150012,[Eillun Guard] Kerion,[Eillun Guard] Kerion
-CHARACTER_INC_150013,[Eillun Guard] Raon,[Eillun Guard] Raon
-CHARACTER_INC_150014,[Eillun Guard] Dreon,[Eillun Guard] Dreon
-CHARACTER_INC_150015,[Eillun Guard] Merk,[Eillun Guard] Merk
-CHARACTER_INC_150016,[Captain] Baron,[Captain] Baron
+CHARACTER_INC_150001,[Airport Guard] Doran,[Flughafenwache] Doran
+CHARACTER_INC_150002,[Airport Guard] Chiron,[Flughafenwache] Chiron
+CHARACTER_INC_150003,[Airport Guard] Bran,[Flughafenwache] Bran
+CHARACTER_INC_150004,[Airport Guard] Karr,[Flughafenwache] Karr
+CHARACTER_INC_150005,[Airport Guard] Zerke,[Flughafenwache] Zerke
+CHARACTER_INC_150006,[Airport Guard] Elin,[Flughafenwache] Elin
+CHARACTER_INC_150007,[Eillun Guard] Gard,[Eillun Wache] Gard
+CHARACTER_INC_150008,[Eillun Guard] Liont,[Eillun Wache] Liont
+CHARACTER_INC_150009,[Eillun Guard] Serkan,[Eillun Wache] Serkan
+CHARACTER_INC_150010,[Eillun Guard] Kras,[Eillun Wache] Kras
+CHARACTER_INC_150011,[Eillun Guard] Maeron,[Eillun Wache] Maeron
+CHARACTER_INC_150012,[Eillun Guard] Kerion,[Eillun Wache] Kerion
+CHARACTER_INC_150013,[Eillun Guard] Raon,[Eillun Wache] Raon
+CHARACTER_INC_150014,[Eillun Guard] Dreon,[Eillun Wache] Dreon
+CHARACTER_INC_150015,[Eillun Guard] Merk,[Eillun Wache] Merk
+CHARACTER_INC_150016,[Captain] Baron,[Hauptmann] Baron
 CHARACTER_INC_150017,Jarl,Jarl
-CHARACTER_INC_150018,[Elder] Ayr,[Elder] Ayr
-CHARACTER_INC_150019,[Elder] Traitus,[Elder] Traitus
-CHARACTER_INC_150020,[Elder] Melak,[Elder] Melak
-CHARACTER_INC_150021,[Elder] Silar,[Elder] Silar
-CHARACTER_INC_150022,[Elder] Ebron,[Elder] Ebron
-CHARACTER_INC_150023,[Elder] Luteon,[Elder] Luteon
+CHARACTER_INC_150018,[Elder] Ayr,[Ältester] Ayr
+CHARACTER_INC_150019,[Elder] Traitus,[Ältester] Traitus
+CHARACTER_INC_150020,[Elder] Melak,[Ältester] Melak
+CHARACTER_INC_150021,[Elder] Silar,[Ältester] Silar
+CHARACTER_INC_150022,[Elder] Ebron,[Ältester] Ebron
+CHARACTER_INC_150023,[Elder] Luteon,[Ältester] Luteon
 CHARACTER_INC_150024,Liana,Liana
-CHARACTER_INC_150025,[Jewel Manager] Teron,[Jewel Manager] Teron
+CHARACTER_INC_150025,[Jewel Manager] Teron,[Juwelen Manager] Teron
 CHARACTER_INC_150026,Haret,Haret
 CHARACTER_INC_150027,Domir,Domir
 CHARACTER_INC_150028,Toran,Toran
@@ -418,13 +418,13 @@ CHARACTER_INC_150040,Kaela,Kaela
 CHARACTER_INC_150041,[Pet Tamer] Livia,[Pet Tamer] Livia
 CHARACTER_INC_150042,Taila,Taila
 CHARACTER_INC_150043,Weevs,Weevs
-CHARACTER_INC_150044,[Mysterious] ??? ,[Mysterious] ??? 
+CHARACTER_INC_150044,[Mysterious] ??? ,[Geheimnisvoll] ??? 
 CHARACTER_INC_150045,[Expedition] Beck,[Expedition] Beck
-CHARACTER_INC_150046,Asylum Guard,Asylum Guard
-CHARACTER_INC_150047,Mysterious Adventurer,Mysterious Adventurer
-CHARACTER_INC_150048,Jarl (Dying),Jarl (Dying)
-CHARACTER_INC_150049,[PTS Manager] Mewdev,[PTS Manager] Mewdev
+CHARACTER_INC_150046,Asylum Guard,Zufluchts Wache
+CHARACTER_INC_150047,Mysterious Adventurer,Geheimnisvoller Abenteurer
+CHARACTER_INC_150048,Jarl (Dying),Jarl (Sterbend)
+CHARACTER_INC_150049,[PTS Manager] Mewdev,[Test Server Manager] Mewdev
 CHARACTER_INC_150050,Miorang,Miorang
-CHARACTER_INC_150051,[Post Office] Cheirang,[Post Office] Cheirang
-CHARACTER_INC_150052,[Village Chief] Huntrang,Huntran
+CHARACTER_INC_150051,[Post Office] Cheirang,[Poststelle] Cheirang
+CHARACTER_INC_150052,[Village Chief] Huntrang,[Dorfvorsteher] Huntran
 CHARACTER_INC_150053,[Arena Manager] Aerin,[Arena Manager] Aerin
