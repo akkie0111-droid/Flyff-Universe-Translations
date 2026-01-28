@@ -799,7 +799,7 @@ ACHIEVEMENT_USE_GOLDPILL_DESC,"Eat 30,000 Gold Pills.",Verbrauche 30.000 Gold Pi
 ACHIEVEMENT_USE_GOLDPILL_TITLE,Glimmering,Goldener Medizinmann
 ACHIEVEMENT_USE_LOLLIPOP_NAME,Lollipop,Lollipop
 ACHIEVEMENT_USE_LOLLIPOP_DESC,"Eat 200,000 Lollipops.",Verbrauche 200.000 Lollipops.
-ACHIEVEMENT_USE_LOLLIPOP_TITLE,Sweet Tooth,Lollipop Lover
+ACHIEVEMENT_USE_LOLLIPOP_TITLE,Sweet Tooth,Naschkatze
 ACHIEVEMENT_USE_CHOCOLATE_NAME,Chocolate Bar,Chocolate Bar
 ACHIEVEMENT_USE_CHOCOLATE_DESC,"Eat 200,000 Chocolate Bars.",Verbrauche 200.000 Chocolate Bars.
 ACHIEVEMENT_USE_CHOCOLATE_TITLE,Chocoholic,Schokoladenbär
@@ -844,7 +844,7 @@ ACHIEVEMENT_USE_STEAMEDSEAFOOD_DESC,"Eat 200,000 Steamed Seafood.",Verbrauche 20
 ACHIEVEMENT_USE_STEAMEDSEAFOOD_TITLE,Steamy,Gourmet der Meere
 ACHIEVEMENT_USE_MEATSALAD_NAME,Meat Salad,Meat Salad
 ACHIEVEMENT_USE_MEATSALAD_DESC,"Eat 200,000 Meat Salads.",Verbrauche 200.000 Meat Salads.
-ACHIEVEMENT_USE_MEATSALAD_TITLE,Omnivore,Fleischsalatfan
+ACHIEVEMENT_USE_MEATSALAD_TITLE,Omnivore,Allesfresser
 ACHIEVEMENT_USE_GRATIN_NAME,Gratin,Gratin
 ACHIEVEMENT_USE_GRATIN_DESC,"Eat 200,000 Gratins.",Verbrauche 200.000 Gratins.
 ACHIEVEMENT_USE_GRATIN_TITLE,Shattered,Gratinmonster
@@ -862,7 +862,7 @@ ACHIEVEMENT_USE_PINEAPPLECONE_DESC,"Eat 200,000 Pineapple Cones.",Verbrauche 200
 ACHIEVEMENT_USE_PINEAPPLECONE_TITLE,Fresh,Ananasspezialist
 ACHIEVEMENT_USE_BANANAJUJUBAR_NAME,Banana Jujubar,Banana Jujubar
 ACHIEVEMENT_USE_BANANAJUJUBAR_DESC,"Eat 200,000 Banana Jujubars.",Verbrauche 200.000 Banana Jujubars.
-ACHIEVEMENT_USE_BANANAJUJUBAR_TITLE,Appealing,Palmkletterer
+ACHIEVEMENT_USE_BANANAJUJUBAR_TITLE,Appealing,Gelber Genießer
 ACHIEVEMENT_USE_FRUITJUICE_NAME,Fruit Juice,Fruit Juice
 ACHIEVEMENT_USE_FRUITJUICE_DESC,"Drink 200,000 Fruit Juices.",Verbrauche 200.000 Fruit Juices.
 ACHIEVEMENT_USE_FRUITJUICE_TITLE,Fruity,Fruchtpanscher
@@ -880,7 +880,7 @@ ACHIEVEMENT_USE_ICECREAMCAKE_DESC,"Eat 200,000 Icecream Cakes.",Verbrauche 200.0
 ACHIEVEMENT_USE_ICECREAMCAKE_TITLE,Chilled,Eiszapfen
 ACHIEVEMENT_USE_BISCUIT_NAME,Biscuit,Biscuit
 ACHIEVEMENT_USE_BISCUIT_DESC,"Eat 200,000 Biscuits.",Verbrauche 200.000 Biscuits.
-ACHIEVEMENT_USE_BISCUIT_TITLE,Baker,Krümeltier
+ACHIEVEMENT_USE_BISCUIT_TITLE,Baker,Krümelmonster
 ACHIEVEMENT_USE_CORAL_ISLAND_CURRY_NAME,Coral Island Curry,Koralleninsel Curry
 ACHIEVEMENT_USE_CORAL_ISLAND_CURRY_DESC,"Eat 50,000 Coral Island Curries.",Ess 50.000 Koralleninsel-Currys.
 ACHIEVEMENT_USE_CORAL_ISLAND_CURRY_TITLE,Saucy,Frech
@@ -889,7 +889,7 @@ ACHIEVEMENT_USE_FRUIT_PUNCH_DESC,"Eat 200,000 Fruit Punch.","Eat 200,000 Fruit P
 ACHIEVEMENT_USE_FRUIT_PUNCH_TITLE,Punta Cana,Punta Cana
 ACHIEVEMENT_USE_TUNASUSHI_NAME,Tuna Sushi,Tuna Sushi
 ACHIEVEMENT_USE_TUNASUSHI_DESC,"Eat 200,000 Tuna Sushi.","Eat 200,000 Tuna Sushi."
-ACHIEVEMENT_USE_TUNASUSHI_TITLE,Soy Sauce,Soy Sauce
+ACHIEVEMENT_USE_TUNASUSHI_TITLE,Soy Sauce,Soja Sauce
 ACHIEVEMENT_STAT_STRENGTH_NAME,Strength,Stärke
 ACHIEVEMENT_STAT_STRENGTH_DESC,Get 253 BASE STR.,Erreiche 253 Statuspunkte in STR.
 ACHIEVEMENT_STAT_STRENGTH_TITLE,Mighty,Bodybuilder
@@ -964,20 +964,20 @@ ACHIEVEMENT_TRANSLATOR_NAME,Translator Reward,Belohnung für Übersetzer
 ACHIEVEMENT_TRANSLATOR_DESC,A unique reward for players who help creating game translations.,"Eine einzigartige Belohnung für Spieler, die sich an der Übersetzung von Flyff Universe beteiligt haben."
 ACHIEVEMENT_TRANSLATOR_TITLE,Translator,Übersetzer
 ACHIEVEMENT_MASTER60_NAME,Master 60 - 70,Master 60 - 70
-ACHIEVEMENT_MASTER60_DESC,Complete the first Master Quest,Schließe die erste Meister Quest ab
+ACHIEVEMENT_MASTER60_DESC,Complete the first Master Quest,Schließe die erste Master Quest ab
 ACHIEVEMENT_MASTER70_NAME,Master 70 - 80,Master 70 - 80
-ACHIEVEMENT_MASTER70_DESC,Complete the second Master Quest,Schließe die zweite Meister Quest ab
+ACHIEVEMENT_MASTER70_DESC,Complete the second Master Quest,Schließe die zweite Master Quest ab
 ACHIEVEMENT_MASTER80_NAME,Master 80 - 90,Master 80 - 90
-ACHIEVEMENT_MASTER80_DESC,Complete the third Master Quest,Schließe die dritte Meister Quest ab
+ACHIEVEMENT_MASTER80_DESC,Complete the third Master Quest,Schließe die dritte Master Quest ab
 ACHIEVEMENT_MASTER90_NAME,Master 90 - 100,Master 90 - 100
-ACHIEVEMENT_MASTER90_DESC,Complete the fourth Master Quest,Schließe die vierte Meister Quest ab
+ACHIEVEMENT_MASTER90_DESC,Complete the fourth Master Quest,Schließe die vierte Master Quest ab
 ACHIEVEMENT_MASTER100_NAME,Master 100 - 110,Master 100 - 110
-ACHIEVEMENT_MASTER100_DESC,Complete the fifth Master Quest,Schließe die fünfte Meister Quest ab
+ACHIEVEMENT_MASTER100_DESC,Complete the fifth Master Quest,Schließe die fünfte Master Quest ab
 ACHIEVEMENT_MASTER110_NAME,Master 110 - 120,Master 110 - 120
-ACHIEVEMENT_MASTER110_DESC,Complete the last Master Quest,Schließe die letzte Meister Quest ab
-ACHIEVEMENT_MASTER120_NAME,Hero,Held
+ACHIEVEMENT_MASTER110_DESC,Complete the last Master Quest,Schließe die letzte Master Quest ab
+ACHIEVEMENT_MASTER120_NAME,Hero,Hero
 ACHIEVEMENT_MASTER120_NAME2,Hero 120 - 125,Hero 120 - 125
-ACHIEVEMENT_MASTER120_DESC,Complete the Hero Quest,Schließe die Helden-Quest ab.
+ACHIEVEMENT_MASTER120_DESC,Complete the Hero Quest,Schließe die Hero-Quest ab.
 ACHIEVEMENT_FWCPARTICIPANT_NAME,FWC Participant,FWC Teilnehmer
 ACHIEVEMENT_FWCPARTICIPANT_DESC,Reach level 16 in the Flyff World Championship.,Erreiche Level 16 in der Flyff-Weltmeisterschaft.
 ACHIEVEMENT_FWCHERO_NAME,FWC Contender,FWC Herausforderer
@@ -1013,9 +1013,9 @@ ACHIEVEMENT_RAINBOWRACE_DESC,A unique reward for those who win the Rainbow Race.
 ACHIEVEMENT_RAINBOWRACE_TITLE,Speed Demon,Geschwindigkeitsdämon
 ACHIEVEMENT_RAINBOWRACE_WINS_NAME,Rainbow Race Champion,Regenbogenrennen-Sieger
 ACHIEVEMENT_RAINBOWRACE_WINS_DESC,Unique rewards based on how many Rainbow Race wins you can get!,"Einzigartige Belohnungen, je nachdem, wie viele Regenbogenrennen du gewinnen kannst!"
-ACHIEVEMENT_MASTER110_TITLE,Master,Meister
+ACHIEVEMENT_MASTER110_TITLE,Master,Master
 ACHIEVEMENT_DAILY_PLAY_TIME_PREMIUM_DESC,Use fCoin to earn additional attendance rewards.,fCoins benutzen um zusätzliche Teilnahmebelohnungen zu erhalten.
-ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_NAME,Connection Pack,Connection Pack
+ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_NAME,Connection Pack,Verbindungs Paket
 ACHIEVEMENT_TOTAL_CONNECTION_PREMIUM_DESC,Log in a certain number of times to earn premium rewards.,Nach einer bestimmten Anzahl von Logins verdient man Belohnungen.
 ACHIEVEMENT_FWC_2024_BEGINNER_NAME,2024 FWC Beginner,2024 FWC Anfänger
 ACHIEVEMENT_FWC_2024_COMBATANT_NAME,2024 FWC Combatant,2024 FWC Kämpfer
@@ -1024,7 +1024,7 @@ ACHIEVEMENT_FWC_2024_VANQUISHER_NAME,2024 FWC Vanquisher,2024 FWC Bezwinger
 ACHIEVEMENT_FWC_2024_VANQUISHER_DESC,Reach level 100 in the Flyff World Championship.,Erreiche bei der Flyff Weltmeisterschaft Level 100.
 ACHIEVEMENT_FWC_2024_MASTER_NAME,2024 FWC Master,2024 FWC Meister
 ACHIEVEMENT_FWC_2024_MASTER_DESC,Reach level 160 in the Flyff World Championship.,Erreiche bei der Flyff Weltmeisterschaft Level 160.
-ACHIEVEMENT_FWC_2024_EMPEROR_NAME,2024 FWC Emperor,2024 FWC Kaiser
+ACHIEVEMENT_FWC_2024_EMPEROR_NAME,2024 FWC Emperor,2024 FWC Imperator
 ACHIEVEMENT_FWC_2024_EMPEROR_DESC,Complete all Gear Exchange in the Flyff World Championship.,Schließe bei der Flyff-Weltmeisterschaft alle Ausrüstungstauschaktionen ab.
 ACHIEVEMENT_COUPLE_FORM_01_NAME,Couple 1,Partnerschaft 1
 ACHIEVEMENT_COUPLE_FORM_01_TITLE,Solo Escape,Alleingänger
@@ -1117,9 +1117,9 @@ ACHIEVEMENT_SMITHING_TITLE04,Master Smith,Meisterschmied
 ACHIEVEMENT_SMITHING_POINTS_DESC,Raise your Smithing mastery.,Steigere deine Schmiedekunst-Meisterschaft.
 ACHIEVEMENT_FWCPVP2WINNER_NAME,2024 FWC Arena Champion,FWC Arena Champion 2024
 ACHIEVEMENT_FWCPVP2WINNER_DESC,Win the Flyff World Championship 2024 PvP Competition.,Gewinne den Flyff World Championship 2024 PvP-Wettbewerb.
-ACHIEVEMENT_FWCPVP2SECOND_NAME,2024 FWC Arena 2nd,FWC Arena 2. Platz 2024
+ACHIEVEMENT_FWCPVP2SECOND_NAME,2024 FWC Arena 2nd,FWC Arena 2. 2024
 ACHIEVEMENT_FWCPVP2SECOND_DESC,Get second place in the Flyff World Championship 2024 PvP Competition.,Erreiche den 2. Platz im Flyff World Championship 2024 PvP-Wettbewerb.
-ACHIEVEMENT_FWCPVP2THIRD_NAME,2024 FWC Arena 3rd,FWC Arena 3. Platz 2024
+ACHIEVEMENT_FWCPVP2THIRD_NAME,2024 FWC Arena 3rd,FWC Arena 3. 2024
 ACHIEVEMENT_FWCPVP2THIRD_DESC,Get third place in the Flyff World Championship 2024 PvP Competition.,Erreiche den 3. Platz im Flyff World Championship 2024 PvP-Wettbewerb.
 ACHIEVEMENT_FWCPVP2FINALIST_NAME,2024 FWC Arena Finalist,FWC Arena Finalist 2024
 ACHIEVEMENT_FWCPVP2FINALIST_DESC,Participate to the Flyff World Championship 2024 PvP Finals.,Nimm an dem Flyff World Championship 2024 PvP-Finale teil.
@@ -1241,17 +1241,17 @@ ACHIEVEMENT_FWC_2025_MASTER_NAME,2025 FWC Master,FWC 2025 Meister
 ACHIEVEMENT_FWC_2025_DAILY_PLAY_DESC,Use FWC additional attendance coupon to earn rewards.\nYou can obtain the item through 2025 FWC Championship Pass Free reward!,Benutze den zusätzlichen FWC-Anwesenheitscoupon, um Belohnungen zu erhalten.\nDu erhältst den Gegenstand über die kostenlose Belohnung des 2025 FWC Championship Pass!
 ACHIEVEMENT_FWC_2025_PVE_1ST_NAME,2025 FWC Colosseum Champion,FWC 2025 Kolosseum Champion
 ACHIEVEMENT_FWC_2025_PVE_1ST_DESC,Win the Flyff World Championship 2025 PvE competition.,Gewinne den Flyff World Championship 2025 PvE-Wettbewerb.
-ACHIEVEMENT_FWC_2025_PVE_2ND_NAME,2025 FWC Colosseum 2nd,FWC 2025 Kolosseum 2. Platz
+ACHIEVEMENT_FWC_2025_PVE_2ND_NAME,2025 FWC Colosseum 2nd,FWC 2025 Kolosseum 2.
 ACHIEVEMENT_FWC_2025_PVE_2ND_DESC,Get second place in the Flyff World Championship 2025 PvE Competition.,Erreiche den 2. Platz im Flyff World Championship 2025 PvE-Wettbewerb.
-ACHIEVEMENT_FWC_2025_PVE_3RD_NAME,2025 FWC Colosseum 3rd,FWC 2025 Kolosseum 3. Platz
+ACHIEVEMENT_FWC_2025_PVE_3RD_NAME,2025 FWC Colosseum 3rd,FWC 2025 Kolosseum 3.
 ACHIEVEMENT_FWC_2025_PVE_3RD_DESC,Get third place in the Flyff World Championship 2025 PvE Competition.,Erreiche den 3. Platz im Flyff World Championship 2025 PvE-Wettbewerb.
 ACHIEVEMENT_FWC_2025_PVE_PARTICIPANT_NAME,2025 FWC Colosseum Participant,FWC 2025 Kolosseum Teilnehmer
 ACHIEVEMENT_FWC_2025_PVE_PARTICIPANT_DESC,Participate to the Flyff World Championship 2025 PvE Competition.,Nimm am Flyff World Championship 2025 PvE-Wettbewerb teil.
 ACHIEVEMENT_FWC_2025_PVP_1ST_NAME,2025 FWC Arena Champion,FWC 2025 Arena Champion
 ACHIEVEMENT_FWC_2025_PVP_1ST_DESC,Win the Flyff World Championship 2025 PvP Competition.,Gewinne den Flyff World Championship 2025 PvP-Wettbewerb.
-ACHIEVEMENT_FWC_2025_PVP_2ND_NAME,2025 FWC Arena 2nd,FWC 2025 Arena 2. Platz
+ACHIEVEMENT_FWC_2025_PVP_2ND_NAME,2025 FWC Arena 2nd,FWC 2025 Arena 2.
 ACHIEVEMENT_FWC_2025_PVP_2ND_DESC,Get second place in the Flyff World Championship 2025 PvP Competition.,Erreiche den 2. Platz im Flyff World Championship 2025 PvP-Wettbewerb.
-ACHIEVEMENT_FWC_2025_PVP_3RD_NAME,2025 FWC Arena 3rd,FWC 2025 Arena 3. Platz
+ACHIEVEMENT_FWC_2025_PVP_3RD_NAME,2025 FWC Arena 3rd,FWC 2025 Arena 3.
 ACHIEVEMENT_FWC_2025_PVP_3RD_DESC,Get third place in the Flyff World Championship 2025 PvP Competition.,Erreiche den 3. Platz im Flyff World Championship 2025 PvP-Wettbewerb.
 ACHIEVEMENT_FWC_2025_PVP_FINALIST_NAME,2025 FWC Arena Finalist,FWC 2025 Arena Finalist
 ACHIEVEMENT_FWC_2025_PVP_FINALIST_DESC,Participate to the Flyff World Championship 2025 PvP Finals.,Nimm an den Flyff World Championship 2025 PvP-Finals teil.
@@ -1295,7 +1295,7 @@ ACHIEVEMENT_TAKETHEANKOUSASYLUM_DESC,Challenge yourself to a new dungeon and def
 ACHIEVEMENT_KILL_ANKOU,Defeat Ankou,Besiege Ankou
 ACHIEVEMENT_KILL_BLAZINGANKOU,Defeat Blazing Ankou,Besiege den Blazing Ankou
 ACHIEVEMENT_KILL_DEMONICANKOU,Defeat Demonic Ankou,Besiege den Demonic Ankou
-ACHIEVEMENT_SYNTHESIZE_ULTIMATE_JEWEL_NAME,Ultimate Jewel Synthesis Event,Ultimative Juwelen Synthese-Event
+ACHIEVEMENT_SYNTHESIZE_ULTIMATE_JEWEL_NAME,Ultimate Jewel Synthesis Event,Synthese-Event für Ultimative Juwelen
 ACHIEVEMENT_SYNTHESIZE_ULTIMATE_JEWEL_DESC,Synthesize Ultimate Jewels and earn rewards during the event!,Synthese von Ultimativen Juwelen durchführen und während des Events Belohnungen erhalten!
 ACHIEVEMENT_LEVEL_LVL13,Specialist Level 1,Spezialist Level 1
 ACHIEVEMENT_LEVEL_LVL14,Specialist Level 2,Spezialist Level 2
