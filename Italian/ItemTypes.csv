@@ -13,7 +13,7 @@ ITEMTYPE_COSTUME,Costume,Costume
 ITEMTYPE_SHOES,Shoes,Scarpe
 ITEMTYPE_PICKUP,Pick-Up Pet,Compagno Raccoglitore
 ITEMTYPE_REAR_PET,Raised Pet,Compagno Allevato
-ITEMTYPE_CONSUMABLE,Consumable,Matierialo di Consumo
+ITEMTYPE_CONSUMABLE,Consumable,Materiale di consumo
 ITEMTYPE_BOARD,Board,Board
 ITEMTYPE_CAR,Car,Auto
 ITEMTYPE_WINGS,Wings,Ali
