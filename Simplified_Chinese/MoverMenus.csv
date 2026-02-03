@@ -13,7 +13,7 @@ MMI_10,Duel,申请对战
 MMI_11,Request party duel,申请剧团对战
 MMI_12,Follow,跟随
 MMI_13,Beauty Shop,理发店
-MMI_14,Repair,维修
+MMI_14,Repair,修理
 MMI_15,Guild Warehouse,公会仓库
 MMI_16,Guild ranking,公会排名
 MMI_17,Guild war ranking,公会战排名
@@ -56,13 +56,13 @@ MMI_81,Leave Arena,离开竞技场地区
 MMI_82,Arena Ranking,竞技场排名
 MMI_83,Arena Reward,竞技场奖励
 MMI_134,Upgrading,精炼
-MMI_136,Piercing,Piercing
+MMI_136,Piercing,穿洞精炼
 MMI_167,Element Upgrading,属性精炼
 MMI_142,Store Pet,收回宠物
 MMI_272,Exchange RPS Coupon,兑换猜拳券
 MMI_309,Card Upgrade,卡片合成
 MMI_310,Weapon Socket Card Reshuffle,Weapon Socket Card Reshuffle
-MMI_311,Couple proposal,Couple proposal
+MMI_311,Couple proposal,伴侣请求
 MMI_1000,Drop Filter,拾取过滤
 MMI_1001,Report,举报
 MMI_1002,Inspect,查看
@@ -120,7 +120,7 @@ MMI_1057,Enter in Guild House,Enter in Guild House
 MMI_1058,Enter Your House,进入你的房屋
 MMI_1059,Select House Template,选择房屋模板
 MMI_1060,Visit Friend's House,参观朋友的房屋
-MMI_1061,Edit,Edit
+MMI_1061,Edit,编辑
 MMI_1062,Remove,移除
 MMI_1063,Exchange Earrings,兑换耳环
 MMI_1064,Exchange Necklaces,兑换项链
@@ -133,15 +133,15 @@ MMI_1072,Kalgas Assault Enter,卡尔加斯突袭入场
 MMI_1073,Kalgas Assault Rank,卡尔加斯突袭排名
 MMI_1074,Kalgas Assault Info,相关信息
 MMI_1075,Kalgas Chip Shop,卡尔加斯纸片商店
-MMI_1076,Couple's Storage,Couple's Storage
+MMI_1076,Couple's Storage,伴侣仓库
 MMI_1077,Create Ultimate Jewel,制作终极珠宝
 MMI_1078,Fuse Ultimate Jewel,融合终极珠宝
-MMI_1079,Teleport,Teleport
+MMI_1079,Teleport,传送
 MMI_1080,Sea Shell Upgrading,Sea Shell Upgrading
 MMI_1081,Fuse Rainbow Jewel,Fuse Rainbow Jewel
 MMI_1082,Dismantle Rainbow Jewel,Dismantle Rainbow Jewel
-MMI_1083,Pet Training,Pet Training
-MMI_1084,Teleport,Teleport
+MMI_1083,Pet Training,宠物驯练
+MMI_1084,Teleport,传送
 MMI_1085,Individual Race (Item),Individual Race (Item)
 MMI_1086,Individual Race (Speed),Individual Race (Speed)
 MMI_1087,Duo Team Race (Item),Duo Team Race (Item)

@@ -535,27 +535,27 @@ PROPSKILL_TXT_150028,Agility,Agility
 PROPSKILL_TXT_150029,Movement speed temporarily increases after leaving invisibility.,Movement speed temporarily increases after leaving invisibility.
 PROPSKILL_TXT_150030,Concentration [Nen],Concentration [Nen]
 PROPSKILL_TXT_150031,Focus your mind to gain Nen when used. Can gain up to 10 Nen with this skill. The effects of Nen stacks are multiplied by the number of stacks you currently have.,Focus your mind to gain Nen when used. Can gain up to 10 Nen with this skill. The effects of Nen stacks are multiplied by the number of stacks you currently have.
-PROPSKILL_TXT_150032,Forced Critical Hit,Forced Critical Hit
+PROPSKILL_TXT_150032,Forced Critical Hit,强制暴击
 PROPSKILL_TXT_150033,Your next auto attack is guaranteed to be a critical hit.,Your next auto attack is guaranteed to be a critical hit.
 PROPSKILL_TXT_150034,"Your critical chance is capped at 10%, while greatly increasing critical damage.","Your critical chance is capped at 10%, while greatly increasing critical damage."
-PROPSKILL_TXT_150035,Barrage,Barrage
+PROPSKILL_TXT_150035,Barrage,弹幕
 PROPSKILL_TXT_150036,Normal attacks have a chance to fire double arrows.,Normal attacks have a chance to fire double arrows.
 PROPSKILL_TXT_150037,Increased Strike,Increased Strike
 PROPSKILL_TXT_150038,Maintain Buff,Maintain Buff
-PROPSKILL_TXT_150040,Heavy Shot,Heavy Shot
+PROPSKILL_TXT_150040,Heavy Shot,重箭
 PROPSKILL_TXT_150041,Knocks back the target with an arrow.,Knocks back the target with an arrow.
 PROPSKILL_TXT_150042,Increased Knockback,Increased Knockback
 PROPSKILL_TXT_150043,Group Knockback,Group Knockback
-PROPSKILL_TXT_150045,Repelling Shot,Repelling Shot
+PROPSKILL_TXT_150045,Repelling Shot,击退箭
 PROPSKILL_TXT_150046,Leap backwards after attacking the target.,Leap backwards after attacking the target.
 PROPSKILL_TXT_150047,Long Jump,Long Jump
 PROPSKILL_TXT_150048,Debuff,Debuff
-PROPSKILL_TXT_150050,Condor Dive,Condor Dive
+PROPSKILL_TXT_150050,Condor Dive,猎鹰扑击
 PROPSKILL_TXT_150051,Unleashes an area attack within the designated range.,Unleashes an area attack within the designated range.
 PROPSKILL_TXT_150054,Quiver Master,Quiver Master
 PROPSKILL_TXT_150055,Swift Hands,Swift Hands
 PROPSKILL_TXT_150056,Your action speed increases when using non-magical skills.,Your action speed increases when using non-magical skills.
-PROPSKILL_TXT_150057,Eagle Eye,Eagle Eye
+PROPSKILL_TXT_150057,Eagle Eye,鹰眼
 PROPSKILL_TXT_150058,Call upon your inherent eagle to increase bow range.,Call upon your inherent eagle to increase bow range.
 PROPSKILL_TXT_150059,Arcane Enchantment,Arcane Enchantment
 PROPSKILL_TXT_150060,Provide Elemental status to the skills..,Provide Elemental status to the skills..
@@ -782,7 +782,7 @@ PROPSKILL_TXT_150200,Tempest Barrage,Tempest Barrage
 PROPSKILL_TXT_150201,Creates a sword aura that damages nearby enemies and increases defense.,Creates a sword aura that damages nearby enemies and increases defense.
 PROPSKILL_TXT_150202,Speed Increase,Speed Increase
 PROPSKILL_TXT_150203,Bleeding,流血
-PROPSKILL_TXT_150205,First Blood,First Blood
+PROPSKILL_TXT_150205,First Blood,第一滴血
 PROPSKILL_TXT_150206,"Deal more skill damage at the cost of extra HP cost, and restore HP when defeating bleeding enemies.","Deal more skill damage at the cost of extra HP cost, and restore HP when defeating bleeding enemies."
 PROPSKILL_TXT_150207,Left Handed,Left Handed
 PROPSKILL_TXT_150208,Sub-weapon attacks deal increased damage with normal attacks.,Sub-weapon attacks deal increased damage with normal attacks.
@@ -868,12 +868,12 @@ PROPSKILL_TXT_150310,Touch of Rhisis,Touch of Rhisis
 PROPSKILL_TXT_150311,Casts an aura that increases nearby allies’ defense and block rate. Cannot be used with other auras at the same time. Can be re-cast to cancel.,Casts an aura that increases nearby allies’ defense and block rate. Cannot be used with other auras at the same time. Can be re-cast to cancel.
 PROPSKILL_TXT_150315,Ire of Iblis,Ire of Iblis
 PROPSKILL_TXT_150316,Casts an aura that increases allies’ critical resistance. Can be re-cast to cancel.,Casts an aura that increases allies’ critical resistance. Can be re-cast to cancel.
-PROPSKILL_TXT_150320,Meditate,Meditate
+PROPSKILL_TXT_150320,Meditate,冥想
 PROPSKILL_TXT_150321,"Enter a meditative state that reduces damage taken, shortens natural HP recovery time, and increases healing effects. Can be re-cast to cancel.","Enter a meditative state that reduces damage taken, shortens natural HP recovery time, and increases healing effects. Can be re-cast to cancel."
-PROPSKILL_TXT_150322,Deep Meditation,Deep Meditation
+PROPSKILL_TXT_150322,Deep Meditation,深度冥想
 PROPSKILL_TXT_150323,Adamantine Body,Adamantine Body
-PROPSKILL_TXT_150324,Nen Mastery,Nen Mastery
-PROPSKILL_TXT_150325,Nen Storage,Nen Storage
+PROPSKILL_TXT_150324,Nen Mastery,念力精通
+PROPSKILL_TXT_150325,Nen Storage,念力蓄积
 PROPSKILL_TXT_150326,Nen-consuming skills may consume only half the required stacks.,Nen-consuming skills may consume only half the required stacks.
 PROPSKILL_TXT_150327,Mental Unity,Mental Unity
 PROPSKILL_TXT_150328,Reduces the maximum MP penalty from Nen stacks.,Reduces the maximum MP penalty from Nen stacks.

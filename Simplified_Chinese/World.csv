@@ -1,6 +1,6 @@
 ﻿Key,English,Simplified_Chinese
-DUASYLUM_WLD_000000,Ankou's Asylum,Ankou's Asylum
-DUASYLUM_WLD_000001,Ankou's Cell,Ankou's Cell
+DUASYLUM_WLD_000000,Ankou's Asylum,安库的庇护所
+DUASYLUM_WLD_000001,Ankou's Cell,安库的囚牢
 DUCAVERN_WLD_000000,Leren Chasm (Instance Dungeon),乐雅裂痕（副本）
 DUHERNEOS_WLD_000000,Herneos (Dungeon),赫涅奥斯 (地牢)
 DUDADK_WLD_000000,Dekane Mine (Dungeon),达肯矿洞 (地牢)
@@ -10,13 +10,13 @@ DURUINS_WLD_000000,Rhisis Catacombs (Instance Dungeon),莱斯神之墓（副本�
 DURUSTIA_WLD_000000,The Wilds,荒野
 DUSATEMPLE_WLD_000000,Iblis Temple (Dungeon),幻魔依普利神殿 (地牢)
 DUSTORM_WLD_000000,Storm Peak (Instance Dungeon),风暴之巅 (副本)
-DUUNDERWATER_WLD_000000,Envy Depths (Instance Dungeon),渴望深渊（副本）
+DUUNDERWATER_WLD_000000,Envy Depths (Instance Dungeon),渴望深渊 (副本)
 DUVOLKANE_WLD_000000,Volkane,熔岩秘境
 DUVOLKANE_WLD_000001,Volkane (Dungeon),熔岩秘境 (地牢)
 WDARENA_WLD_000000,Arena,竞技场
 WDARENA_WLD_000001,You can PvP in the Arena.,你可以在竞技场中与其他玩家对战。
-WDARENA_WLD_000002,Training Center,Training Center
-WDARENA_WLD_000003,Test your capabilities against dummies!,Test your capabilities against dummies!
+WDARENA_WLD_000002,Training Center,训练中心
+WDARENA_WLD_000003,Test your capabilities against dummies!,攻击训练稻草人检验你的实力吧！
 WDARENA_WLD_000004,,
 WDARENA_WLD_000005,,
 WDARENA_WLD_000006,The Bronze Vagrant,The Bronze Vagrant
@@ -83,8 +83,8 @@ WDMADRIGAL_WLD_000039,Orbalune Port,奥巴伦港
 WDMADRIGAL_WLD_000040,This is a safe place.,这里很安全。
 WDMADRIGAL_WLD_000041,Kaillun Grassland,凯伦草原
 WDMADRIGAL_WLD_000042,Dreknir Ridge,德雷克尼尔山脊
-WDMADRIGAL_WLD_000043,Lionrath Falls,Lionrath Falls
-WDMADRIGAL_WLD_000044,Velora Cliffs,Velora Cliffs
+WDMADRIGAL_WLD_000043,Lionrath Falls,莱昂拉斯瀑布
+WDMADRIGAL_WLD_000044,Velora Cliffs,维洛拉峭壁
 WDMADRIGAL_WLD_000045,Dreknir Forest,德雷克尼尔森林
 WDMADRIGAL_WLD_000046,Ankou's Asylum Entrance,安库的庇护所入口
 WDMADRIGAL_WLD_000047,This is a safe place.,这里很安全。
