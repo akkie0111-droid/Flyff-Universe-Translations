@@ -91,7 +91,7 @@ TEXTCLIENT_ERROR_SEX,%s is not for your gender.,%s ist nicht für dein Geschlech
 TEXTCLIENT_ERROR_JOB,You cannot equip the %s. Requirements not met.,Du kannst %s nicht ausrüsten. Voraussetzungen nicht erfüllt.
 TEXTCLIENT_ERROR_LEVEL,You cannot equip this item because your level is too low. (Req Lev: %d),Du kannst diesen Gegenstand nicht ausrüsten weil dein Level zu niedrig ist. (Benötigtes Level: %d)
 TEXTCLIENT_ERROR_UNDESTRUCTABLE,You can not discard this item.,"Dieses Item kann weder gelöscht, noch auf den Boden geworfen werden. "
-TEXTCLIENT_ERROR_USINGITEM,You are already using this item.,Sie nutzen diese Item bereits.
+TEXTCLIENT_ERROR_USINGITEM,You are already using this item.,Sie nutzen dieses Item bereits.
 TEXTCLIENT_SUCCESSREMOVEITEM,Number of %s deleted: %d.,Anzahl %s gelöscht: %d.
 TEXTCLIENT_NOTARGET,"Cannot attack, no monster targeted.","Kein Angriff möglich, kein Monster ausgewählt."
 TEXTCLIENT_NOTUSE,You cannot use this yet.,Du kannst das jetzt nicht benutzen.
