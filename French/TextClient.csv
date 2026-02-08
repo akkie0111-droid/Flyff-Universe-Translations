@@ -1273,7 +1273,7 @@ TEXTCLIENT_EVENT_PREFIX,[Event],[Événement]
 TEXTCLIENT_ACCOUNTDISCONNECTED,Account %d disconnected.,Le compte %d a été déconnecté.
 TEXTCLIENT_ACCOUNTNOTEXIST,Account %d does not exist or is not online.,Le compte %d n’existe pas ou n’est pas en ligne.
 TEXTCLIENT_ACCOUNTDISCONNECTSELF,You cannot disconnect yourself.,Vous ne pouvez pas vous déconnecter vous-même.
-TEXTCLIENT_APP_SEARCHSHOP,Search Shop,Recherche de boutique
+TEXTCLIENT_APP_SEARCHSHOP,Search Shop,Rech. boutique
 TEXTCLIENT_PARTY_READY_ON,There is already a ready check in progress.,Une vérification de préparation est déjà en cours.
 TEXTCLIENT_PIRATESHIP_APPEARS,There is a Pirate Ship above the Madrigal!!,Un bateau pirate est apparu au-dessus de Madrigal !!
 TEXTCLIENT_PARTY_READY_LEADER,"Only the leader may start a ready check, and there is not one currently in progress.","Seul le chef peut lancer une vérification de préparation, et aucune n’est actuellement en cours."
