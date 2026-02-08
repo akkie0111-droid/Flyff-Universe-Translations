@@ -1481,7 +1481,7 @@ TEXTCLIENT_STATUE_KNIGHT,"Noble defenders, bound by honor and unbreakable resolv
 TEXTCLIENT_STATUE_BLADE,"Agile warriors, masters of swift, lethal strikes.","Agile warriors, masters of swift, lethal strikes."
 TEXTCLIENT_STATUE_ELE,"Powerful sorcerers, commanding the raw forces of nature.","Powerful sorcerers, commanding the raw forces of nature."
 TEXTCLIENT_STATUE_PSY,"Enigmatic mystics, harnessing the power of the mind.","Enigmatic mystics, harnessing the power of the mind."
-TEXTCLIENT_STATUE_VAGRANT,The start of all. You are Vagrant.,Awal dari segalanya. Kau adalah Vagrant.
+TEXTCLIENT_STATUE_VAGRANT,The start of all. You are Vagrant.,Awal dari segalanya. Kamu adalah Vagrant.
 TEXTCLIENT_PRODUCTION_RECIPE_UNLOCK_FAIL,Failed to reveal a recipe.,Gagal mengungkapkan resepnya.
 TEXTCLIENT_ARENA_LIMITED,You cannot use that in the arena.,You cannot use that in the arena.
 TEXTCLIENT_CANTUSEAWAKENING,You can't use an item while it's being awakened.,You can't use an item while it's being awakened.
