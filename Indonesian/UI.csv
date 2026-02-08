@@ -2375,7 +2375,7 @@ UI_MENU_UNSPECIFIED,Unspecified,Unspecified
 UI_OPTION_KEYREPEAT,Holding Keys,Holding Keys
 UI_DELETEACCOUNT_TITLE,Delete Account,Hapus Akun
 UI_DELETEACCOUNT_PASS,Password for deleting account\nEnter the password,Kata sandi untuk menghapus akun\nMasukkan kata sandi
-UI_DELETEACCOUNT_NOPASS,Do you confirm?,Apakah kamu mengkonfirmasi?
+UI_DELETEACCOUNT_NOPASS,Do you confirm?,Apakah Anda mengonfirmasi?
 UI_DELETEACCOUNT_NOTICE,"When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies.","When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies."
 UI_APP_SEARCHSHOP_TIP,Find items in Personal and Vendor shops.,Find items in Personal and Vendor shops.
 UI_SEARCHSHOP_RARITY,Rarity,Rarity
