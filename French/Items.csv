@@ -12529,54 +12529,54 @@ PROPITEM_TXT_160006,Island Bait,Appât de l'Île
 PROPITEM_TXT_160007,Delicious bait made by Pau Pau to lower the guard of the Naga.,Délicieux appât fabriqué par Pau Pau pour faire baisser la garde des Nagaros.
 PROPITEM_TXT_160008,Evidence of Victory,Preuve de Victoire
 PROPITEM_TXT_160009,Remains of the Naga you've defeated to help the village of Coral Island.,Les restes des Nagaros que vous avez vaincues pour aider le village de l'Île Corail.
-PROPITEM_TXT_160010,Head of the Lord Naga,Head of the Lord Naga
-PROPITEM_TXT_160011,Remains of the Lord Naga.,Remains of the Lord Naga.
-PROPITEM_TXT_160012,Head of the Overlord Naga,Head of the Overlord Naga
-PROPITEM_TXT_160013,Remains of the Overlord Naga.,Remains of the Overlord Naga.
+PROPITEM_TXT_160010,Head of the Lord Naga,Tête du Seigneur Naga
+PROPITEM_TXT_160011,Remains of the Lord Naga.,Restes du Seigneur Naga.
+PROPITEM_TXT_160012,Head of the Overlord Naga,Tête du Naga Suprême
+PROPITEM_TXT_160013,Remains of the Overlord Naga.,Restes du seigneur Naga.
 PROPITEM_TXT_160014,Coral Island Metal Scrap,Déchet Métallique de l'Île Corail
 PROPITEM_TXT_160015,Metal scraps found on the bodies of Dorian and Okean.,Déchet métallique trouvé sur les corps de Dorians et Okéans.
-PROPITEM_TXT_160016,Lord Dorian Gear,Lord Dorian Gear
+PROPITEM_TXT_160016,Lord Dorian Gear,Équipement du Seigneur Dorian
 PROPITEM_TXT_160017,A gear that can only be found from the largest Dorian.,Equipement qui peut seulement être trouvé sur le plus grand des Dorians.
-PROPITEM_TXT_160018,Lord Okean Crown,Lord Okean Crown
+PROPITEM_TXT_160018,Lord Okean Crown,Couronne du Seigneur Okean
 PROPITEM_TXT_160019,A crown that can only be found from the largest Okean.,Couronne qui peut seulement être trouvée du plus grand des Okéans.
 PROPITEM_TXT_160020,Champion's Ring,Anneau du Champion
-PROPITEM_TXT_160021,Increases STR. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente la FOR. Peut être amélioré avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160021,Increases STR. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente la FOR. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160022,Defender's Ring,Anneau du Défenseur
-PROPITEM_TXT_160023,Increases STA. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente l'END. Peut être amélioré avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160023,Increases STA. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente l'END. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160024,Adept's Ring,Anneau de l'Adepte
-PROPITEM_TXT_160025,Increases INT. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente l'INT. Peut être amélioré avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160025,Increases INT. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente l'INT. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160026,Marksman's Ring,Anneau de l'Archer
-PROPITEM_TXT_160027,Increases DEX. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente la DEX. Peut être amélioré avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160027,Increases DEX. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente la DEX. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160028,Champion's Gore Necklace,Collier Gore du Champion
-PROPITEM_TXT_160029,Increases Max HP. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente les PV Max. Peut être amélioré avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160029,Increases Max HP. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente les PV Max. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160030,Adept's Mental Necklace,Collier Mental de l'Adepte
-PROPITEM_TXT_160031,Increases Max MP. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente les Max PM. Peut être amélioré avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160031,Increases Max MP. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente les Max PM. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160032,Defender's Peision Necklace,Collier Paison du Défenseur
-PROPITEM_TXT_160033,Increases Max FP. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente les PF Max. Peut être amélioré avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160033,Increases Max FP. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente les PF Max. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160034,Champion's Demol Earring,Boucle Demol du Champion
-PROPITEM_TXT_160035,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente l'ATQ. Peut être améliorée avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160035,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente l'ATQ. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160036,Defender's Plug Earring,Boucle Plug du Défenseur
-PROPITEM_TXT_160037,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente la Défense. Peut être améliorée avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160037,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente la Défense. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160038,Defender's Gore Necklace,Collier Gore du Défenseur
 PROPITEM_TXT_160040,Marksman's Gore Necklace,Collier Gore de l'Archer
 PROPITEM_TXT_160042,Adept's Gore Necklace,Collier Gore de l'Adepte
 PROPITEM_TXT_160044,Marksman's Demol Earring,Boucle Demol de l'Archer
-PROPITEM_TXT_160045,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente l'ATQ. Peut être améliorée avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160045,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente l'ATQ. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160046,Adept's Demol Earring,Boucle Demol de l'Adepte
-PROPITEM_TXT_160047,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente l'ATQ. Peut être améliorée avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160047,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente l'ATQ. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160048,Marksman's Mental Necklace,Collier Mental de l'Archer
-PROPITEM_TXT_160049,Increases Max MP. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente les Max PM. Peut être amélioré avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160049,Increases Max MP. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente les Max PM. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160050,Champion's Mental Necklace,Collier Mental du Champion
 PROPITEM_TXT_160052,Champion's Peision Necklace,Collier Paison du Champion
-PROPITEM_TXT_160053,Increases Max FP. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente les PF Max. Peut être amélioré avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160053,Increases Max FP. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente les PF Max. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160054,Defender's Demol Earring,Boucle Demol du Défenseur
-PROPITEM_TXT_160055,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente l'ATQ. Peut être améliorée avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160055,Increases Attack Power. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente l'ATQ. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160056,Champion's Plug Earring,Boucle Plug du Champion
-PROPITEM_TXT_160057,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente la Défense. Peut être améliorée avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160057,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente la Défense. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160058,Adept's Plug Earring,Boucle Plug de l'Adepte
-PROPITEM_TXT_160059,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente la Défense. Peut être améliorée avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160059,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente la Défense. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160060,Marksman's Plug Earring,Boucle Plug de l'Archer
-PROPITEM_TXT_160061,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente la Défense. Peut être améliorée avec un Orichalque jusqu'au niveau 5 Ultime.
+PROPITEM_TXT_160061,Increases Defense. Can be upgraded with a Sunstone up to Ultimate level 5.,Augmente la Défense. Peut être amélioré avec un Orichalque et un parchemin XProtect jusqu'au niveau 10 Ultime.
 PROPITEM_TXT_160062,Ultima,Ultima
 PROPITEM_TXT_160063,A powerful essence that could one day contain Ultimate energy.,Une essence puissante qui pourrait un jour contenir l'énergie Ultime.
 PROPITEM_TXT_160064,Blinkwing of Coral Island,Élytre de l'Île Corail
@@ -14044,7 +14044,7 @@ PROPITEM_TXT_722449,Emerald Explorer Red Swords,Épées Rouges Explorateur Émer
 PROPITEM_TXT_722450,Door Prize Package,Pack Cadeau de Présence
 PROPITEM_TXT_722451,"A package containing 5x Scroll of Amplification ES, 1x Extra Bag (30 Days) and 8x Grilled Eel. All items are also linked.","Un pack contenant 5x Parchemin de Maîtrise ES, 1x Sac Supplémentaire (30 jours) et 8x Anguille Grillée. Tous les objets sont aussi liés."
 PROPITEM_TXT_722452,Early Bird Package,Pack Lève-Tôt
-PROPITEM_TXT_722453,"A package containing 15x Upcut Stone, 15x Vital Drink X or Refresher Hold, 10x Scroll of Amplification ES and 20x Scroll of Return. All items are also linked.","Un pack contenant 15x Pierre d’Mars, 15x Boisson Vitale X ou Refresher Hold, 10x Parchemin de Maîtrise ES et 20x Parchemin de Retour. Tous les objets sont aussi liés."
+PROPITEM_TXT_722453,"A package containing 15x Upcut Stone, 15x Vital Drink X or Refresher Hold, 10x Scroll of Amplification ES and 20x Scroll of Return. All items are also linked.","Un pack contenant 15x Pierre d’Mars, 15x Boisson Énergétique X ou Fiole de Mana X, 10x Parchemin de Maîtrise ES et 20x Parchemin de Retour. Tous les objets sont aussi liés."
 PROPITEM_TXT_230220,Extended February Pass,Pass de Février Étendu
 PROPITEM_TXT_230221,This purchase gives you many advantages during the February Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,Cet achat te donne de nombreux avantages pendant la saison du Pass de Février :\n-Plus de récompenses de Battle Pass\n-Banque commune\n-2 jours de boutiques vendeurs\n-Carburant d’accélération illimité\n-Verrouillage d’EXP illimité\n-Carte des donjons et navigateur\n-Améliorations sécurisées plus rapides\n-1 entrée de donjon gratuite en plus\n-5 téléportations quotidiennes vers la boutique recherchée\n...et encore plus à venir avec les mises à jour du jeu !
 PROPITEM_TXT_230224,Extended March Pass,Pass de Mars Étendu
@@ -16252,7 +16252,7 @@ PROPITEM_TXT_132260,This flying board is shaped like a Surfboard,Cette planche v
 PROPITEM_TXT_132261,Hunting Expedition Package,Pack Expédition de Chasse
 PROPITEM_TXT_132262,"A package containing 10x Scroll of Food Shop, 10x Def-Upcut Stone, 20x Potion Select Box, 20x Flask Select Box and 4x Power Scroll. All items are also linked.","Un pack contenant 10x Parchemin de Boutique de Nourriture, 10x Pierre Arès, 20x Boîte de Sélection de Potions, 20x Boîte de Sélection de Fioles et 4x Parchemin de Puissance. Tous les objets sont également liés."
 PROPITEM_TXT_132263,Summer Boost Package,Pack Boost d’Été
-PROPITEM_TXT_132264,"A package containing 3x Scroll of Amplification ES 140, 3x Power Scroll and 10x Vital Drink X or Refresher Hold. All items are also linked.","Un pack contenant 3x Parchemin d’Amplification ES 140, 3x Parchemin de Puissance et 10x Boisson Vitale X ou Refresher Hold. Tous les objets sont également liés."
+PROPITEM_TXT_132264,"A package containing 3x Scroll of Amplification ES 140, 3x Power Scroll and 10x Vital Drink X or Refresher Hold. All items are also linked.","Un pack contenant 3x Parchemin d’Amplification ES 140, 3x Parchemin de Puissance et 10x Boisson Énergétique X ou Fiole de Mana X. Tous les objets sont également liés."
 PROPITEM_TXT_725381,Little Butterflies Brown Set,Ensemble Petits Papillons Marron
 PROPITEM_TXT_725382,Little Butterflies Brown Set (M),Ensemble Petits Papillons Marron (H)
 PROPITEM_TXT_725383,The Little Butterflies Brown Set for male characters.,Ensemble Petits Papillons Marron pour personnages masculins.
@@ -16772,7 +16772,7 @@ PROPITEM_TXT_725823,Select which piercing card piece (7%) you want!,Sélectionne
 PROPITEM_TXT_725824,7 Day Essentials Pack,Pack Essentiels 7 Jours
 PROPITEM_TXT_725825,"A package containing 1x Feed Bag (7 Days), 1x Scroll of PickUp Boost (7 Days), 1x Card Disc (7 Days) and 1x Aura Selection Box (7 Days). All items are also linked.","Un pack contenant 1x Sac de Nourriture (7 Jours), 1x Parchemin Boost de PickUp (7 Jours), 1x Disque de Carte (7 Jours) et 1x Boîte de Sélection d'Aura (7 Jours). Tous les objets sont liés."
 PROPITEM_TXT_725826,Madrigal Survival Kit,Kit de Survie Madrigal
-PROPITEM_TXT_725827,"A package containing 5x Scroll of Resurrection, 5x Def-Upcut Stone, 2x Grilled Eel and 5x Vital Drink X or Refresher Hold. All items are also linked.","Un pack contenant 5x Parchemin de Résurrection, 5x Pierre Arès, 2x Anguille Grillée et 5x Boisson Vitale X ou Refresher Hold. Tous les objets sont liés."
+PROPITEM_TXT_725827,"A package containing 5x Scroll of Resurrection, 5x Def-Upcut Stone, 2x Grilled Eel and 5x Vital Drink X or Refresher Hold. All items are also linked.","Un pack contenant 5x Parchemin de Résurrection, 5x Pierre Arès, 2x Anguille Grillée et 5x Boisson Énergétique X ou Fiole de Mana X. Tous les objets sont liés."
 PROPITEM_TXT_725828,Classy Bear Pack,Pack Ours Chic
 PROPITEM_TXT_725829,"A package containing 1x Teddy Bear Costume Select Box, 1x Polar Bear and 1x Hipster Glasses (Red). All items are also linked.","Un pack contenant 1x Boîte de Sélection Costume Ours en Peluche, 1x Ours Polaire et 1x Lunettes Hipster (Rouge). Tous les objets sont liés."
 PROPITEM_TXT_725830,Fortune Flask Pack (3 Days),Pack Flacon Fortune (3 Jours)
@@ -16784,11 +16784,11 @@ PROPITEM_TXT_725835,A package containing 1x Champion's Bounty Flask (3 Days) and
 PROPITEM_TXT_725836,Champion's Bounty Flask Pack (15 Days),Pack Flacon Récompense Champion (15 Jours)
 PROPITEM_TXT_725837,A package containing 1x Champion's Bounty Flask (15 Days) and 5x Power Scroll. All items are also linked.,Un pack contenant 1x Flacon Récompense Champion (15 Jours) et 5x Parchemins de Puissance. Tous les objets sont liés.
 PROPITEM_TXT_725838,FWC Adventure Pack,Pack Aventure FWC
-PROPITEM_TXT_725839,"A package containing 1x Adventurer's Fortune Flask (7 Days), 7x Def-Upcut Stone, 7x Grilled Eel, 7x Vital Drink X or Refresher Hold, 7x Potion Select Box and 7x Flask Select Box. All items are also linked.","Un pack contenant 1x Flacon Fortune de l'Aventurier (7 Jours), 7x Pierre Arès, 7x Anguille Grillée, 7x Boisson Vitale X ou Refresher Hold, 7x Boîtes de Sélection de Potions et 7x Boîtes de Sélection de Flacons. Tous les objets sont liés."
+PROPITEM_TXT_725839,"A package containing 1x Adventurer's Fortune Flask (7 Days), 7x Def-Upcut Stone, 7x Grilled Eel, 7x Vital Drink X or Refresher Hold, 7x Potion Select Box and 7x Flask Select Box. All items are also linked.","Un pack contenant 1x Flacon Fortune de l'Aventurier (7 Jours), 7x Pierre Arès, 7x Anguille Grillée, 7x Boisson Énergétique X ou Fiole de Mana X, 7x Boîtes de Sélection de Potions et 7x Boîtes de Sélection de Flacons. Tous les objets sont liés."
 PROPITEM_TXT_725840,Android Pre-registration Reward,Récompense Pré-inscription Android
 PROPITEM_TXT_725841,"A package containing 3x Vital Drink or Refresher Hold, 1x Scroll of Amplification ES, 5x Def-Upcut Stone and 5x Scroll of Return. All items are also linked.","Un pack contenant 3x Boisson Vitale ou Refresher Hold, 1x Parchemin d'Amplification ES, 5x Pierre Arès et 5x Parchemins de Retour. Tous les objets sont liés."
 PROPITEM_TXT_725842,Android Milestone Gift Box 1,Boîte Cadeau Étape Android 1
-PROPITEM_TXT_725843,"A package containing 3x Vital Drink X or Refresher Hold, 5x Scroll of Return and 3x Activition. All items are also linked.","Un pack contenant 3x Boisson Vitale X ou Refresher Hold, 5x Parchemins de Retour et 3x Activation. Tous les objets sont liés."
+PROPITEM_TXT_725843,"A package containing 3x Vital Drink X or Refresher Hold, 5x Scroll of Return and 3x Activition. All items are also linked.","Un pack contenant 3x Boisson Énergétique X ou Fiole de Mana X, 5x Parchemins de Retour et 3x Activation. Tous les objets sont liés."
 PROPITEM_TXT_725844,Android Milestone Gift Box 2,Boîte Cadeau Étape Android 2
 PROPITEM_TXT_725845,"A package containing 1x Scroll of Amplification ES, 1x Power Scroll and 1x Grilled Eel. All items are also linked.","Un pack contenant 1x Parchemin d'Amplification ES, 1x Parchemin de Puissance et 1x Anguille Grillée. Tous les objets sont liés."
 PROPITEM_TXT_725846,Android Milestone Gift Box 3,Boîte Cadeau Étape Android 3
@@ -17357,7 +17357,7 @@ PROPITEM_TXT_140050,Shady eye,Œil Sombre
 PROPITEM_TXT_140051,Quest item that drops from Shadowirs,Objet de quête lâché par les Shadowirs
 PROPITEM_TXT_140052,Cursed Wing,Aile Maudite
 PROPITEM_TXT_140053,Quest item that drops from Skelmaw,Objet de quête lâché par les Skelmaw
-PROPITEM_TXT_131906,Yellow Chips,Puces Jaunes
+PROPITEM_TXT_131906,Yellow Chips,Jeton Jaunes
 PROPITEM_TXT_131907,Madrigal Tournament reward (Used to buy items from Waforu).,Récompense du Tournoi Madrigal (Utilisée pour acheter des objets auprès de Waforu)
 PROPITEM_TXT_131908,This will give you a new template for your couple house!,Cela vous donnera un nouveau modèle pour votre maison de couple !
 PROPITEM_TXT_131909,Blank House Template (M) (Couple),Modèle Maison Vide (M) (Couple)
@@ -17403,7 +17403,7 @@ PROPITEM_TXT_133022,Finest Pickaxe,Meilleure Pioche
 PROPITEM_TXT_133023,The finest pickaxe that is used for mining ores. Mining success rate: 70%,La meilleure pioche utilisée pour miner des minerais. Taux de réussite : 70 %
 PROPITEM_TXT_133024,Fishing Rod,Canne à Pêche
 PROPITEM_TXT_133025,"A fishing rod that is used for fishing. Fishing success rate: 40%, chance of catching a large fish: 5%","Une canne à pêche utilisée pour pêcher. Taux de réussite : 40 %, chance d’attraper un gros poisson : 5 %"
-PROPITEM_TXT_133026,Well-maintained Fishing Rod,Canne à Pêche Bien Entretien
+PROPITEM_TXT_133026,Well-maintained Fishing Rod,Canne à Pêche Bien Entretenue
 PROPITEM_TXT_133027,"A fishing rod that is used for fishing. It has been well-maintained. Fishing success rate: 55%, chance of catching large a fish: 6%","Une canne à pêche bien entretenue. Taux de réussite : 55 %, chance d’attraper un gros poisson : 6 %"
 PROPITEM_TXT_133028,New Fishing Rod,Nouvelle Canne à Pêche
 PROPITEM_TXT_133029,"A new type of fishing rod that is used for fishing. Fishing success rate: 70%, chance of catching a large fish: 8%","Un nouveau type de canne à pêche. Taux de réussite : 70 %, chance d’attraper un gros poisson : 8 %"
@@ -21281,7 +21281,7 @@ PROPITEM_TXT_827778,Ghost of the Forgotten Sword,Fantôme de l'Épée Oubliée
 PROPITEM_TXT_827779,Ghost of the Forgotten Axe,Fantôme de la Hache Oubliée
 PROPITEM_TXT_827780,Ghost of the Forgotten Big Sword,Fantôme de la Grande Épée Oubliée
 PROPITEM_TXT_827781,Ghost of the Forgotten Big Axe,Fantôme de la Grande Hache Oubliée
-PROPITEM_TXT_827782,Ghost of the Forgotten Stick,Fantôme du Scptre Oublié
+PROPITEM_TXT_827782,Ghost of the Forgotten Stick,Fantôme du Sceptre Oublié
 PROPITEM_TXT_827783,Ghost of the Forgotten Knuckle,Fantôme du Poing Oubliés
 PROPITEM_TXT_827784,Ghost of the Forgotten Bow,Fantôme de l'Arc Oublié
 PROPITEM_TXT_827785,Ghost of the Forgotten Yo-Yo,Fantôme du Yo-Yo Oublié
@@ -22246,9 +22246,9 @@ PROPITEM_TXT_900333,A package containing a Charlie Gray Hunter Set and a Charlie
 PROPITEM_TXT_900334,Pickup Pet Boost Package (15 Days),Pack d’amélioration du familier Pickup (15 jours)
 PROPITEM_TXT_900335,A package containing 1x Scroll of PickUp Boost (15 Days) and 1x Scroll of Pickup Range (15 Days). All items are also linked.,Un pack contenant 1x Parchemin d’amélioration PickUp (15 jours) et 1x Parchemin de portée Pickup (15 jours). Tous les objets sont liés.
 PROPITEM_TXT_900336,Pang's Growth Package A,Pack de croissance de Pang A
-PROPITEM_TXT_900337,"A package containing 5x Scroll of Amplification ES, 5x Vital Drink X or Refresher Hold, 5x Scroll of Velocity, 5x Upcut Stone and 5x Power Scroll. All items are also linked.","Un pack contenant 5x Parchemin d’Amplification ES, 5x Boisson Vitale X ou Refresher Hold, 5x Parchemin de Vélocité, 5x Pierre Mars et 5x Parchemin de Puissance. Tous les objets sont liés."
+PROPITEM_TXT_900337,"A package containing 5x Scroll of Amplification ES, 5x Vital Drink X or Refresher Hold, 5x Scroll of Velocity, 5x Upcut Stone and 5x Power Scroll. All items are also linked.","Un pack contenant 5x Parchemin d’Amplification ES, 5x Boisson Énergétique X ou Fiole de Mana X, 5x Parchemin de Vélocité, 5x Pierre Mars et 5x Parchemin de Puissance. Tous les objets sont liés."
 PROPITEM_TXT_900338,FWC Compensation Box A,Coffre de compensation FWC A
-PROPITEM_TXT_900339,"A package containing 1x Adventurer's Fortune Flask (3 Days), 10x Scroll of Amplification ES, 10x Vital Drink X or Refresher Hold, 10x Upcut Stone, 10x Scroll of Blessing and 10x Flask Box. All items are also linked.","Un pack contenant 1x Flasque de Fortune de l’Aventurier (3 jours), 10x Parchemin d’Amplification ES, 10x Boisson Vitale X ou Refresher Hold, 10x Pierre Mars, 10x Parchemin de Bénédiction et 10x Coffre de Flasques. Tous les objets sont liés."
+PROPITEM_TXT_900339,"A package containing 1x Adventurer's Fortune Flask (3 Days), 10x Scroll of Amplification ES, 10x Vital Drink X or Refresher Hold, 10x Upcut Stone, 10x Scroll of Blessing and 10x Flask Box. All items are also linked.","Un pack contenant 1x Flasque de Fortune de l’Aventurier (3 jours), 10x Parchemin d’Amplification ES, 10x Boisson Énergétique X ou Fiole de Mana X, 10x Pierre Mars, 10x Parchemin de Bénédiction et 10x Coffre de Flasques. Tous les objets sont liés."
 PROPITEM_TXT_900340,Botanist Musician 10% Purple Set,Ensemble Botaniste Musicien 10% violet
 PROPITEM_TXT_900341,Botanist Musician Purple Guitar,Guitare violette Botaniste Musicien
 PROPITEM_TXT_900342,Botanist Musician Purple Glasses,Lunettes violettes Botaniste Musicien
@@ -22554,8 +22554,8 @@ PROPITEM_TXT_900713,Obsidian Flame Orange Sword,Épée Flamme Obsidienne Orange
 PROPITEM_TXT_900714,Obsidian Flame Orange Axe,Hache Flamme Obsidienne Orange
 PROPITEM_TXT_900715,Obsidian Flame Orange Big Sword,Grande Épée Flamme Obsidienne Orange
 PROPITEM_TXT_900716,Obsidian Flame Orange Big Axe,Grande Hache Flamme Obsidienne Orange
-PROPITEM_TXT_900717,Obsidian Flame Orange Stick,Bâton Flamme Obsidienne Orange
-PROPITEM_TXT_900718,Obsidian Flame Orange Knuckle,Gants de Combat Flamme Obsidienne Orange
+PROPITEM_TXT_900717,Obsidian Flame Orange Stick,Sceptre Flamme Obsidienne Orange
+PROPITEM_TXT_900718,Obsidian Flame Orange Knuckle,Poing Flamme Obsidienne Orange
 PROPITEM_TXT_900719,Obsidian Flame Orange Bow,Arc Flamme Obsidienne Orange
 PROPITEM_TXT_900720,Obsidian Flame Orange Yo-Yo,Yo-Yo Flamme Obsidienne Orange
 PROPITEM_TXT_900721,Obsidian Flame Orange Staff,Bâton de Mage Flamme Obsidienne Orange
@@ -22569,8 +22569,8 @@ PROPITEM_TXT_900728,Obsidian Flame Purple Sword,Épée Flamme Obsidienne Violet
 PROPITEM_TXT_900729,Obsidian Flame Purple Axe,Hache Flamme Obsidienne Violet
 PROPITEM_TXT_900730,Obsidian Flame Purple Big Sword,Grande Épée Flamme Obsidienne Violet
 PROPITEM_TXT_900731,Obsidian Flame Purple Big Axe,Grande Hache Flamme Obsidienne Violet
-PROPITEM_TXT_900732,Obsidian Flame Purple Stick,Bâton Flamme Obsidienne Violet
-PROPITEM_TXT_900733,Obsidian Flame Purple Knuckle,Gants de Combat Flamme Obsidienne Violet
+PROPITEM_TXT_900732,Obsidian Flame Purple Stick,Sceptre Flamme Obsidienne Violet
+PROPITEM_TXT_900733,Obsidian Flame Purple Knuckle,Poing Flamme Obsidienne Violet
 PROPITEM_TXT_900734,Obsidian Flame Purple Bow,Arc Flamme Obsidienne Violet
 PROPITEM_TXT_900735,Obsidian Flame Purple Yo-Yo,Yo-Yo Flamme Obsidienne Violet
 PROPITEM_TXT_900736,Obsidian Flame Purple Staff,Bâton de Mage Flamme Obsidienne Violet
@@ -22584,8 +22584,8 @@ PROPITEM_TXT_900743,Obsidian Flame Red Sword,Épée Flamme Obsidienne Rouge
 PROPITEM_TXT_900744,Obsidian Flame Red Axe,Hache Flamme Obsidienne Rouge
 PROPITEM_TXT_900745,Obsidian Flame Red Big Sword,Grande Épée Flamme Obsidienne Rouge
 PROPITEM_TXT_900746,Obsidian Flame Red Big Axe,Grande Hache Flamme Obsidienne Rouge
-PROPITEM_TXT_900747,Obsidian Flame Red Stick,Bâton Flamme Obsidienne Rouge
-PROPITEM_TXT_900748,Obsidian Flame Red Knuckle,Gants de Combat Flamme Obsidienne Rouge
+PROPITEM_TXT_900747,Obsidian Flame Red Stick,Sceptre Flamme Obsidienne Rouge
+PROPITEM_TXT_900748,Obsidian Flame Red Knuckle,Poing Flamme Obsidienne Rouge
 PROPITEM_TXT_900749,Obsidian Flame Red Bow,Arc Flamme Obsidienne Rouge
 PROPITEM_TXT_900750,Obsidian Flame Red Yo-Yo,Yo-Yo Flamme Obsidienne Rouge
 PROPITEM_TXT_900751,Obsidian Flame Red Staff,Bâton de Mage Flamme Obsidienne Rouge
@@ -22599,8 +22599,8 @@ PROPITEM_TXT_900758,Obsidian Flame Blue Sword,Épée Flamme Obsidienne Bleu
 PROPITEM_TXT_900759,Obsidian Flame Blue Axe,Hache Flamme Obsidienne Bleu
 PROPITEM_TXT_900760,Obsidian Flame Blue Big Sword,Grande Épée Flamme Obsidienne Bleu
 PROPITEM_TXT_900761,Obsidian Flame Blue Big Axe,Grande Hache Flamme Obsidienne Bleu
-PROPITEM_TXT_900762,Obsidian Flame Blue Stick,Bâton Flamme Obsidienne Bleu
-PROPITEM_TXT_900763,Obsidian Flame Blue Knuckle,Gants de Combat Flamme Obsidienne Bleu
+PROPITEM_TXT_900762,Obsidian Flame Blue Stick,Sceptre Flamme Obsidienne Bleu
+PROPITEM_TXT_900763,Obsidian Flame Blue Knuckle,Poing Flamme Obsidienne Bleu
 PROPITEM_TXT_900764,Obsidian Flame Blue Bow,Arc Flamme Obsidienne Bleu
 PROPITEM_TXT_900765,Obsidian Flame Blue Yo-Yo,Yo-Yo Flamme Obsidienne Bleu
 PROPITEM_TXT_900766,Obsidian Flame Blue Staff,Bâton de Mage Flamme Obsidienne Bleu
@@ -22614,8 +22614,8 @@ PROPITEM_TXT_900773,Obsidian Flame Green Sword,Épée Flamme Obsidienne Vert
 PROPITEM_TXT_900774,Obsidian Flame Green Axe,Hache Flamme Obsidienne Vert
 PROPITEM_TXT_900775,Obsidian Flame Green Big Sword,Grande Épée Flamme Obsidienne Vert
 PROPITEM_TXT_900776,Obsidian Flame Green Big Axe,Grande Hache Flamme Obsidienne Vert
-PROPITEM_TXT_900777,Obsidian Flame Green Stick,Bâton Flamme Obsidienne Vert
-PROPITEM_TXT_900778,Obsidian Flame Green Knuckle,Gants de Combat Flamme Obsidienne Vert
+PROPITEM_TXT_900777,Obsidian Flame Green Stick,Sceptre Flamme Obsidienne Vert
+PROPITEM_TXT_900778,Obsidian Flame Green Knuckle,Poing Flamme Obsidienne Vert
 PROPITEM_TXT_900779,Obsidian Flame Green Bow,Arc Flamme Obsidienne Vert
 PROPITEM_TXT_900780,Obsidian Flame Green Yo-Yo,Yo-Yo Flamme Obsidienne Vert
 PROPITEM_TXT_900781,Obsidian Flame Green Staff,Bâton de Mage Flamme Obsidienne Vert
@@ -22629,8 +22629,8 @@ PROPITEM_TXT_900788,Obsidian Flame Yellow Sword,Épée Flamme Obsidienne Jaune
 PROPITEM_TXT_900789,Obsidian Flame Yellow Axe,Hache Flamme Obsidienne Jaune
 PROPITEM_TXT_900790,Obsidian Flame Yellow Big Sword,Grande Épée Flamme Obsidienne Jaune
 PROPITEM_TXT_900791,Obsidian Flame Yellow Big Axe,Grande Hache Flamme Obsidienne Jaune
-PROPITEM_TXT_900792,Obsidian Flame Yellow Stick,Bâton Flamme Obsidienne Jaune
-PROPITEM_TXT_900793,Obsidian Flame Yellow Knuckle,Gants de Combat Flamme Obsidienne Jaune
+PROPITEM_TXT_900792,Obsidian Flame Yellow Stick,Sceptre Flamme Obsidienne Jaune
+PROPITEM_TXT_900793,Obsidian Flame Yellow Knuckle,Poing Flamme Obsidienne Jaune
 PROPITEM_TXT_900794,Obsidian Flame Yellow Bow,Arc Flamme Obsidienne Jaune
 PROPITEM_TXT_900795,Obsidian Flame Yellow Yo-Yo,Yo-Yo Flamme Obsidienne Jaune
 PROPITEM_TXT_900796,Obsidian Flame Yellow Staff,Bâton de Mage Flamme Obsidienne Jaune
@@ -22644,8 +22644,8 @@ PROPITEM_TXT_900803,Obsidian Flame White Sword,Épée Flamme Obsidienne Blanc
 PROPITEM_TXT_900804,Obsidian Flame White Axe,Hache Flamme Obsidienne Blanc
 PROPITEM_TXT_900805,Obsidian Flame White Big Sword,Grande Épée Flamme Obsidienne Blanc
 PROPITEM_TXT_900806,Obsidian Flame White Big Axe,Grande Hache Flamme Obsidienne Blanc
-PROPITEM_TXT_900807,Obsidian Flame White Stick,Bâton Flamme Obsidienne Blanc
-PROPITEM_TXT_900808,Obsidian Flame White Knuckle,Gants de Combat Flamme Obsidienne Blanc
+PROPITEM_TXT_900807,Obsidian Flame White Stick,Sceptre Flamme Obsidienne Blanc
+PROPITEM_TXT_900808,Obsidian Flame White Knuckle,Poing Flamme Obsidienne Blanc
 PROPITEM_TXT_900809,Obsidian Flame White Bow,Arc Flamme Obsidienne Blanc
 PROPITEM_TXT_900810,Obsidian Flame White Yo-Yo,Yo-Yo Flamme Obsidienne Blanc
 PROPITEM_TXT_900811,Obsidian Flame White Staff,Bâton de Mage Flamme Obsidienne Blanc
@@ -22659,8 +22659,8 @@ PROPITEM_TXT_900818,Obsidian Flame Black Sword,Épée Flamme Obsidienne Noir
 PROPITEM_TXT_900819,Obsidian Flame Black Axe,Hache Flamme Obsidienne Noir
 PROPITEM_TXT_900820,Obsidian Flame Black Big Sword,Grande Épée Flamme Obsidienne Noir
 PROPITEM_TXT_900821,Obsidian Flame Black Big Axe,Grande Hache Flamme Obsidienne Noir
-PROPITEM_TXT_900822,Obsidian Flame Black Stick,Bâton Flamme Obsidienne Noir
-PROPITEM_TXT_900823,Obsidian Flame Black Knuckle,Gants de Combat Flamme Obsidienne Noir
+PROPITEM_TXT_900822,Obsidian Flame Black Stick,Sceptre Flamme Obsidienne Noir
+PROPITEM_TXT_900823,Obsidian Flame Black Knuckle,Poing Flamme Obsidienne Noir
 PROPITEM_TXT_900824,Obsidian Flame Black Bow,Arc Flamme Obsidienne Noir
 PROPITEM_TXT_900825,Obsidian Flame Black Yo-Yo,Yo-Yo Flamme Obsidienne Noir
 PROPITEM_TXT_900826,Obsidian Flame Black Staff,Bâton de Mage Flamme Obsidienne Noir
