@@ -56,8 +56,8 @@ UI_NAVIGATOR_PARTY,Party,Gruppo
 UI_NAVIGATOR_NPC,NPC,NPC
 UI_NAVIGATOR_MONSTER,Monster,Monster
 UI_PRIVACY_NOTICE,Privacy Policy,Privacy Policy
-UI_MSGBOX_ACCEPT,Accept,Accettare
-UI_MSGBOX_DECLINE,Decline,Declino
+UI_MSGBOX_ACCEPT,Accept,Accetta
+UI_MSGBOX_DECLINE,Decline,Rifiuta
 UI_MSGBOX_CLOSE,Close,Close
 UI_OPTION_SHADOWS,Shadows,Shadows
 UI_OPTION_SHADOWS_MAXDIST,Maximum Distance,Maximum Distance
