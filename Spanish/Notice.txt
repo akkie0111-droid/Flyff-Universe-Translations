@@ -8,4 +8,4 @@ Respeta y ayuda a los conciudadanos de Madrigal.
 
 ¡Disfruta de tu aventura!
 
-#cffff0000 Descubre m{as del proyecto en $WEBSITE$! #nc
+#cffff0000 Descubre más del proyecto en $WEBSITE$! #nc
