@@ -642,11 +642,11 @@ ACHIEVEMENT_KILL_SHADEKRITON_LVL2,[Shade Lieutenant] Kriton Hunter 2,[Shade Lieu
 ACHIEVEMENT_KILL_SHADEKRITON_LVL3,[Shade Lieutenant] Kriton Hunter 3,[Shade Lieutenant] Kriton Hunter 3
 ACHIEVEMENT_KILL_SHADEKRITON_LVL4,[Shade Lieutenant] Kriton Hunter 4,[Shade Lieutenant] Kriton Hunter 4
 ACHIEVEMENT_KILL_SHADEKRITON_LVL5,[Shade Lieutenant] Kriton Killer,[Shade Lieutenant] Kriton Killer
-ACHIEVEMENT_KILL_BEHEMOTH03_LVL1,[God of Death] Demonic Ankou Hunter 1,[God of Death] Demonic Ankou Hunter 1
-ACHIEVEMENT_KILL_BEHEMOTH03_LVL2,[God of Death] Demonic Ankou Hunter 2,[God of Death] Demonic Ankou Hunter 2
-ACHIEVEMENT_KILL_BEHEMOTH03_LVL3,[God of Death] Demonic Ankou Hunter 3,[God of Death] Demonic Ankou Hunter 3
-ACHIEVEMENT_KILL_BEHEMOTH03_LVL4,[God of Death] Demonic Ankou Hunter 4,[God of Death] Demonic Ankou Hunter 4
-ACHIEVEMENT_KILL_BEHEMOTH03_LVL5,[God of Death] Demonic Ankou Killer,[God of Death] Demonic Ankou Killer
+ACHIEVEMENT_KILL_BEHEMOTH03_LVL1,[God of Death] Demonic Ankou Hunter 1,[Herr des Todes] Demonic Ankou Hunter 1
+ACHIEVEMENT_KILL_BEHEMOTH03_LVL2,[God of Death] Demonic Ankou Hunter 2,[Herr des Todes] Demonic Ankou Hunter 2
+ACHIEVEMENT_KILL_BEHEMOTH03_LVL3,[God of Death] Demonic Ankou Hunter 3,[Herr des Todes] Demonic Ankou Hunter 3
+ACHIEVEMENT_KILL_BEHEMOTH03_LVL4,[God of Death] Demonic Ankou Hunter 4,[Herr des Todes] Demonic Ankou Hunter 4
+ACHIEVEMENT_KILL_BEHEMOTH03_LVL5,[God of Death] Demonic Ankou Killer,[Herr des Todes] Demonic Ankou Killer
 ACHIEVEMENT_MONSTER_DESC_COMMON,Defeat these monsters to gain a permanent damage bonus against them.,"Besiege diese Monster, um einen Schadensbonus gegen sie zu erhalten."
 ACHIEVEMENT_KILL_AIBATT_TITLE,Twinkle Star,Einäugiger Flattermann
 ACHIEVEMENT_KILL_MUSHPANG_TITLE,Fun Guy,Flyfferling
@@ -727,7 +727,7 @@ ACHIEVEMENT_KILL_YETTI_TITLE,Bigfoot,Pummelchen
 ACHIEVEMENT_KILL_GHOSTKING_TITLE,Reaper,Nekromant
 ACHIEVEMENT_KILL_MAMMOTH_TITLE,Prehistoric,Neanderthaler
 ACHIEVEMENT_KILL_AUGU_TITLE,Sushi Chef,Amphibisch
-ACHIEVEMENT_KILL_ATROX_TITLE,Antlion,Antlion
+ACHIEVEMENT_KILL_ATROX_TITLE,Antlion,Kammerjäger
 ACHIEVEMENT_KILL_TIGAR_TITLE,Vicious,Bösartig
 ACHIEVEMENT_KILL_MERAL_TITLE,Pirate,Pirat
 ACHIEVEMENT_KILL_KINGSTER_TITLE,Boiled,Gekocht
@@ -736,17 +736,17 @@ ACHIEVEMENT_KILL_NAGA_TITLE,Cold Blooded,Kaltblütig
 ACHIEVEMENT_KILL_DORIAN_TITLE,Fishy,Fishy
 ACHIEVEMENT_KILL_OKEAN_TITLE,Waterlogged,durchnässt
 ACHIEVEMENT_KILL_KRAKEN_TITLE,Sea King,Meereskönig
-ACHIEVEMENT_KILL_DREADFIN_TITLE,Sea Snack,Sea Snack
-ACHIEVEMENT_KILL_DREADSCALE_TITLE,Slurp,Slurp
-ACHIEVEMENT_KILL_LUMINFIN_TITLE,Lumos,Lumos
-ACHIEVEMENT_KILL_PUPPETWOLF_TITLE,Sharp Slayer,Sharp Slayer
-ACHIEVEMENT_KILL_RYSENTRY_TITLE,Echowalker,Echowalker
-ACHIEVEMENT_KILL_RYGUARD_TITLE,Shadowbrand,Shadowbrand
-ACHIEVEMENT_KILL_RYARCHER_TITLE,Judicator,Judicator
-ACHIEVEMENT_KILL_RYMAGI_TITLE,Bloodflare,Bloodflare
-ACHIEVEMENT_KILL_RYWARRIOR_TITLE,Warchant,Warchant
-ACHIEVEMENT_KILL_SKELWOLF_TITLE,Hellborn,Hellborn
-ACHIEVEMENT_KILL_RYBARGA_TITLE,Keokai,Keokai
+ACHIEVEMENT_KILL_DREADFIN_TITLE,Sea Snack,Haihappen
+ACHIEVEMENT_KILL_DREADSCALE_TITLE,Slurp,Schlürf-o-mat
+ACHIEVEMENT_KILL_LUMINFIN_TITLE,Lumos,Lichtbringer
+ACHIEVEMENT_KILL_PUPPETWOLF_TITLE,Sharp Slayer,Rasiermesserscharf
+ACHIEVEMENT_KILL_RYSENTRY_TITLE,Echowalker,Klangwandler
+ACHIEVEMENT_KILL_RYGUARD_TITLE,Shadowbrand,Schattensiegel
+ACHIEVEMENT_KILL_RYARCHER_TITLE,Judicator,Vollstrecker
+ACHIEVEMENT_KILL_RYMAGI_TITLE,Bloodflare,Flammenruf
+ACHIEVEMENT_KILL_RYWARRIOR_TITLE,Warchant,Ruf des Krieges
+ACHIEVEMENT_KILL_SKELWOLF_TITLE,Hellborn,Ausgeburt der Hölle
+ACHIEVEMENT_KILL_RYBARGA_TITLE,Keokai,Schlächter des Keokai
 ACHIEVEMENT_KILL_REDMETEONYKER_TITLE,Reduced to Ashes,Drachenbändiger
 ACHIEVEMENT_KILL_CAVEMANCHIEF_TITLE,Cave Dweller,Höhlenbewohner
 ACHIEVEMENT_KILL_TEMPLEGUARDIAN_TITLE,Electrified,Elektrifiziert
@@ -754,8 +754,8 @@ ACHIEVEMENT_KILL_GREATKRAKEN_TITLE,Drowned,Ertrunken
 ACHIEVEMENT_KILL_PYRAMIDGUARDIAN_TITLE,Risen,Auferstanden
 ACHIEVEMENT_KILL_CRYSTALDEVIL_TITLE,Numb,Taub
 ACHIEVEMENT_KILL_BEASTKINGKHAN_TITLE,Conqueror of the Wilds,Eroberer der Wildnis
-ACHIEVEMENT_KILL_SHADEKRITON_TITLE,Shade Hunter,Shade Hunter
-ACHIEVEMENT_KILL_BEHEMOTH03_TITLE,God of Death,God of Death
+ACHIEVEMENT_KILL_SHADEKRITON_TITLE,Shade Hunter,Schattenjäger
+ACHIEVEMENT_KILL_BEHEMOTH03_TITLE,God of Death,Herr des Todes
 ACHIEVEMENT_JUMP_NAME,Jump,Springe
 ACHIEVEMENT_JUMP_DESC,Jump a certain number of times.,Führe eine gewisse Anzahl an Sprüngen durch.
 ACHIEVEMENT_JUMP_TITLE,Jump Master,Meisterspringer
