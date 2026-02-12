@@ -2268,7 +2268,7 @@ UI_RAINBOWRACE_TEAMWITHFRIEND,Team up with a friend,Team up with a friend
 UI_RAINBOWRACE_TEAMINVITATION,Invite a friend,Invite a friend
 UI_RAINBOWRACE_FRIEND_LEVEL,Level,Level
 UI_RAINBOWRACE_FRIEND_NAME,Name,Name
-UI_RAINBOWRACE_FRIEND_APPLICATION,Application,Anwendung
+UI_RAINBOWRACE_FRIEND_APPLICATION,Application,Bewerbung
 UI_RAINBOWRACE_INVITATION_CONFIRM,Would you like to participate in the Rainbow Race Duo (%s) with '%s'?\n\nThe application fee is %lld penya.,Would you like to participate in the Rainbow Race Duo (%s) with '%s'?\n\nThe application fee is %lld penya.
 UI_RAINBOWRACE_ITEM,ITEM,ITEM
 UI_RAINBOWRACE_SPEED,SPEED,SPEED
@@ -2278,16 +2278,16 @@ UI_RAINBOWRACE_TEAM_REGISTERED_RANDOM,You have signed up to participate in the R
 UI_RAINBOWRACE_TEAM_REGISTERED,You have signed up to participate in the Rainbow Race Duo Team Race (%s) with '%s'.\n\nYou've spent %lld penya.,You have signed up to participate in the Rainbow Race Duo Team Race (%s) with '%s'.\n\nYou've spent %lld penya.
 UI_RAINBOWRACE_TITLE,Rainbow Race,Regenbogenrennen
 UI_INVENTORY_ACTION_EQUIP_LEFT,Equip (L),Equip (L)
-UI_FITTINGROOM_RESETEQUIPMENT,Reset Equipment,Reset Equipment
+UI_FITTINGROOM_RESETEQUIPMENT,Reset Equipment,Equipment zurücksetzen
 UI_KALGAS_ASSAULT_RANK_NODATA,No participation information,No participation information
 UI_QUEST_ATTENDANCE,Playtime Minutes #cffc32f07#b%d/%d#nb#nc,Playtime Minutes #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_HOUSING,Housing Entry Count #cffc32f07#b%d/%d#nb#nc,Housing Entry Count #cffc32f07#b%d/%d#nb#nc
 UI_CHATFILTER_TEAM,Team,Team
 UI_CHAT_TEAM_TIP,Sending messages to team member.,Sending messages to team member.
-UI_BATTLEPASS_MISSION_VISIT_FRIENDS_HOUSE,Visit friend's house,Visit friend's house
-UI_BATTLEPASS_MISSION_ENTER_INSTANCE_DUNGEON,Enter instance dungeon,Enter instance dungeon
-UI_BATTLEPASS_MISSION_HOUSING_BOOK_LIKE,Visit Friend's House and press heart,Visit Friend's House and press heart
-UI_TOOLTIP_FLYSPEEDRATE,Fly Speed,Fly Speed
+UI_BATTLEPASS_MISSION_VISIT_FRIENDS_HOUSE,Visit friend's house,Haus eines Freundes besuchen
+UI_BATTLEPASS_MISSION_ENTER_INSTANCE_DUNGEON,Enter instance dungeon,Instanziierten Dungeon betreten
+UI_BATTLEPASS_MISSION_HOUSING_BOOK_LIKE,Visit Friend's House and press heart,Haus eines Freundes besuchen und ein Like geben
+UI_TOOLTIP_FLYSPEEDRATE,Fly Speed,Fluggeschwindigkeit
 UI_TOOLTIP_DEATHEXPLOSSDEC,Experience Loss Reduction,Experience Loss Reduction
 UI_TOOLTIP_REVIVEHP,HP Restored on revive,HP Restored on revive
 UI_TOOLTIP_REVIVEMP,MP Restored on revive,MP Restored on revive
@@ -2344,20 +2344,20 @@ UI_SERVICE_AGREEMENT_ZIPCODE,ZIPCODE,ZIPCODE
 UI_SERVICE_AGREEMENT_CALIFORNIA_PRIVACY,Check the California Privacy Statement,Check the California Privacy Statement
 UI_SERVICE_AGREEMENT_AGREE_ALL,Agree All,Agree All
 UI_SERVICE_AGREEMENT_ERROR_TITLE,Agreement error,Agreement error
-UI_SERVICE_AGREEMENT_ERROR_BIRTH,Please enter a valid date of birth.,Bitte geben Sie ein gültiges Geburtsdatum ein.
-UI_SERVICE_AGREEMENT_ERROR_AGE,You must be at least 16 years old to play the game.,"Um dieses Spiel spielen zu können, müssen Sie mindestens 16 Jahre alt sein."
-UI_SERVICE_AGREEMENT_ERROR_TERMS,You must read and accept the terms of service and privacy policy to continue.,"Um fortfahren zu können, müssen Sie die Nutzungsbedingungen und die Datenschutzrichtlinie lesen und akzeptieren."
-UI_SERVICE_AGREEMENT_ERROR_ZIPCODE,Please enter a valid zip code.,Bitte geben Sie eine gültige Postleitzahl ein.
+UI_SERVICE_AGREEMENT_ERROR_BIRTH,Please enter a valid date of birth.,Bitte gib ein gültiges Geburtsdatum ein.
+UI_SERVICE_AGREEMENT_ERROR_AGE,You must be at least 16 years old to play the game.,"Um dieses Spiel spielen zu können, musst du mindestens 16 Jahre alt sein."
+UI_SERVICE_AGREEMENT_ERROR_TERMS,You must read and accept the terms of service and privacy policy to continue.,"Um fortfahren zu können, musst du die Nutzungsbedingungen und die Datenschutzrichtlinie lesen und akzeptieren."
+UI_SERVICE_AGREEMENT_ERROR_ZIPCODE,Please enter a valid zip code.,Bitte gib eine gültige Postleitzahl ein.
 UI_ROLL_AND_MOVE_START,START,START
-UI_ROLL_AND_MOVE_ROLLBTN,Roll the dice,Roll the dice
+UI_ROLL_AND_MOVE_ROLLBTN,Roll the dice,Würfeln
 UI_ROLL_AND_MOVE_COMPLETIONREWARD,Completion Reward,Completion Reward
-UI_TRADE_LOG_PUT,Added,Added
-UI_TRADE_LOG_PULL,Removed,Removed
-UI_TRADE_LOG_CONFIRM,Confirmed the trade.,Confirmed the trade.
-UI_TRADE_LOG_ACCEPT,Accepted the trade.,Accepted the trade.
+UI_TRADE_LOG_PUT,Added,Hinzugefügt
+UI_TRADE_LOG_PULL,Removed,Entfernt
+UI_TRADE_LOG_CONFIRM,Confirmed the trade.,Hat den Handel bestätigt.
+UI_TRADE_LOG_ACCEPT,Accepted the trade.,Hat den Handel angenommen.
 UI_TRADE_LIST_VIEW,Toggle the list view.,Toggle the list view.
 UI_COUPON_TITLE,Coupon,Coupon
-UI_COUPON_ENTER,Please enter your coupon code.,Bitte geben Sie Ihren Gutscheincode ein.
+UI_COUPON_ENTER,Please enter your coupon code.,Bitte gib den Gutscheincode ein.
 UI_COUPON_CODE,Coupon Code,Coupon Code
 UI_COUPON_DESCRIPTION,Keys look like the following:\n    AAAA-BBBB-CCCC-DDDD,Die Schlüssel sehen folgendermaßen aus:\n    AAAA-BBBB-CCCC-DDDD
 UI_COUPON_CLAIM,Claim,Abholen
@@ -2368,44 +2368,44 @@ UI_COUPON_LOGS_USETIME,Used at,Used at
 UI_COUPONGIFT_TITLE,Coupon Gift,Coupon Gift
 UI_COUPONGIFT_NOTICE,"#cffff0000We have something for you!#nc\n\nThank you for playing the #b%s#nb version of Flyff Universe.\n\nAs a gift, we have just sent you a coupon code in your post box.\nYou can use it from the #bEvents#nb menu whenever you want, on any server or character.\n\nEnjoy!","#cffff0000We have something for you!#nc\n\nThank you for playing the #b%s#nb version of Flyff Universe.\n\nAs a gift, we have just sent you a coupon code in your post box.\nYou can use it from the #bEvents#nb menu whenever you want, on any server or character.\n\nEnjoy!"
 UI_MENU_REMOVE_SHORTCUT,Remove this shortcut,Remove this shortcut
-UI_MENU_SAVE,Save changes,Speichern Änderungen
+UI_MENU_SAVE,Save changes,Änderungen speichern
 UI_MENU_EDIT,Edit the menu,Menü bearbeiten
 UI_MENU_FULL,No more highlighted menus can be set.,No more highlighted menus can be set.
-UI_MENU_UNSPECIFIED,Unspecified,Unspecified
+UI_MENU_UNSPECIFIED,Unspecified,Nicht spezifiziert
 UI_OPTION_KEYREPEAT,Holding Keys,Holding Keys
 UI_DELETEACCOUNT_TITLE,Delete Account,Konto Löschen
-UI_DELETEACCOUNT_PASS,Password for deleting account\nEnter the password,Passwort zum Löschen des Kontos\nGeben Sie das Passwort ein
+UI_DELETEACCOUNT_PASS,Password for deleting account\nEnter the password,Passwort zum Löschen des Kontos\nGib das Passwort ein
 UI_DELETEACCOUNT_NOPASS,Do you confirm?,Bestätigst du?
 UI_DELETEACCOUNT_NOTICE,"When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies.","When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies."
-UI_APP_SEARCHSHOP_TIP,Find items in Personal and Vendor shops.,Find items in Personal and Vendor shops.
-UI_SEARCHSHOP_RARITY,Rarity,Rarity
+UI_APP_SEARCHSHOP_TIP,Find items in Personal and Vendor shops.,Finde Items in persönlichen und Vendor Shops
+UI_SEARCHSHOP_RARITY,Rarity,Seltenheit
 UI_SEARCHSHOP_UPGRADE,Upgrade:,Upgrade:
-UI_SEARCHSHOP_INCLUDEKEYWORK,Include Keyword,Include Keyword
-UI_SEARCHSHOP_EXACTKEYWORK,Exact Keyword,Exact Keyword
-UI_SEARCHSHOP_SORTDISTANCE,Distance to Shop,Distance to Shop
-UI_SEARCHSHOP_NBITEMS,Total # of items: %d,Total # of items: %d
-UI_SEARCHSHOP_NOSHOP,No shop matching your search.,No shop matching your search.
+UI_SEARCHSHOP_INCLUDEKEYWORK,Include Keyword,Enthalte Suchwort
+UI_SEARCHSHOP_EXACTKEYWORK,Exact Keyword,Exaktes Suchwort
+UI_SEARCHSHOP_SORTDISTANCE,Distance to Shop,Entfernung zum Shop
+UI_SEARCHSHOP_NBITEMS,Total # of items: %d,Anzahl # von Items: %d
+UI_SEARCHSHOP_NOSHOP,No shop matching your search.,Kein Shop nach deinen Kriterien gefunden.
 UI_PARTY_READY_CHECK,Ready,Bereit
-UI_PARTY_READY_CHECK_TIP,Initiate a ready check for all party members.,Initiate a ready check for all party members.
-UI_PARTY_READY_CHECK_TEXT,Are you sure you would like to initiate a ready check for all party members?,Are you sure you would like to initiate a ready check for all party members?
+UI_PARTY_READY_CHECK_TIP,Initiate a ready check for all party members.,Starte einen Bereitschaftscheck für alle Party Mitglieder.
+UI_PARTY_READY_CHECK_TEXT,Are you sure you would like to initiate a ready check for all party members?,Bist du sicher, dass du einen Bereitschaftscheck für alle Party Mitglieder starten möchtest?
 UI_PARTY_READY_PROMPT,Are you ready?,Bist du bereit?
-UI_PARTY_READY_INFO1,has not responded yet.,has not responded yet.
-UI_PARTY_READY_INFO2,is ready!,is ready!
-UI_PARTY_READY_INFO3,is not ready.,is not ready.
-UI_PARTY_EDIT_NAME,Edit the party's name.,Edit the party's name.
+UI_PARTY_READY_INFO1,has not responded yet.,hat noch nicht reagiert.
+UI_PARTY_READY_INFO2,is ready!,ist bereit!
+UI_PARTY_READY_INFO3,is not ready.,ist nicht bereit.
+UI_PARTY_EDIT_NAME,Edit the party's name.,Ändert den Partynamen
 UI_SEARCHSHOP_ITEMLEVEL_ASC,Item Level (1 - %d),Item Level (1 - %d)
 UI_SEARCHSHOP_ITEMLEVEL_DESC,Item Level (%d - 1),Item Level (%d - 1)
 UI_SEARCHSHOP_UPGRADELEVEL_ASC,Upgrade Level (0 - 20),Upgrade Level (0 - 20)
 UI_SEARCHSHOP_UPGRADELEVEL_DESC,Upgrade Level (20 - 0),Upgrade Level (20 - 0)
-UI_SEARCHSHOP_PLAYERNAME_ASC,Seller Name (A - Z),Seller Name (A - Z)
-UI_SEARCHSHOP_PLAYERNAME_DESC,Seller Name (Z - A),Seller Name (Z - A)
+UI_SEARCHSHOP_PLAYERNAME_ASC,Seller Name (A - Z),Verkäufername (A - Z)
+UI_SEARCHSHOP_PLAYERNAME_DESC,Seller Name (Z - A),Verkäufername (Z - A)
 UI_SEARCHSHOP_SHOPNAME_ASC,Shop Name (A - Z),Shop Name (A - Z)
 UI_SEARCHSHOP_SHOPNAME_DESC,Shop Name (Z - A),Shop Name (Z - A)
-UI_SEARCHSHOP_SELLER,Seller,Seller
+UI_SEARCHSHOP_SELLER,Seller,Verkäufer
 UI_SEARCHSHOP_ITEMNAME_ASC,Item Name (A - Z),Item Name (A - Z)
 UI_SEARCHSHOP_ITEMNAME_DESC,Item Name (Z - A),Item Name (Z - A)
-UI_SEARCHSHOP_LOCATION,Show Location,Show Location
-UI_SEARCHSHOP_MESSAGE,Message Seller,Message Seller
+UI_SEARCHSHOP_LOCATION,Show Location,Zeige Position
+UI_SEARCHSHOP_MESSAGE,Message Seller,Verkäufer kontaktieren
 UI_SEARCHSHOP_TELEPORT,Teleport %d / %d,Teleport %d / %d
 UI_PURCHASE_INAPP_NOTICE,Notice,Notiz
 UI_PURCHASE_INAPP_PURCHASE,Purchase,Kaufen
@@ -2436,7 +2436,7 @@ UI_BATTLEPASS_BONUS,Bonus,Skill
 UI_MATOURNAMENT_RANKING_POINTS_TOOLTIP,Points,Punkte
 UI_MATOURNAMENT_RANKING_RANK,Rank,Rang
 UI_MATOURNAMENT_RANKING_TEAMNAME,Team Name,Team Name
-UI_MATOURNAMENT_RANKING_BACKUP_POINTS_TOOLTIP,Lives,Lives
+UI_MATOURNAMENT_RANKING_BACKUP_POINTS_TOOLTIP,Lives,Leben
 UI_MATOURNAMENT_TYPE_PRELIMINARY,Preliminary,Vorrunde
 UI_MATOURNAMENT_TYPE_BACKUP,Backup Match,Backup Match
 UI_MATOURNAMENT_TYPE_FINAL16,Round of 16,Round of 16
@@ -2444,14 +2444,14 @@ UI_MATOURNAMENT_TYPE_QUATERFINAL,Quater Final,Quater Final
 UI_MATOURNAMENT_TYPE_SEMIFINAL,Semi Final,Semi Final
 UI_MATOURNAMENT_TYPE_THIRDPLACE,Third Place,Dritter Platz
 UI_MATOURNAMENT_TYPE_FINAL,Final,Final
-UI_MATOURNAMENT_MATCH_RESULT_WIN,Win,Win
-UI_MATOURNAMENT_MATCH_RESULT_LOSE,Lose,Lose
-UI_MATOURNAMENT_MATCH_RESULT_DRAW,Draw,Draw
+UI_MATOURNAMENT_MATCH_RESULT_WIN,Win,Gewonnen
+UI_MATOURNAMENT_MATCH_RESULT_LOSE,Lose,Verloren
+UI_MATOURNAMENT_MATCH_RESULT_DRAW,Draw,Unentschieden
 UI_MATOURNAMENT_MATCH_RESULT_NORECORD,You do not have a record for this day.,You do not have a record for this day.
 UI_MATOURNAMENT_DAILY_RESULT_TYPE,Type : %s,Type : %s
-UI_MATOURNAMENT_DAILY_RESULT_OTHERTEAM,Other Team : %s,Other Team : %s
-UI_MATOURNAMENT_DAILY_RESULT_PLAYTIME,Play Time : %s,Play Time : %s
-UI_MATOURNAMENT_DAILY_RESULT_RESULT,Result : %s,Result : %s
+UI_MATOURNAMENT_DAILY_RESULT_OTHERTEAM,Other Team : %s,Anderes Team : %s
+UI_MATOURNAMENT_DAILY_RESULT_PLAYTIME,Play Time : %s,Spielzeit : %s
+UI_MATOURNAMENT_DAILY_RESULT_RESULT,Result : %s,Ergebnis : %s
 UI_MATOURNAMENT_CALENDAR_TODAY,(Today),(Heute)
 UI_MATOURNAMENT_WEEK_RESULT_NONE,NONE,NONE
 UI_MATOURNAMENT_WEEK_RESULT_REGISTRATION,REG,REG
@@ -2477,7 +2477,7 @@ UI_MATOURNAMENT_RANKING_TITLE,Madrigal Tournament Contest Ranking,Madrigal Tourn
 UI_MATOURNAMENT_RANKING_RANKING,Top 50 Ranking,Top 50 Ranking
 UI_MATOURNAMENT_RANKING_FINALTOURNAMENT,Final Tournament,Final Tournament
 UI_MATOURNAMENT_RANKING_BACKUP,Backup Match,Backup Match
-UI_MATOURNAMENT_RANKING_CALENDAR,Calendar,Calendar
+UI_MATOURNAMENT_RANKING_CALENDAR,Calendar,Kalender
 UI_MATOURNAMENT_RANKING_DESC,"This contains all the ranking data for the current Madrigal Tournament.\nIf only one team has showed up in the preliminary's ranking, then that means it had no opponent!","This contains all the ranking data for the current Madrigal Tournament.\nIf only one team has showed up in the preliminary's ranking, then that means it had no opponent!"
 UI_MATOURNAMENT_REWARD_RANK,Rank,Rang
 UI_MATOURNAMENT_REWARD_REWARD,Reward,Belohnung
@@ -2494,11 +2494,11 @@ UI_MATOURNAMENT_BETTING_TITLE,Madrigal Tournament Bidding,Madrigal Tournament Bi
 UI_MATOURNAMENT_BETTING_DESC,"You can bid and view the bidding ranking for the Madrigal Tournament.\nYou can only bid on one team but you can add additional Penyas to bid if you wish.\nBids will close on %s %s, and will show the amount you will receive when your bidding is successful.","You can bid and view the bidding ranking for the Madrigal Tournament.\nYou can only bid on one team but you can add additional Penyas to bid if you wish.\nBids will close on %s %s, and will show the amount you will receive when your bidding is successful."
 UI_MATOURNAMENT_BETTING_RANK,Rank,Rang
 UI_MATOURNAMENT_BETTING_GOLD,Penya,Penya
-UI_MATOURNAMENT_BETTING_DATE,Last Date,Datum Letzte
+UI_MATOURNAMENT_BETTING_DATE,Last Date,Letztes Datum
 UI_MATOURNAMENT_BETTING_WARNING,Are you sure you want to bet on this team?,Are you sure you want to bet on this team?
 UI_MATOURNAMENT_BETTING_BETTINGGOLD,Betting Penya,Betting Penya
 UI_MATOURNAMENT_BETTING_NOREWARD,None,kein
-UI_ULTIMATE_JEWEL_REMOVE_TITLE,Remove Ultimate Jewel,Remove Ultimate Jewel
+UI_ULTIMATE_JEWEL_REMOVE_TITLE,Remove Ultimate Jewel,Ultimatives Juwel entfernen
 UI_ULTIMATE_JEWEL_REMOVE_OK,Remove,Entfernen
 UI_ULTIMATE_JEWEL_REMOVE_MSG,"Remove the selected ultimate jewel from this item? #b#cffff0000Without Jewel Tweezers, the jewel will be destroyed.#nc#nb","Remove the selected ultimate jewel from this item? #b#cffff0000Without Jewel Tweezers, the jewel will be destroyed.#nc#nb"
 UI_ULTIMATE_JEWEL_COMPOSE_TITLE,Fuse Ultimate Jewel,Fuse Ultimate Jewel
@@ -2506,7 +2506,7 @@ UI_ULTIMATE_JEWEL_REGISTER,Register ultimate jewel material gem.,Register ultima
 UI_ULTIMATE_JEWEL_INFO,Fuse 3 - 6 ultimate jewels to receive 1 higher grade ultimate jewel.,Fuse 3 - 6 ultimate jewels to receive 1 higher grade ultimate jewel.
 UI_ULTIMATE_JEWEL_CONFIRM,"If you fuse the gems, the gems used as materials disappear.\nDo you want to continue?","If you fuse the gems, the gems used as materials disappear.\nDo you want to continue?"
 UI_ULTIMATE_JEWEL_COMPOSE_PROB,Success: #b%s#nb,Erfolgschance: #b%s#nb
-UI_ULTIMATE_JEWEL_UPGRADE_TITLE,Create Ultimate Jewel,Create Ultimate Jewel
+UI_ULTIMATE_JEWEL_UPGRADE_TITLE,Create Ultimate Jewel,Ultimatives Juwel erstellen
 UI_UPGRADE_ULTIMATE_JEWEL_REGISTER,Register material jewel,Register material jewel
 UI_UPGRADE_ULTIMATE_JEWEL_INFO,Create 10 jewel pieces or 1 gemstone to receive a first-grade complete jewel.,Create 10 jewel pieces or 1 gemstone to receive a first-grade complete jewel.
 UI_COUPLE_PROPOSAL,Couple Proposal,Couple Proposal
@@ -2517,7 +2517,7 @@ UI_COUPLE_PARTNER_OFFLINE,Your partner must be online.,Your partner must be onli
 UI_COUPLE_BREAKUP_DEADLINE,Break up response deadline: %s,Break up response deadline: %s
 UI_COUPLE_BREAKUP_NOTI,Break up notification time: %s,Break up notification time: %s
 UI_COUPLE_NEXTEXP_TIME,Time until passive experience: %s,Time until passive experience: %s
-UI_COUPLE_NEXTEXP_OFFLINE,No passive experience (offline),No passive experience (offline)
+UI_COUPLE_NEXTEXP_OFFLINE,No passive experience (offline),Keine passive Erfahrung (offline)
 UI_COUPLE_BREAKUP,Break Up,Break Up
 UI_COUPLE_BREAKUP_FORCE,Break Up(F),Break Up(F)
 UI_COUPLE_TELEPORT,Teleport,Teleport
@@ -2526,19 +2526,19 @@ UI_COUPLE_CHEER,Cheer,Cheer
 UI_COUPLE_FORM_DATE,Formation Date,Formation Date
 UI_COUPLE_STORAGE_AVAIL,Available Storage Slots,Available Storage Slots
 UI_COUPLE_MAX_TELEPORTS,Maximum Daily Teleports,Maximum Daily Teleports
-UI_COUPLE_MAX_CHEERS,Maximum Daily Cheers,Maximum Daily Cheers
-UI_COUPLE_MAX_POINTS,Maximum Skill Points,Maximum Skill Points
-UI_COUPLE_TOTAL_QUESTS,Total Quests Completed,Total Quests Completed
-UI_COUPLE_SINGLE,You are single.,You are single.
+UI_COUPLE_MAX_CHEERS,Maximum Daily Cheers,Maximale tägliche Cheers
+UI_COUPLE_MAX_POINTS,Maximum Skill Points,Maximale Skillpunkte
+UI_COUPLE_TOTAL_QUESTS,Total Quests Completed,Anzahl abgeschlossener Quests
+UI_COUPLE_SINGLE,You are single.,Du bist Single.
 UI_COUPLE_TABPARTNER,Partner,Partner
 UI_COUPLE_BREAKUP_TEXT,"Are you sure you want to request a break up from your partner? If you break up, you will immediately lose all items in your couple storage, and couple functions will no longer be available.","Are you sure you want to request a break up from your partner? If you break up, you will immediately lose all items in your couple storage, and couple functions will no longer be available."
 UI_COUPLE_BREAKUP_FORCE_TEXT,"Are you sure you want to immediately force a break up with your partner? If you break up, you will immediately lose all items in your couple storage, and couple functions will no longer be available.","Are you sure you want to immediately force a break up with your partner? If you break up, you will immediately lose all items in your couple storage, and couple functions will no longer be available."
 UI_COUPLE_BREAKUP_NOTIFY,"Your partner has requested a break up. If accepted you will immediately lose all items in your couple storage and will no longer be a couple, losing any couple functionality. Do you accept?","Your partner has requested a break up. If accepted you will immediately lose all items in your couple storage and will no longer be a couple, losing any couple functionality. Do you accept?"
 UI_COUPLE_PROPOSE,Propose,Propose
 UI_COUPLE_PROPOSE_INFO,Request to form a couple with the recipient using the inserted couple ring.,Request to form a couple with the recipient using the inserted couple ring.
-UI_TOOLTIP_COUPLE_LEVEL,Required Couple Level: %d,Required Couple Level: %d
-UI_TOOLTIP_COUPLE_POINTS,Required Couple Points: %d,Required Couple Points: %d
-UI_COUPLEBANK_TITLE,Couple Storage,Couple Storage
+UI_TOOLTIP_COUPLE_LEVEL,Required Couple Level: %d,Benötigtes Couple Level: %d
+UI_TOOLTIP_COUPLE_POINTS,Required Couple Points: %d,Benötigte Couple-Punkte: %d
+UI_COUPLEBANK_TITLE,Couple Storage,Couple Lager
 UI_ULTIMATE_JEWEL_TOPAZ,Topaz,Topaz
 UI_ULTIMATE_JEWEL_RUBY,Ruby,Ruby
 UI_ULTIMATE_JEWEL_SAPPHIRE,Sapphire,Sapphire
@@ -2590,8 +2590,8 @@ UI_REPAIR_TITLE,Repair,Reparatur
 UI_REPAIR_DESC_DEFAULT,Do you wish to repair %s?\n(%s),Do you wish to repair %s?\n(%s)
 UI_REPAIR_DESC_PERCENT,Do you wish to repair %s?\n(%s%%),Do you wish to repair %s?\n(%s%%)
 UI_LIFE_FISHING_MINIGAME,Minigame,Minigame
-UI_LIFE_FISHING_SKIP_MINIGAME,Skip Minigame,Skip Minigame
-UI_LIFE_FISHING_SKIP_MINIGAME_AUTO,Skip Minigame automatically,Skip Minigame automatically
+UI_LIFE_FISHING_SKIP_MINIGAME,Skip Minigame,Minigame überspringen
+UI_LIFE_FISHING_SKIP_MINIGAME_AUTO,Skip Minigame automatically,Minigame automatisch überspringen
 UI_LIFE_FISHING_SKIP_MINIGAME_INFORMATION,"If you skip the minigame, you can't get the buffs for increasing your fishing success to date. Are you sure you want to skip the minigame?","If you skip the minigame, you can't get the buffs for increasing your fishing success to date. Are you sure you want to skip the minigame?"
 UI_LIFE_FISHING_BAIT_SELECTION,Bait Selection,Bait Selection
 UI_LIFE_FISHING_BAIT_SELECTION_INFORMATION,Select the bait you want to use for fishing. The bait you use will change the rarity of fish you can get. ,Select the bait you want to use for fishing. The bait you use will change the rarity of fish you can get. 
@@ -2599,7 +2599,7 @@ UI_QUEST_GATHERING_HERB,Gathering herb. #cffc32f07#b%d/%d#nb#nc,Gathering herb. 
 UI_LIFE_FISHING_GUESS,Guess which bait the fish will take.,Guess which bait the fish will take.
 UI_LIFE_FISHING_SUCCESS_RATE_INCREASE,Fishing success %% goes up when you win.\n(Current success rate %.1f%%),Fishing success %% goes up when you win.\n(Current success rate %.1f%%)
 UI_SEC,%d sec,%d sec
-UI_CONFIRM,Confirm,Annehmen
+UI_CONFIRM,Confirm,Bestätigen
 UI_LIFE_FISHING_TIME,Fishing Time:,Fishing Time:
 UI_LIFE_FISHING_NUMBEROF_ATTEMPTS,Number of attempts:,Number of attempts:
 UI_LIFE_FISHING_NUMBEROF_FISH_CAUGHT,Number of fish caught:,Number of fish caught:
@@ -2608,7 +2608,7 @@ UI_LIFE_FISHING_SUCCESS_RATE,Success rate:,Success rate:
 UI_LIFE_FISHING_TIME_FORMAT,%d hrs %d min %d sec,%d hrs %d min %d sec
 UI_TIMES,%d time(s),%d time(s)
 UI_LIFE_FISHING_STATUS,Fishing Status,Fishing Status
-UI_WAITING,Waiting,Waiting
+UI_WAITING,Waiting,Warten
 UI_LIFE_RECIPEBTN,See related recipes,See related recipes
 UI_LIFE_RECIPES,Recipes,Rezepte
 UI_LIFE_RECIPES_CATEGORY,Category,Kategorie
@@ -2689,16 +2689,16 @@ UI_LIFE_MASTERY_RANKING_TITLE,Mastery Rankings,Mastery Rankings
 UI_LIFE_MASTERY_RANKING_RANK,Rank,Rang
 UI_LIFE_MASTERY_RANKING_CHARNAME,Character Name,Charakter-Name
 UI_LIFE_MASTERY_RANKING_JOB,Job,Klasse
-UI_LIFE_MASTERY_RANKING_POINT,Mastery Points,Mastery Points
-UI_LIFE_MASTERY_RANKING_CLOSE,Close,Close
+UI_LIFE_MASTERY_RANKING_POINT,Mastery Points,Mastery Punkte
+UI_LIFE_MASTERY_RANKING_CLOSE,Close,Schließen
 UI_LIFE_MASTERY_RANKING_REWARD_TITLE,Mastery	Ranking Rewards,Mastery	Ranking Rewards
 UI_LIFE_MASTERY_RANKING_REWARD_CLAIM_REWARD,Claim Rewards,Belohnungen abholen
 UI_LIFE_MASTERY_RANKING_REWARD_DESC_ITEM_COUNT,%s x %d,%s x %d
 UI_LIFE_MASTERY_RANKING_REWARD_DESC_TITLE_ITEM_COUNT,"[%s]Title, %s x %d","[%s]Title, %s x %d"
-UI_LIFE_MASTERY_RANKING_REWARD_REWARD,Rewards,Rewards
+UI_LIFE_MASTERY_RANKING_REWARD_REWARD,Rewards,Belohnungen
 UI_ACHIEVEMENTS_TITLE_TITLE,Achievement titles,Achievement titles
 UI_ACHIEVEMENTS_INDEPENDENTTITLE_TITLE,Independent titles,Independent titles
-UI_ACHIEVEMENTS_INDEPENDENTTITLE_REMAININGTIME,remaining time : \n%dday(s) %d:%d:%d,remaining time : \n%dday(s) %d:%d:%d
+UI_ACHIEVEMENTS_INDEPENDENTTITLE_REMAININGTIME,remaining time : \n%dday(s) %d:%d:%d,verbleibende Zeit : \n%dTag(e) %d:%d:%d
 UI_LIFE_MASTERY_UNIQUE_HERB,Herb with a unique fragrance. You can obtain Common-Rare Herbs.,Herb with a unique fragrance. You can obtain Common-Rare Herbs.
 UI_LIFE_MASTERY_RARE_HERB,Herb that is hard to find. You can obtain Common-Very Rare Herbs.,Herb that is hard to find. You can obtain Common-Very Rare Herbs.
 UI_LIFE_MASTERY_LEGENDARY_HERB,Legendary Herb that only few ever found. You can obtain Rare-Very Rare Herbs.,Legendary Herb that only few ever found. You can obtain Rare-Very Rare Herbs.
@@ -2713,16 +2713,16 @@ UI_LIFE_PRODUCTION_MSGBOX_TEXT,"Once production has started, it cannot be cancel
 UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,"Once production has started, it cannot be canceled. Do you wish to proceed with starting production?\n\n#cffffc000Production time required: %s~%s#nc","Once production has started, it cannot be canceled. Do you wish to proceed with starting production?\n\n#cffffc000Production time required: %s~%s#nc"
 UI_QUEST_GATHERING_MINING,Mining. #cffc32f07#b%d/%d#nb#nc,Mining. #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_WOODCUTTING,Wood Cutting. #cffc32f07#b%d/%d#nb#nc,Wood Cutting. #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_GATHERING_FISHING,Fishing. #cffc32f07#b%d/%d#nb#nc,Fishing. #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_PRODUCTION_COOKING,Cooking. #cffc32f07#b%d/%d#nb#nc,Cooking. #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_PRODUCTION_ALCHEMY,Alchemy. #cffc32f07#b%d/%d#nb#nc,Alchemy. #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_GATHERING_FISHING,Fishing. #cffc32f07#b%d/%d#nb#nc,Fischen. #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_PRODUCTION_COOKING,Cooking. #cffc32f07#b%d/%d#nb#nc,Kochen. #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_PRODUCTION_ALCHEMY,Alchemy. #cffc32f07#b%d/%d#nb#nc,Alchemie. #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_PRODUCTION_CARPENTRY,Carpentry. #cffc32f07#b%d/%d#nb#nc,Carpentry. #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_PRODUCTION_SMITHING,Smithing. #cffc32f07#b%d/%d#nb#nc,Smithing. #cffc32f07#b%d/%d#nb#nc
 UI_CHAT_COPYNAME,Copy name,Name kopieren
 UI_RAINBOWRACE_WRONG_CHANNEL_1,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPlease enter through the NPC Rainbow Race Officer located in %s Darken.\n\nPressing the OK button will move you to %s.,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPlease enter through the NPC Rainbow Race Officer located in %s Darken.\n\nPressing the OK button will move you to %s.
 UI_RAINBOWRACE_WRONG_CHANNEL_2,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPressing the OK button will move you to %s.,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPressing the OK button will move you to %s.
 UI_RAINBOWRACE_WRONG_CHANNEL_3,The Rainbow Race has started.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPressing the OK button will move you to %s.,The Rainbow Race has started.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPressing the OK button will move you to %s.
-UI_RAINBOWRACE_ENTER_CONFIRM,Would you like to enter the Rainbow Race?,Would you like to enter the Rainbow Race?
+UI_RAINBOWRACE_ENTER_CONFIRM,Would you like to enter the Rainbow Race?,Möchtest du das Regenbogenrennen betreten?
 UI_CREATENPC_TITLE,Create NPC,NPC erstellen
 UI_CREATENPC_AGRESSIVE,Aggressive,Aggressiv
 UI_CREATENPC_NOWNER,No Owner,Kein Besitzer
@@ -2743,14 +2743,14 @@ UI_HOUSINGSETUP_HARVESTCOUNTINFINITE,Infinite harvests,Infinite harvests
 UI_TOOLTIP_HARVESTCOOLTIME,Harvest Cooltime:,Harvest Cooltime:
 UI_HOUSINGSETUP_HARVESTCOOLTIME,Grow Time,Grow Time
 UI_QUEST_MOTION,Motion: %s,Motion: %s
-UI_TOOLTIP_REQ_QUEST,Required Quest: %s,Required Quest: %s
+UI_TOOLTIP_REQ_QUEST,Required Quest: %s,Benötigte Quest: %s
 UI_TOOLTIP_PVE_DMG_FLAT,PvE Damage,PvE Schaden
-UI_TOOLTIP_PVEINCOMINGDMG_FLAT,PvE Dmg Resist,PvE Dmg Resist
-UI_GENERALAWAKE_START,Start,Start
-UI_GENERALAWAKE_HEADERITEM,Item to awake,Item to awake
+UI_TOOLTIP_PVEINCOMINGDMG_FLAT,PvE Dmg Resist,PvE Schaden Resistenz
+UI_GENERALAWAKE_START,Start,Starten
+UI_GENERALAWAKE_HEADERITEM,Item to awake,Zu erweckendes Item
 UI_GENERALAWAKESLOT_INDEX,Stat %d,Stat %d
 UI_SEARCHSHOP_TELEPORT_TITLE,Teleport to the Shop,Zum Shop teleportieren
-UI_SEARCHSHOP_TELEPORT_CONFIRM,Do you want to teleport to the shop?,Do you want to teleport to the shop?
+UI_SEARCHSHOP_TELEPORT_CONFIRM,Do you want to teleport to the shop?,Möchtest du dich zum Shop teleportieren?
 UI_PRIVATE_SHOP_ADS,Shop Advertisement:,Shop Advertisement:
 UI_SEARCHSHOP_ADVERTISED,Advertised,Beworben
 UI_PRIVATE_SHOP_ADSOPEN,Your Shop Advertisement item will be consumed and disappear when closing the shop.,Your Shop Advertisement item will be consumed and disappear when closing the shop.
@@ -2763,7 +2763,7 @@ UI_GENERALAWAKE_SOULBIND_TITLE,Use Blessing?,Use Blessing?
 UI_GENERALAWAKE_SOULBIND,Applying a Blessing will make the item soul-bound. Do you wish to continue?,Applying a Blessing will make the item soul-bound. Do you wish to continue?
 UI_RECIPE_NOT_FULL,"The recipe is not fully understood, so only one of each ingredient is used.","Da das Rezept nicht vollständig verstanden wird, wird jeweils nur eine Zutat verwendet."
 UI_CHRISTMAS_INVANSION_MISSION,Quest completed,Quest abgeschlossen
-UI_TELEPORT_ARENA,Do you want to exit the arena?,Möchtest du die Arena beenden?
+UI_TELEPORT_ARENA,Do you want to exit the arena?,Möchtest du die Arena verlassen?
 UI_NEWYEARPASS_2025,2025 New Year Pass,2025 New Year Pass
 UI_QUEST_GATHERING,Gather %s #cffc32f07#b%d/%d#nb#nc,Gather %s #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_YEAROFSNAKE2025,"Attempting to gather (Herb gathering, Woodcutting, Mining, Harvested Berry) #cffc32f07#b%d/%d#nb#nc","Attempting to gather (Herb gathering, Woodcutting, Mining, Harvested Berry) #cffc32f07#b%d/%d#nb#nc"
@@ -2773,10 +2773,10 @@ UI_LIFE_MASTERY_RANKING_TABPERMANENT,Permanent Ranking,Permanentes Ranking
 UI_LIFE_MASTERY_RANKINGREWARD_TITLE,Title:,Title:
 UI_LIFE_MASTERY_RANKING_CURRENTRANK,Current rank:,Gilden Ranking
 UI_LIFE_MASTERY_RANKING_CURRENTRANK_UNRANKED,unranked.,unranked.
-UI_QUEST_PT_JAN2024_1,Spring Points: %d Pts,Punkte Frühling: %d Pts
-UI_QUEST_PT_JAN2024_2,Spring Points: ????,Punkte Frühling: ????
-UI_EVENT_JAN2024_NAME,Spring Point Exchange,Punkte Frühling Austausch
-UI_JAN2024_POINT_NAME,Spring Points,Punkte Frühling
+UI_QUEST_PT_JAN2024_1,Spring Points: %d Pts,Frühlingspunkte: %d Pts
+UI_QUEST_PT_JAN2024_2,Spring Points: ????,Frühlingspunkte: ????
+UI_EVENT_JAN2024_NAME,Spring Point Exchange,Frühlingspunkte Austausch
+UI_JAN2024_POINT_NAME,Spring Points,Frühlingspunkte
 UI_POINTS,%d Pts,%d Pts
 UI_QUEST_ATTEMPT_GATHERING,"Attempting to gather (Herb gathering, Woodcutting, Mining, Harvested Berry) #cffc32f07#b%d/%d#nb#nc","Attempting to gather (Herb gathering, Woodcutting, Mining, Harvested Berry) #cffc32f07#b%d/%d#nb#nc"
 UI_STANDBY,Standby,Standby

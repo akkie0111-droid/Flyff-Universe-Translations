@@ -91,7 +91,7 @@ TEXTCLIENT_ERROR_SEX,%s is not for your gender.,%s ist nicht für dein Geschlech
 TEXTCLIENT_ERROR_JOB,You cannot equip the %s. Requirements not met.,Du kannst %s nicht ausrüsten. Voraussetzungen nicht erfüllt.
 TEXTCLIENT_ERROR_LEVEL,You cannot equip this item because your level is too low. (Req Lev: %d),Du kannst diesen Gegenstand nicht ausrüsten weil dein Level zu niedrig ist. (Benötigtes Level: %d)
 TEXTCLIENT_ERROR_UNDESTRUCTABLE,You can not discard this item.,"Dieses Item kann weder gelöscht, noch auf den Boden geworfen werden. "
-TEXTCLIENT_ERROR_USINGITEM,You are already using this item.,Sie nutzen dieses Item bereits.
+TEXTCLIENT_ERROR_USINGITEM,You are already using this item.,Du nutzt dieses Item bereits.
 TEXTCLIENT_SUCCESSREMOVEITEM,Number of %s deleted: %d.,Anzahl %s gelöscht: %d.
 TEXTCLIENT_NOTARGET,"Cannot attack, no monster targeted.","Kein Angriff möglich, kein Monster ausgewählt."
 TEXTCLIENT_NOTUSE,You cannot use this yet.,Du kannst das jetzt nicht benutzen.
@@ -708,9 +708,9 @@ TEXTCLIENT_CASHMAP_MAPITEMUSE,"If you use the torch, you will be able to see thi
 TEXTCLIENT_PET_NOWUSE,You already have a pet summoned.,Dein Pet wurde bereits beschworen
 TEXTCLIENT_CHAOTIC_NO_FLY,A character with a bad Disposition cannot fly.,Charaktere mit Karma können nicht fliegen.
 TEXTCLIENT_SERVERTEST,[Notice] This is a test! Server will close in %s and characters will be deleted.,[Information] Dies ist nur ein Test! Der Server wird in %s geschlossen und alle Charaktere werden gelöscht.
-TEXTCLIENT_EARLY_ACCESS,[Notice] This is the Early Access! Server stability issues and bugs can occur.,[Notiz] Dies ist der Early Access! Serverstabilitätsprobleme und Bugs können auftreten.
-TEXTCLIENT_ALERT_NO_PK,[Notice] A GM (Game Master) will never ask for your Account or Bank Password.,[Notiz] Ein Game Master (GM) oder Moderator (MOD) wird niemals nach deinem Passwort fragen.
-TEXTCLIENT_ALERT_PK,[Notice] Do not lend or let a player borrow your items. If they do not give the item back it is lost forever.,"[Notiz] Verleihe deine Gegenstände nicht und lasse sie dir auch nicht von anderen Spielern leihen. Wenn sie dir den Gegenstand nicht zurückgeben, ist er für immer verloren."
+TEXTCLIENT_EARLY_ACCESS,[Notice] This is the Early Access! Server stability issues and bugs can occur.,[Info] Dies ist der Early Access! Serverstabilitätsprobleme und Bugs können auftreten.
+TEXTCLIENT_ALERT_NO_PK,[Notice] A GM (Game Master) will never ask for your Account or Bank Password.,[Info] Ein Game Master (GM) oder Moderator (MOD) wird niemals nach deinem Passwort fragen.
+TEXTCLIENT_ALERT_PK,[Notice] Do not lend or let a player borrow your items. If they do not give the item back it is lost forever.,"[Info] Verleihe deine Gegenstände nicht und lasse sie dir auch nicht von anderen Spielern leihen. Wenn sie dir den Gegenstand nicht zurückgeben, ist er für immer verloren."
 TEXTCLIENT_ERROR_DISTANCE,You are too far from the target.,Das Ziel ist außerhalb deiner Reichweite.
 TEXTCLIENT_GUILDCOMBAT_KILLING_STREAK,%s is on a killing spree!,%s verfällt in einen Blutrausch!
 TEXTCLIENT_GUILDCOMBAT_RAMPAGE,%s is on a rampage!,%s wird zum Berserker!
@@ -1218,8 +1218,8 @@ TEXTCLIENT_TRANS_LOTTERY_KALGASASSAULT,You can't use the roulette in the Kalgas 
 TEXTCLIENT_KALGASASSAULT_NO_OUTWAR,You cannot use Blinkwings to escape the Kalgas Assault.,"Du kannst Blinkwings nicht benutzen, um dem Kalgas Assault zu entkommen."
 TEXTCLIENT_GAME_KALGASASSAULT_NOTUSE,In Kalgas Assault,In Kalgas Assault
 TEXTCLIENT_KALGAS_REVIVAL_USED_SILVERCOIN,You already use Silver Coin this game.,Du verwendest in diesem Spiel bereits Silbermünzen.
-TEXTCLIENT_KALGAS_REVIVAL_REQUIRE_SILVERCOIN,You require a Silver Coin.,Sie benötigen eine Silbermünze.
-TEXTCLIENT_KALGAS_REVIVAL_REQUIRE_GOLDCOIN,You require Gold Coins.,Sie benötigen Goldmünzen.
+TEXTCLIENT_KALGAS_REVIVAL_REQUIRE_SILVERCOIN,You require a Silver Coin.,Du benötigst eine Silbermünze.
+TEXTCLIENT_KALGAS_REVIVAL_REQUIRE_GOLDCOIN,You require Gold Coins.,Du benötigst Goldmünzen.
 TEXTCLIENT_KALGAS_REVIVAL_NOTENOUGH_GOLDCOIN,Not enough Gold Coins.,Nicht genug Goldmünzen.
 TEXTCLIENT_KALGAS_PLAY_SOON,The Kalgas Assault match will start soon.,The Kalgas Assault match will start soon.
 TEXTCLIENT_KALGAS_FAIL_ENTER,Unable to enter the Kalgas Assault.,Unable to enter the Kalgas Assault.
