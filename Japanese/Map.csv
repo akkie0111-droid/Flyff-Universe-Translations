@@ -21,14 +21,14 @@ PROPMAP_TXT_000275,Forsaken Tower 2F,忘却の塔2階
 PROPMAP_TXT_000276,Forsaken Tower 3F,忘却の塔3階
 PROPMAP_TXT_000277,Forsaken Tower 4F,忘却の塔4階
 PROPMAP_TXT_000278,Forsaken Tower 5F,忘却の塔5階
-PROPMAP_TXT_000279,Forsaken Tower 6F,Forsaken Tower 6F
-PROPMAP_TXT_000280,Forsaken Tower 7F,Forsaken Tower 7F
+PROPMAP_TXT_000279,Forsaken Tower 6F,忘却の塔6階
+PROPMAP_TXT_000280,Forsaken Tower 7F,忘却の塔7階
 PROPMAP_TXT_100000,Kebaras,ケバラス
 PROPMAP_TXT_100001,North-Fl,フラリス 北広場
 PROPMAP_TXT_100002,Cen Flarine,フラリス 中央広場
 PROPMAP_TXT_100003,East-Fla,フラリス 東広場
 PROPMAP_TXT_100004,Darkon,ダーコン
-PROPMAP_TXT_100005,The North of Leren Mountains,レルエン山脈の北部
+PROPMAP_TXT_100005,The North of Leren Mountains,レレン山脈の北部
 PROPMAP_TXT_100006,The River of Weeping,勇気の谷の中部
 PROPMAP_TXT_100007,Saint Hall,セイントホール
 PROPMAP_TXT_100008,Pumpkin Town,カボチャ男爵の居住地
@@ -69,7 +69,7 @@ PROPMAP_TXT_100044,Forgotten Bridge,忘れられた橋
 PROPMAP_TXT_100045,Azria Village,アズリアビレッジ
 PROPMAP_TXT_100046,Frozen Lakes,凍てついた湖
 PROPMAP_TXT_100047,Castle Ruins,城跡
-PROPMAP_TXT_100048,High Mountains,高い山
+PROPMAP_TXT_100048,High Mountains,高山地帯
 PROPMAP_TXT_100049,Redchip Dealer,レッドチップディーラー
 PROPMAP_TXT_100050,Storm Peak,ストームピーク
 PROPMAP_TXT_100051,Envy Depths,エンヴィーデプス
@@ -90,7 +90,7 @@ PROPMAP_TXT_100065,Envy Depths (Medium),エンヴィーデプス（ノーマル�
 PROPMAP_TXT_100066,Eggcellent's Meadow,エッグセレントの牧草地
 PROPMAP_TXT_100067,Eggcellent's Meadow (Medium),エッグセレントの牧草地(ミディアム)
 PROPMAP_TXT_100068,Eggcellent's Meadow (Hard),エッグセレントの牧草地(ハード)
-PROPMAP_TXT_100069,Leren Chasm (Story),レレン層岩巨淵(ストーリー)
+PROPMAP_TXT_100069,Leren Chasm (Story),レレンの淵(ストーリー)
 PROPMAP_TXT_100070,Rhisis Catacombs (Story),リシスの地下墓地(ストーリー)
 PROPMAP_TXT_100071,Envy Depths (Story),エンヴィーデプス（ストーリー）
 PROPMAP_TXT_100072,Guardiane Sanctuary (Story),ガーディアンサンクチュアリ(ストーリー)
@@ -100,7 +100,7 @@ PROPMAP_TXT_100074,The Wilds (Story),ザ・ワイルズ(ストーリー)
 PROPMAP_TXT_100075,The Wilds,ザ・ワイルズ
 PROPMAP_TXT_230001,Instance,インスタンス
 PROPMAP_TXT_100076,FWC Arena,FWCアリーナ
-PROPMAP_TXT_100081,Leren Chasm (Cursed),レレン層岩巨淵(カース)
+PROPMAP_TXT_100081,Leren Chasm (Cursed),レレンの淵(カース)
 PROPMAP_TXT_100082,Rhisis Catacombs (Cursed),リシスの地下墓地(カース)
 PROPMAP_TXT_100083,Envy Depths (Cursed),エンヴィーデプス（カース）
 PROPMAP_TXT_100084,Guardiane Sanctuary (Cursed),ガーディアンサンクチュアリ(カース)
@@ -149,11 +149,11 @@ PROPMAX_TXT_200026,Ankou's Asylum,Ankou's Asylum
 PROPMAP_TXT_200027,Kaillun Temple,Kaillun Temple
 PROPMAP_TXT_200028,Eillun,Eillun
 PROPMAP_TXT_200029,Kaillun,Kaillun
-PROPMAP_TXT_200030,Leren Chasm (Infernal),Leren Chasm (Infernal)
-PROPMAP_TXT_200031,Rhisis Catacombs (Infernal),Rhisis Catacombs (Infernal)
-PROPMAP_TXT_200032,Envy Depths (Infernal),Envy Depths (Infernal)
-PROPMAP_TXT_200033,Guardiane Sanctuary (Infernal),Guardiane Sanctuary (Infernal)
-PROPMAP_TXT_200034,Storm Peak (Infernal),Storm Peak (Infernal)
-PROPMAP_TXT_200035,The Wilds (Infernal),The Wilds (Infernal)
+PROPMAP_TXT_200030,Leren Chasm (Infernal),レレンの淵 (Infernal)
+PROPMAP_TXT_200031,Rhisis Catacombs (Infernal),リシスの地下墓地 (Infernal)
+PROPMAP_TXT_200032,Envy Depths (Infernal),エンヴィーデプス (Infernal)
+PROPMAP_TXT_200033,Guardiane Sanctuary (Infernal),ガーディアンサンクチュアリ (Infernal)
+PROPMAP_TXT_200034,Storm Peak (Infernal),ストームピーク (Infernal)
+PROPMAP_TXT_200035,The Wilds (Infernal),ザ・ワイルズ (Infernal)
 PROPMAP_TXT_200036,Ankou's Asylum (Story),Ankou's Asylum (Story)
 PROPMAP_TXT_200037,Seabed,Seabed
