@@ -2507,15 +2507,15 @@ PROPQUEST_INC_150454,I’m counting on you. I trust you with this mission.,Je co
 PROPQUEST_INC_150455,"Thank you for your efforts, sir. I’m Merk, a scout ordered to track the traitor by the Elder.","Merci pour vos efforts, monsieur. Je suis Merk, un éclaireur chargé par l’Ancien de traquer le traître."
 PROPQUEST_INC_150456,Meet with [Eillun Scout] Merk,Rencontrez [Éclaireur Eillun] Merk
 PROPQUEST_INC_150457,Bad News,Mauvaises nouvelles
-PROPQUEST_INC_150458,"The Lycan forces keep growing, and their numbers make it hard to get close. I… lost sight of the target. This area is under Chief Keokuk’s direct control, so getting any closer is almost impossible.","Les forces lycanthropes continuent de croître, et leur nombre rend l’approche difficile. J’ai… perdu de vue la cible. Cette zone est sous le contrôle direct du chef Keokuk, il est donc presque impossible de s’approcher."
+PROPQUEST_INC_150458,"The Lycan forces keep growing, and their numbers make it hard to get close. I… lost sight of the target. This area is under Chief Keokuk’s direct control, so getting any closer is almost impossible.","Les forces lycanthropes continuent de croître, et leur nombre rend l’approche difficile. J’ai… perdu de vue la cible. Cette zone est sous le contrôle direct du Sorcier Lycan, il est donc presque impossible de s’approcher."
 PROPQUEST_INC_150459,"The fact that the traitor went this far suggests they’re more closely allied than we thought. In any case, we’ll have to defeat this enemy to uncover any proof.","Le fait que le traître soit allé aussi loin suggère qu’ils sont plus étroitement alliés que nous ne le pensions. Quoi qu’il en soit, nous devrons vaincre cet ennemi pour trouver une preuve."
 PROPQUEST_INC_150460,"Thank you. Once you secure evidence, I think you should return to the Elder.","Merci. Une fois que vous aurez sécurisé les preuves, je pense que vous devriez retourner voir l’Ancien."
 PROPQUEST_INC_150461,This is the best plan I can think of. Do you have a better one?,C’est le meilleur plan auquel je puisse penser. En avez-vous un meilleur ?
 PROPQUEST_INC_150462,I’ll be waiting.,Je vous attendrai.
 PROPQUEST_INC_150463,"Aside from the jarl, this war is finally over. With that stinking giant defeated, the fighting is truly finished. It took far too long. Thank you for bringing this war to an end.","À part le jarl, cette guerre est enfin terminée. Avec ce géant puant vaincu, le combat est vraiment terminé. Cela a pris beaucoup trop de temps. Merci d’avoir mis fin à cette guerre."
-PROPQUEST_INC_150464,Kill 1 Chief Keokuk and obtain “Chief Keokuk’s Notebook”,Tuez 1 Chef Keokuk et obtenez « Le Carnet du Chef Keokuk »
+PROPQUEST_INC_150464,Kill 1 Chief Keokuk and obtain “Chief Keokuk’s Notebook”,Tuez 1 Sorcier Lycan et obtenez « Le Carnet du Sorcier Lycan »
 PROPQUEST_INC_150465,The Ever-Turning Vicious Cycle of Blood,Le Cycle Vicieux Sans Fin de Sang
-PROPQUEST_INC_150466,Chief Keokuk had this? What madness. So this war was just a game played by him and the traitor…,Le Chef Keokuk avait cela ? Quelle folie. Alors cette guerre n’était qu’un jeu joué par lui et le traître…
+PROPQUEST_INC_150466,Chief Keokuk had this? What madness. So this war was just a game played by him and the traitor…,Le Sorcier Lycan avait cela ? Quelle folie. Alors cette guerre n’était qu’un jeu joué par lui et le traître…
 PROPQUEST_INC_150467,"The Lycans worship the demon Ankou as their god. The traitor must have made a deal, selling us out to fuel this war. To fully summon a demon, a great amount of blood is required.","Les Lycans vénèrent le démon Ankou comme leur dieu. Le traître a dû conclure un pacte, nous trahissant pour alimenter cette guerre. Pour invoquer pleinement un démon, une grande quantité de sang est nécessaire."
 PROPQUEST_INC_150468,"According to the note you brought, they’ve already attempted the summoning, but it’s incomplete. Their final goal must be to complete that abomination.","Selon la note que vous avez apportée, ils ont déjà tenté l’invocation, mais elle est incomplète. Leur objectif final doit être de compléter cette abomination."
 PROPQUEST_INC_150469,"At the edge of the continent lies Ankou’s sealed asylum. If the traitor is there, it’s up to you whether to kill him or bring him back. Please, put an end to this insanity.","À la limite du continent se trouve l’asile scellé d’Ankou. Si le traître s’y trouve, c’est à vous de décider s’il faut le tuer ou le ramener. S’il vous plaît, mettez fin à cette folie."
@@ -2667,7 +2667,7 @@ PROPQUEST_INC_150614,"So, is this your grand discovery?","Alors, est-ce votre gr
 PROPQUEST_INC_150615,"I don’t know what it is either, but I know someone who might.","Je ne sais pas ce que c’est non plus, mais je connais quelqu’un qui pourrait le savoir."
 PROPQUEST_INC_150616,Go see [Knight Master] Karandur.,Allez voir [Maître Chevalier] Karandur.
 PROPQUEST_INC_150617,Go see [Blade Master] Corel.,Allez voir [Maître Assassin] Corel.
-PROPQUEST_INC_150618,Go see [Elementor Master] Horison.,Allez voir [Maître Élémentaire] Horison.
+PROPQUEST_INC_150618,Go see [Elementor Master] Horison.,Allez voir [Maître Élémentaliste] Horison.
 PROPQUEST_INC_150619,Go see [Psykeeper Master] Cylor.,Allez voir [Maître Sorcier] Cylor.
 PROPQUEST_INC_150620,Go see [Jester Master] Lorein.,Allez voir [Maître Jester] Lorein.
 PROPQUEST_INC_150621,Go see [Ranger Master] Eliff.,Allez voir [Maître Ranger] Eliff.
@@ -2685,13 +2685,13 @@ PROPQUEST_INC_150632,"It’s been a while, adventurer. I already heard from [Ass
 PROPQUEST_INC_150633,"You have something to show me, and you’re searching for clues about awakening?","Vous avez quelque chose à me montrer, et vous cherchez des indices sur l’éveil ?"
 PROPQUEST_INC_150634,Let me see the item first.,Laissez-moi voir l’objet d’abord.
 PROPQUEST_INC_150635,Meet [Knight Master] Karandur.,Rencontrez [Maître Chevalier] Karandur.
-PROPQUEST_INC_150636,Meet [Blade Master] Corel,Rencontrez [Maître Lame] Corel
-PROPQUEST_INC_150637,Meet [Elementor Master] Horison,Rencontrez [Maître Élémentaire] Horison
-PROPQUEST_INC_150638,Meet [Psykeeper Master] Cylor,Rencontrez [Maître Psykeeper] Cylor
-PROPQUEST_INC_150639,Meet [Jester Master] Lorein,Rencontrez [Maître Bouffon] Lorein
+PROPQUEST_INC_150636,Meet [Blade Master] Corel,Rencontrez [Maître Assassin] Corel
+PROPQUEST_INC_150637,Meet [Elementor Master] Horison,Rencontrez [Maître Élémentaliste] Horison
+PROPQUEST_INC_150638,Meet [Psykeeper Master] Cylor,Rencontrez [Maître Sorcier] Cylor
+PROPQUEST_INC_150639,Meet [Jester Master] Lorein,Rencontrez [Maître Jester] Lorein
 PROPQUEST_INC_150640,Meet [Ranger Master] Eliff,Rencontrez [Maître Ranger] Eliff
-PROPQUEST_INC_150641,Meet [Billposter Master] Ride,Rencontrez [Maître Afficheur] Ride
-PROPQUEST_INC_150642,Meet [Ringmaster Master] Ellend,Rencontrez [Maître Dompteur] Ellend
+PROPQUEST_INC_150641,Meet [Billposter Master] Ride,Rencontrez [Maître Moine] Ride
+PROPQUEST_INC_150642,Meet [Ringmaster Master] Ellend,Rencontrez [Maître Prêtre] Ellend
 PROPQUEST_INC_150643,Oh… this has nothing to do with awakening.,Oh… cela n’a rien à voir avec l’éveil.
 PROPQUEST_INC_150644,"It says that long ago, all continents were connected, and many races lived together.","Il est dit qu’autrefois, tous les continents étaient reliés et que de nombreuses races y vivaient ensemble."
 PROPQUEST_INC_150645,This is exactly the kind of thing the Strange Collector in Saint City loves. He’d be thrilled if you brought it to him.,C’est exactement le genre de chose que le Collectionneur Étrange de Saint City adore. Il serait ravi si vous le lui apportiez.
@@ -2718,7 +2718,7 @@ PROPQUEST_INC_150665,I see… the power inside you isn’t enough to awaken as a
 PROPQUEST_INC_150666,"Still, you have the potential to reach a whole new realm.","Pourtant, vous avez le potentiel d’atteindre un tout nouveau royaume."
 PROPQUEST_INC_150667,[Knight Master] Karandur even wrote you a letter of introduction just to send you to me.,[Maître Chevalier] Karandur a même écrit une lettre de recommandation pour vous envoyer à moi.
 PROPQUEST_INC_150668,[Blade Master] Corel even wrote you a letter of introduction just to send you to me.,[Maître Assassin] Corel a même écrit une lettre de recommandation pour vous envoyer à moi.
-PROPQUEST_INC_150669,[Elementor Master] Horison even wrote you a letter of introduction just to send you to me.,[Maître Élémentaire] Horison a même écrit une lettre de recommandation pour vous envoyer à moi.
+PROPQUEST_INC_150669,[Elementor Master] Horison even wrote you a letter of introduction just to send you to me.,[Maître Élémentaliste] Horison a même écrit une lettre de recommandation pour vous envoyer à moi.
 PROPQUEST_INC_150670,[Psykeeper Master] Cylor even wrote you a letter of introduction just to send you to me.,[Maître Sorcier] Cylor a même écrit une lettre de recommandation pour vous envoyer à moi.
 PROPQUEST_INC_150671,[Jester Master] Lorein even wrote you a letter of introduction just to send you to me.,[Maître Jester] Lorein a même écrit une lettre de recommandation pour vous envoyer à moi.
 PROPQUEST_INC_150672,[Ranger Master] Eliff even wrote you a letter of introduction just to send you to me.,[Maître Ranger] Eliff a même écrit une lettre de recommandation pour vous envoyer à moi.
