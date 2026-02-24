@@ -2016,7 +2016,7 @@ PROPITEM_TXT_004001,FP 240 Recovery,Återställer 240 FP
 PROPITEM_TXT_004002,VitalDrink 500,VitalDrink 500
 PROPITEM_TXT_004003,FP 300 Recovery,Återställer 300 FP
 PROPITEM_TXT_004004,VitalDrink 600,VitalDrink 600
-PROPITEM_TXT_004005,FP 368 Recovery,Återställer 360 FP
+PROPITEM_TXT_004005,FP 368 Recovery,Återställer 368 FP
 PROPITEM_TXT_004006,VitalDrink 700,VitalDrink 700
 PROPITEM_TXT_004007,FP 450 Recovery,Återställer 450 FP
 PROPITEM_TXT_004008,VitalDrink 800,VitalDrink 800
@@ -2304,39 +2304,39 @@ PROPITEM_TXT_004311,Used for Piercing and Accessory Upgrade (High Success Rate),
 PROPITEM_TXT_004312,Power Dice 12,Krafttärningar 12
 PROPITEM_TXT_004313,General Upgrade: +1 to +10 (High Success Rate),Allmän uppgradering: +1 till +10 (Hög framgångsfrekvens)
 PROPITEM_TXT_004314,Volcano Card (2%),Vulkankort (2%)
-PROPITEM_TXT_004315,+2% HP (When placed in a pierced suit),+2% HP (När den bär en piercad dräkt)
+PROPITEM_TXT_004315,+2% HP (When placed in a pierced suit),+2% HP (När den placeras i en piercad utrustning)
 PROPITEM_TXT_004316,Volcano Card (4%),Vulkankort (4%)
-PROPITEM_TXT_004317,+4% HP (When placed in a pierced suit),+4% HP (När den bär en piercad dräkt)
+PROPITEM_TXT_004317,+4% HP (When placed in a pierced suit),+4% HP (När den placeras i en piercad utrustning)
 PROPITEM_TXT_004318,Volcano Card (7%),Vulkankort (7%)
-PROPITEM_TXT_004319,+7% HP (When placed in pierced suit),+7% HP (När den bär en piercad dräkt)
+PROPITEM_TXT_004319,+7% HP (When placed in pierced suit),+7% HP (När den placeras i en piercad utrustning)
 PROPITEM_TXT_004320,Ocean Card (2%),Ocean Card (2%)
-PROPITEM_TXT_004321,+2% MP (When placed in a pierced suit),+2% MP (När den bär en piercad dräkt)
+PROPITEM_TXT_004321,+2% MP (When placed in a pierced suit),+2% MP (När den placeras i en piercad utrustning)
 PROPITEM_TXT_004322,Ocean Card (4%),Ocean Card (4%)
-PROPITEM_TXT_004323,+4% MP (When placed in a pierced suit),+4% MP (När den bär en piercad dräkt)
+PROPITEM_TXT_004323,+4% MP (When placed in a pierced suit),+4% MP (När den placeras i en piercad utrustning)
 PROPITEM_TXT_004324,Ocean Card (7%),Ocean Card (7%)
-PROPITEM_TXT_004325,+7% MP (When placed in a pierced suit),+7% MP (När den bär en piercad dräkt)
+PROPITEM_TXT_004325,+7% MP (When placed in a pierced suit),+7% MP (När den placeras i en piercad utrustning)
 PROPITEM_TXT_004326,Vacuum Card (2%),Vacuum Card (2%)
-PROPITEM_TXT_004327,+2% FP (When placed in a pierced suit),+2% FP (När den bär en piercad dräkt)
+PROPITEM_TXT_004327,+2% FP (When placed in a pierced suit),+2% FP (När den placeras i en piercad utrustning)
 PROPITEM_TXT_004328,Vacuum Card (4%),Vacuum Card (4%)
-PROPITEM_TXT_004329,+4% FP (When placed in a pierced suit),+4% FP (När den bär en piercad dräkt)
+PROPITEM_TXT_004329,+4% FP (When placed in a pierced suit),+4% FP (När den placeras i en piercad utrustning)
 PROPITEM_TXT_004330,Vacuum Card (7%),Vacuum Card (7%)
-PROPITEM_TXT_004331,+7% FP (When placed in a pierced suit),+7% FP (När den bär en piercad dräkt)
+PROPITEM_TXT_004331,+7% FP (When placed in a pierced suit),+7% FP (När den placeras i en piercad utrustning)
 PROPITEM_TXT_004332,Lightning Card (2%),Lightning Card (2%)
-PROPITEM_TXT_004333,+2% Attack (When placed in a pierced suit),+2% Attack (När den bär en piercad dräkt)
+PROPITEM_TXT_004333,+2% Attack (When placed in a pierced suit),+2% Attack (När den placeras i en piercad utrustning)
 PROPITEM_TXT_004334,Lightning Card (4%),Lightning Card (4%)
-PROPITEM_TXT_004335,+4% Attack (When placed in a pierced suit),+4% Attack (När den bär en piercad dräkt)
+PROPITEM_TXT_004335,+4% Attack (When placed in a pierced suit),+4% Attack (När den placeras i en piercad utrustning)
 PROPITEM_TXT_004336,Lightning Card (7%),Lightning Card (7%)
-PROPITEM_TXT_004337,+7% Attack (When placed in a pierced suit),+7% Attack (När den bär en piercad dräkt)
+PROPITEM_TXT_004337,+7% Attack (When placed in a pierced suit),+7% Attack (När den placeras i en piercad utrustning)
 PROPITEM_TXT_004338,Earthquake Card (2%),Jordbävningskort (2%)
-PROPITEM_TXT_004339,+2% Defense (When placed in a pierced suit),+2% Försvar (När den bär en piercad dräkt)
+PROPITEM_TXT_004339,+2% Defense (When placed in a pierced suit),+2% Försvar (När den placeras i en piercad utrustning)
 PROPITEM_TXT_004340,Earthquake Card (4%),Jordbävningskort (4%)
-PROPITEM_TXT_004341,+4% Defense (When placed in a pierced suit),+4% Försvar (När den bär en piercad dräkt)
+PROPITEM_TXT_004341,+4% Defense (When placed in a pierced suit),+4% Försvar (När den placeras i en piercad utrustning)
 PROPITEM_TXT_004342,Earthquake Card (7%),Jordbävningskort (7%)
-PROPITEM_TXT_004343,+7% Defense (When placed in a pierced suit),+7% Försvar (När den bär en piercad dräkt)
+PROPITEM_TXT_004343,+7% Defense (When placed in a pierced suit),+7% Försvar (När den placeras i en piercad utrustning)
 PROPITEM_TXT_004348,Vuul Card,Vuul Card
-PROPITEM_TXT_004349,+1% Attack (When placed in a pierced suit),+1% Attack (När den bär en piercad dräkt)
+PROPITEM_TXT_004349,+1% Attack (When placed in a pierced suit),+1% Attack (När den placeras i en piercad utrustning)
 PROPITEM_TXT_004350,Vulcanus Card,Vulcanus Card
-PROPITEM_TXT_004351,+1% Defense (When placed in a pierced suit),+1% Försvar (När den bär en piercad dräkt)
+PROPITEM_TXT_004351,+1% Defense (When placed in a pierced suit),+1% Försvar (När den placeras i en piercad utrustning)
 PROPITEM_TXT_004352,Vulkan Card,Vulkan Card
 PROPITEM_TXT_004353,+1% Max. HP (When placed in a pierced suit),+1% Max. HP (When placed in a pierced suit)
 PROPITEM_TXT_004354,Mountain Breeze Card,Mountain Breeze Card
@@ -18039,11 +18039,11 @@ PROPITEM_TXT_133657,Gray Pill (A),Grå piller (A)
 PROPITEM_TXT_133658,Gray Pill (A+),Grå piller (A+)
 PROPITEM_TXT_133659,Recovers 1380 HP,Återställer 1380 HP
 PROPITEM_TXT_133660,Second Refresher (C),Second Refresher (C)
-PROPITEM_TXT_133661,MP 150 Recovery,Återställer 150 FP
+PROPITEM_TXT_133661,MP 150 Recovery,Återställer 150 MP
 PROPITEM_TXT_133662,Second Refresher (B),Second Refresher (B)
 PROPITEM_TXT_133663,Second Refresher (A),Second Refresher (A)
 PROPITEM_TXT_133664,Second Refresher (A+),Second Refresher (A+)
-PROPITEM_TXT_133665,MP 163 Recovery,Återställer 163 FP
+PROPITEM_TXT_133665,MP 163 Recovery,Återställer 163 MP
 PROPITEM_TXT_133666,VitalDrink 300 (C),VitalDrink 300 (C)
 PROPITEM_TXT_133667,FP 216 Recovery,Återställer 216 FP
 PROPITEM_TXT_133668,VitalDrink 300 (B),VitalDrink 300 (B)
@@ -18093,11 +18093,11 @@ PROPITEM_TXT_133711,Blue Pill (A),Blå piller (A)
 PROPITEM_TXT_133712,Blue Pill (A+),Blå piller (A+)
 PROPITEM_TXT_133713,Recovers 4600 HP,Återställer 4600 HP
 PROPITEM_TXT_133714,Red Pill (C),Röd piller (C)
-PROPITEM_TXT_133715,Recovers 8800 HP,Återställer 8800 FP
+PROPITEM_TXT_133715,Recovers 8800 HP,Återställer 8800 HP
 PROPITEM_TXT_133716,Red Pill (B),Röd piller (B)
 PROPITEM_TXT_133717,Red Pill (A),Röd piller (A)
 PROPITEM_TXT_133718,Red Pill (A+),Röd piller (A+)
-PROPITEM_TXT_133719,Recovers 9200 HP,Återställer 9200 FP
+PROPITEM_TXT_133719,Recovers 9200 HP,Återställer 9200 HP
 PROPITEM_TXT_133720,Third Refresher (C),Third Refresher (C)
 PROPITEM_TXT_133721,MP 222 Recovery,Återställer 222 MP
 PROPITEM_TXT_133722,Third Refresher (B),Third Refresher (B)
@@ -18133,7 +18133,7 @@ PROPITEM_TXT_133751,FP 708 Recovery,Återställer 708 MP
 PROPITEM_TXT_133752,VitalDrink 900 (B),VitalDrink 900 (B)
 PROPITEM_TXT_133753,VitalDrink 900 (A),VitalDrink 900 (A)
 PROPITEM_TXT_133754,VitalDrink 900 (A+),VitalDrink 900 (A+)
-PROPITEM_TXT_133755,FP 767 Recovery,Återställer 767 MP
+PROPITEM_TXT_133755,FP 767 Recovery,Återställer 767 FP
 PROPITEM_TXT_133756,Ninth Refresher (C),Ninth Refresher (C)
 PROPITEM_TXT_133757,MP 720 Recovery,Återställer 720 MP
 PROPITEM_TXT_133758,Ninth Refresher (B),Ninth Refresher (B)
