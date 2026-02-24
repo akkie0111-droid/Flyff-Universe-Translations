@@ -1,2 +1,2 @@
 ﻿#b#cff0000ffTa bort välsignelse#nb#nc
-Ta bort välsignelsen från ett objekt. #b#cffff0000Den här åtgärden kan inte ångras.#nc#nb
+Ta bort välsignelsen från ett objekt. #b#cffff0000Denna åtgärd kan inte ångras.#nc#nb
