@@ -1638,10 +1638,10 @@ UI_LEVELREACH_LVL181,Level 181,Antas 181
 UI_LEVELREACH_LVL184,Level 184,Antas 184
 UI_LEVELREACH_LVL187,Level 187,Antas 187
 UI_LEVELREACH_LVL190,Level 190,Antas 190
-UI_GIANTHUNTING,Giant Hunting,Giant Hunting
+UI_GIANTHUNTING,Giant Hunting,Pangangaso ng Higante
 UI_WORLDCUP,GET'EM B'ALL,GET'EM B'ALL
-UI_WORLDCUP_TITLE,GET'EM B'ALL Scoreboard,GET'EM B'ALL Scoreboard
-UI_WORLDCUP_INFO,Collect #bSoccer Balls#nb from monsters to increase your guild points! Guilds will receive #brewards according to their rank#nb:\n1~10: Soccer Gold Box\n11~30: Soccer Silver Box\n31~All: Soccer Bronze Box\nGuild members who scores less than 50 points cannot receive reward.,Collect #bSoccer Balls#nb from monsters to increase your guild points! Guilds will receive #brewards according to their rank#nb:\n1~10: Soccer Gold Box\n11~30: Soccer Silver Box\n31~All: Soccer Bronze Box\nGuild members who scores less than 50 points cannot receive reward.
+UI_WORLDCUP_TITLE,GET'EM B'ALL Scoreboard,GET'EM B'ALL Iskorboard
+UI_WORLDCUP_INFO,Collect #bSoccer Balls#nb from monsters to increase your guild points! Guilds will receive #brewards according to their rank#nb:\n1~10: Soccer Gold Box\n11~30: Soccer Silver Box\n31~All: Soccer Bronze Box\nGuild members who scores less than 50 points cannot receive reward.,Kolektahin ang #bSoccer Balls#nb mula sa mga halimaw upang madagdagan ang iyong mga puntos sa guild! Makakatanggap ang mga guild ng #brewards ayon sa kanilang ranggo#nb:\n1~10: Soccer Gold Box\n11~30: Soccer Silver Box\n31~All: Soccer Bronze Box\nAng mga miyembro ng guild na makakakuha ng mas mababa sa 50 puntos ay hindi makakatanggap ng gantimpala.
 UI_WORLDCUP_POINTS,GET'EM B'ALL Points,GET'EM B'ALL Puntos
 UI_WORLDCUP_RANK,Guild Rank: %d - Guild Points: %d - Your Points: %d,Ranggo ng Guild: %d - Mga Punto ng Gilda: %d - Iyong Mga Punto: %d
 UI_MSGBOX_COPY,Copy,Kopyahin
