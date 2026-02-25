@@ -1658,350 +1658,350 @@ UI_DUNGEON_ENTRANCE_SOLO,Solo,Nag-iisa
 UI_DUNGEON_ENTRANCE_PARTY_SOLO,Party or Solo,Partido o Nag-iisa
 UI_DUNGEON_ENTRANCE_GUILD_SOLO,Guild or Solo,Guild o Nag-iisa
 UI_DUNGEON_ENTRANCE,Entrance: %s,Pasukan: %s
-UI_DUNGEON_MIN_LEVEL,Minimum Level: %d,Minimum Level: %d
-UI_DUNGEON_MAX_LEVEL,Maximum Level: %d,Maximum Level: %d
-UI_DUNGEON_MIN_LEADER_LEVEL,Minimum Creator Level: %d,Minimum Creator Level: %d
+UI_DUNGEON_MIN_LEVEL,Minimum Level: %d,Pinakamababang Antas: %d
+UI_DUNGEON_MAX_LEVEL,Maximum Level: %d,Pinakamataas na Antas: %d
+UI_DUNGEON_MIN_LEADER_LEVEL,Minimum Creator Level: %d,Pinakamababang Antas ng Tagalikha: %d
 UI_DUNGEON_REQ_LEADER_COMPLETE_QUEST,Req. Creator Completed Quest: %s,Req. Creator Completed Quest: %s
 UI_DUNGEON_REQ_LEADER_QUEST,Req. Creator Quest: %s,Req. Creator Quest: %s
-UI_DUNGEON_ENTER,Enter,Enter
+UI_DUNGEON_ENTER,Enter,Pumasok
 UI_DUNGEON_COOLDOWN,Cooldown: %s,Cooldown: %s
-UI_DUNGEON_LOOT,Loot items,Loot items
-UI_DUNGEON_REQ_LEADER_ITEM,Req. Creator Items:,Req. Creator Items:
+UI_DUNGEON_LOOT,Loot items,Mga nakuhang bagay
+UI_DUNGEON_REQ_LEADER_ITEM,Req. Creator Items:,Kinakailangang mga item ng lumikha:
 UI_DUNGEON_REQ_DUNGEON,Req. Dungeon: %s,Req. Dungeon: %s
-UI_DUNGEON_REQ_LEADER_GOLD,Creator Entrance Fee: %s Penya,Creator Entrance Fee: %s Penya
-UI_DUNGEON_CLEAR_MONSTERS,Clear %d monsters,Clear %d monsters
-UI_DUNGEON_CLEAR_MONSTERS_STATE,Clear monsters %d/%d,Clear monsters %d/%d
-UI_DUNGEON_SOLO_CONFIRM,You will enter the dungeon alone.,You will enter the dungeon alone.
-UI_DUNGEON_PAY_CONFIRM,You will pay %s Penya.,You will pay %s Penya.
-UI_DUNGEON_MIN_GUILD_LEVEL,Req. Guild Level: %d,Req. Guild Level: %d
-UI_DUNGEON_MODS_NOTE,#bNote: Selecting dungeon curses will not have an effect and not subtract any costs if you enter an already existing instance.#nb,#bNote: Selecting dungeon curses will not have an effect and not subtract any costs if you enter an already existing instance.#nb
-UI_QUEST_LEVEL,Reach level %d,Reach level %d
+UI_DUNGEON_REQ_LEADER_GOLD,Creator Entrance Fee: %s Penya,Bayad sa pagpasok ng tagalikha: %s Penya
+UI_DUNGEON_CLEAR_MONSTERS,Clear %d monsters,I-Clear %d monsters
+UI_DUNGEON_CLEAR_MONSTERS_STATE,Clear monsters %d/%d,I-Clear monsters %d/%d
+UI_DUNGEON_SOLO_CONFIRM,You will enter the dungeon alone.,Papasok ka sa dungeon nang mag-isa.
+UI_DUNGEON_PAY_CONFIRM,You will pay %s Penya.,Magbabayad ka ng %s Penya.
+UI_DUNGEON_MIN_GUILD_LEVEL,Req. Guild Level: %d,Kinakailangang Antas ng Guild: %d
+UI_DUNGEON_MODS_NOTE,#bNote: Selecting dungeon curses will not have an effect and not subtract any costs if you enter an already existing instance.#nb,#bTandaan: Ang pagpili ng mga sumpa sa dungeon ay hindi magkakaroon ng epekto at hindi magbabawas ng anumang gastos kung papasok ka sa isang umiiral nang instance.#nb
+UI_QUEST_LEVEL,Reach level %d,Abutin ang antas %d
 UI_QUEST_BADGE1,Badge,Badge
 UI_QUEST_BADGE2,Badge: %s,Badge: %s
-UI_ACHIEVEMENTS_REWARD_SKILL,Unlocks skill: %s lv. %d,Unlocks skill: %s lv. %d
-UI_ACHIEVEMENTS_NOBADGE,No Badge,No Badge
-UI_ACHIEVEMENTS_NOBADGE_DESCRIPTION,Does not show any badge.,Does not show any badge.
-UI_ACHIEVEMENTS_BADGEREWARD,Unlocked Badge,Unlocked Badge
+UI_ACHIEVEMENTS_REWARD_SKILL,Unlocks skill: %s lv. %d,Binubuksan ang kasanayan: %s lv. %d
+UI_ACHIEVEMENTS_NOBADGE,No Badge,Walang Badge
+UI_ACHIEVEMENTS_NOBADGE_DESCRIPTION,Does not show any badge.,Hindi nagpapakita ng anumang badge.
+UI_ACHIEVEMENTS_BADGEREWARD,Unlocked Badge,Nabuksan na Badge
 UI_ACHIEVEMENTS_BADGE,Badge: #b%s#nb,Badge: #b%s#nb
-TEXTCLIENT_EXCHANGELIMIT,There are no more items to trade! Stock is empty!,There are no more items to trade! Stock is empty!
-UI_THIEFSANTAHUNT_RANKING_TITLE,Thief Santa Hunt Ranking,Thief Santa Hunt Ranking
-UI_BATTLEPASS_MISSION_PLAYTIME,Stay online %s minutes,Stay online %s minutes
-UI_CHRISTMAS_ATTENDANCE,Christmas Daily Quests,Christmas Daily Quests
-UI_CHRISTMAS_ATTEND_DESC,Complete Santa's quest each day! Only during Christmas Holidays so don't miss a day!,Complete Santa's quest each day! Only during Christmas Holidays so don't miss a day!
-UI_CATCH_THIEF_SANTA,Catch the Thief Santa!,Catch the Thief Santa!
-UI_APP_LOTTERY_START,Spin!,Spin!
-UI_APP_LOTTERY,Lottery,Lottery
-UI_APP_LOTTERY_TIP,Displays the Lottery Menu.,Displays the Lottery Menu.
-UI_APP_LOTTERY_NEEDEDCOUNT,You need %dx %s to spin the wheel,You need %dx %s to spin the wheel
-UI_APP_LOTTERY_FREESPINTIMER,Next free spin in: %s,Next free spin in: %s
-UI_APP_LOTTERY_FREESPINTIMER_READY,You can spin the wheel!!,You can spin the wheel!!
-UI_LUCKYROULETTE,Lucky Roulette,Lucky Roulette
-UI_LUCKYROULETTE_ATTENDANCE,Play for 24 hours to get 120 lottery coins to spend in the Lottery Wheel!,Play for 24 hours to get 120 lottery coins to spend in the Lottery Wheel!
-UI_LUNAR_NEW_YEAR,Lunar New Year,Lunar New Year
-UI_BATTLEPASS,Battle Pass,Battle Pass
-UI_EVENTPASS,Update Pass,Update Pass
-UI_ANNIVERSARYPASS,1 Year Anniversary Pass,1 Year Anniversary Pass
-UI_TOOLTIP_BATTLEPASS,Expire at the end of %s.,Expire at the end of %s.
-UI_VALENTINE_EVENT,Valentine's Day Event,Valentine's Day Event
-UI_TOOLTIP_COOLDOWN_SECS,Cooldown: %.1f seconds,Cooldown: %.1f seconds
-UI_DUNGEON_DEFEAT_MONSTER,Defeat %s,Defeat %s
-UI_DUNGEON_DEFEAT_MONSTER_NN,Defeat %d/%d %s,Defeat %d/%d %s
-UI_DUNGEON_DEFEAT_MONSTER_N,Defeat %dx %s,Defeat %dx %s
-UI_CHARINFO_PK_COUNT,Player(s) Killed,Player(s) Killed
-UI_CHARINFO_PK_STOLENCHIPS,PK Chips Stolen,PK Chips Stolen
-UI_CHARINFO_PK_VALUE,PK Value,PK Value
-UI_USETICKET,Use ticket!,Use ticket!
-UI_TICKETCHANGE,Change Layer!,Change Layer!
-UI_TICKET,Ticket Area,Ticket Area
-UI_TICKETCHANNELSEL,Select a Layer,Select a Layer
+TEXTCLIENT_EXCHANGELIMIT,There are no more items to trade! Stock is empty!,Wala nang mga item na ipagpapalit! Wala nang stock!
+UI_THIEFSANTAHUNT_RANKING_TITLE,Thief Santa Hunt Ranking,Ranggo ng Paghahanap kay Thief Santa
+UI_BATTLEPASS_MISSION_PLAYTIME,Stay online %s minutes,Manatiling online ng %s minuto
+UI_CHRISTMAS_ATTENDANCE,Christmas Daily Quests,Araw-araw na Misyon ng Pasko
+UI_CHRISTMAS_ATTEND_DESC,Complete Santa's quest each day! Only during Christmas Holidays so don't miss a day!,Kumpletuhin ang misyon ni Santa bawat araw! Tanging sa panahon ng Pasko kaya huwag palampasin ang isang araw!
+UI_CATCH_THIEF_SANTA,Catch the Thief Santa!,Hulihin ang Thief Santa!
+UI_APP_LOTTERY_START,Spin!,Paikutin!
+UI_APP_LOTTERY,Lottery,Loterya
+UI_APP_LOTTERY_TIP,Displays the Lottery Menu.,Ipinapakita ang Menu ng Loterya.
+UI_APP_LOTTERY_NEEDEDCOUNT,You need %dx %s to spin the wheel,Kailangan mo ng %dx %s para paikutin ang gulong.
+UI_APP_LOTTERY_FREESPINTIMER,Next free spin in: %s,Susunod na libreng paikutin sa: %s
+UI_APP_LOTTERY_FREESPINTIMER_READY,You can spin the wheel!!,Maaari mo nang paikutin ang gulong!!
+UI_LUCKYROULETTE,Lucky Roulette,Masuwerteng Rulet
+UI_LUCKYROULETTE_ATTENDANCE,Play for 24 hours to get 120 lottery coins to spend in the Lottery Wheel!,Maglaro ng 24 na oras upang makakuha ng 120 na barya sa loterya na magagamit sa Gulong ng Loterya!
+UI_LUNAR_NEW_YEAR,Lunar New Year,Bagong Taon ng Lunar
+UI_BATTLEPASS,Battle Pass,Labanan Pass
+UI_EVENTPASS,Update Pass,Pag-update Pass
+UI_ANNIVERSARYPASS,1 Year Anniversary Pass,1 Taon Anibersaryo Pass
+UI_TOOLTIP_BATTLEPASS,Expire at the end of %s.,Magwawakas sa katapusan ng %s.
+UI_VALENTINE_EVENT,Valentine's Day Event,Kaganapan sa Araw ng mga Puso
+UI_TOOLTIP_COOLDOWN_SECS,Cooldown: %.1f seconds,Cooldown: %.1f segundo
+UI_DUNGEON_DEFEAT_MONSTER,Defeat %s,Talo ang %s
+UI_DUNGEON_DEFEAT_MONSTER_NN,Defeat %d/%d %s,Talo ang %d/%d %s
+UI_DUNGEON_DEFEAT_MONSTER_N,Defeat %dx %s,Talo ang %dx %s
+UI_CHARINFO_PK_COUNT,Player(s) Killed,Pinatay na manlalaro
+UI_CHARINFO_PK_STOLENCHIPS,PK Chips Stolen,Nakaw na PK Chips
+UI_CHARINFO_PK_VALUE,PK Value,Halaga ng PK
+UI_USETICKET,Use ticket!,Gamitin ang tiket!
+UI_TICKETCHANGE,Change Layer!,Palitan ang Layer!
+UI_TICKET,Ticket Area,Area ng Tiket
+UI_TICKETCHANNELSEL,Select a Layer,Pumili ng layer
 UI_TICKETCHANNEL,Layer ,Layer 
-UI_TICKETLEAVE,Leave Area,Leave Area
-UI_TARGETITEMLEVEL,Required Target Level: %d,Required Target Level: %d
-UI_DUNGEON_REQ_ITEM,Required Items:,Required Items:
-UI_DUNGEON_MAX_ENTRY_COUNT,Max Entrance Per Day: %d / %d,Max Entrance Per Day: %d / %d
-UI_DROP_DISTRIBUTE_TITLE,Loot Distribution,Loot Distribution
-UI_DROP_DISTRIBUTE_INFO,"Either roll a random number for the above item, or pass if you are not interested. After the timer, the player with the highest number gets the item.","Either roll a random number for the above item, or pass if you are not interested. After the timer, the player with the highest number gets the item."
-UI_DROP_DISTRIBUTE_ROLL,Need,Need
-UI_DROP_DISTRIBUTE_PASS,Pass,Pass
-UI_DROP_DISTRIBUTE_ROLL_TOOLTIP,Roll a number for a chance to get this item. Player with the highest roll wins.,Roll a number for a chance to get this item. Player with the highest roll wins.
-UI_DROP_DISTRIBUTE_PASS_TOOLTIP,Pass on this item if you are not interested.,Pass on this item if you are not interested.
-UI_DROP_DISTRIBUTE_RESULT,%s was awarded the item.,%s was awarded the item.
-UI_DROP_DISTRIBUTE_RESULT_MAIL,A player who is no longer available has been mailed the item.,A player who is no longer available has been mailed the item.
-UI_DROP_DISTRIBUTE_CURRENT,Item: %d/%d,Item: %d/%d
-UI_TOOLTIP_MULTISTRIKE,Multistrike Chance,Multistrike Chance
-UI_BATTLEPASS_MISSION_KILLMONSTER_PK,Hunt Monsters Lv.%s+ on PK Channel,Hunt Monsters Lv.%s+ on PK Channel
-UI_BATTLEPASS_MISSION_KILLMONSTER2_PK,Hunt %s on PK Channel,Hunt %s on PK Channel
-UI_BATTLEPASS_MISSION_CLEARDUNGEON,Clear Dungeon(s),Clear Dungeon(s)
-UI_BATTLEPASS_MISSION_SAFETYPIERCING,Try Safe Piercing,Try Safe Piercing
-UI_BATTLEPASS_MISSION_SAFETYPIERCING2,Try Safe Piercing On %s,Try Safe Piercing On %s
-UI_BATTLEPASS_PIERCEWEAPON,Weapon,Weapon
-UI_BATTLEPASS_PIERCEARMOR,Armor,Armor
-UI_BATTLEPASS_PIERCESHIELD,Shield,Shield
-UI_DUNGEON_RANKING_RESET,Ranking Reset: #b%s#nb,Ranking Reset: #b%s#nb
-UI_DUNGEON_RANKING_CLEARTIME,Clear Time,Clear Time
-UI_DUNGEON_RANKING_UPDATE,Updated every 5 minutes,Updated every 5 minutes
-UI_PKUSEITEM,Only usable on PK channel,Only usable on PK channel
-UI_TELEPORT_TITLE,Exit,Exit
-UI_TELEPORT_MESSAGE,Do you want to exit the dungeon?,Do you want to exit the dungeon?
-UI_DUNGEON_FREE_ENTRANCE,Free Entrance Used #b%d / %d#nb,Free Entrance Used #b%d / %d#nb
-UI_CASHSHOP_MAXPURCHASE_DAILY,Maximum daily amount of purchases per character: %d,Maximum daily amount of purchases per character: %d
-UI_BATTLEPASS_MISSION_CLEARDUNGEON2,Clear Dungeon %s,Clear Dungeon %s
-UI_BATTLEPASS_MISSION_PK,Kill Players on PK Channel,Kill Players on PK Channel
-UI_BATTLEPASS_MISSION_PREMIUMAREA,Consume a Ticket Item,Consume a Ticket Item
-UI_BATTLEPASS_MISSION_PIERCINGCARD,Insert Piercing Card,Insert Piercing Card
-UI_BATTLEPASS_MISSION_PIERCINGCARD2,Insert Piercing Card On %s,Insert Piercing Card On %s
-UI_EVENTS_TITLE,Events,Events
-UI_EVENTS_BANNER_TAB,Events,Events
-UI_TOOLTOP_EVENTUSED,Collection effect ON,Collection effect ON
-UI_EVENT_TIMELEFT_FORMAT,%s left,%s left
+UI_TICKETLEAVE,Leave Area,Lumabas sa lugar
+UI_TARGETITEMLEVEL,Required Target Level: %d,Kailangang Antas ng Target: %d
+UI_DUNGEON_REQ_ITEM,Required Items:,Kailangang Mga Item:
+UI_DUNGEON_MAX_ENTRY_COUNT,Max Entrance Per Day: %d / %d,Maksimum na Pagpasok Bawat Araw: %d / %d
+UI_DROP_DISTRIBUTE_TITLE,Loot Distribution,Distribusyon ng Loot
+UI_DROP_DISTRIBUTE_INFO,"Either roll a random number for the above item, or pass if you are not interested. After the timer, the player with the highest number gets the item.","Mag-roll ng random na numero para sa item sa itaas, o mag-pass kung hindi ka interesado. Pagkatapos ng timer, ang manlalaro na may pinakamataas na numero ang makakakuha ng item."
+UI_DROP_DISTRIBUTE_ROLL,Need,Kailangan
+UI_DROP_DISTRIBUTE_PASS,Pass,Pasaporte
+UI_DROP_DISTRIBUTE_ROLL_TOOLTIP,Roll a number for a chance to get this item. Player with the highest roll wins.,Mag-roll ng numero para sa pagkakataong makuha ang bagay na ito. Ang manlalarong may pinakamataas na roll ang mananalo.
+UI_DROP_DISTRIBUTE_PASS_TOOLTIP,Pass on this item if you are not interested.,Mag-pass sa item na ito kung hindi ka interesado.
+UI_DROP_DISTRIBUTE_RESULT,%s was awarded the item.,%s inawardan ng bagay.
+UI_DROP_DISTRIBUTE_RESULT_MAIL,A player who is no longer available has been mailed the item.,Isang manlalaro na hindi na available ay naipadala na ang item sa pamamagitan ng mail.
+UI_DROP_DISTRIBUTE_CURRENT,Item: %d/%d,Bagay: %d/%d
+UI_TOOLTIP_MULTISTRIKE,Multistrike Chance,Tsansa ng Maramihang Atake
+UI_BATTLEPASS_MISSION_KILLMONSTER_PK,Hunt Monsters Lv.%s+ on PK Channel,Manghuli ng Halimaw Lv.%s+ sa PK Channel
+UI_BATTLEPASS_MISSION_KILLMONSTER2_PK,Hunt %s on PK Channel,Manghuli ng %s sa PK Channel
+UI_BATTLEPASS_MISSION_CLEARDUNGEON,Clear Dungeon(s),Linisin ang Dungeon(s)
+UI_BATTLEPASS_MISSION_SAFETYPIERCING,Try Safe Piercing,Subukan ang Ligtas na Pagbutas
+UI_BATTLEPASS_MISSION_SAFETYPIERCING2,Try Safe Piercing On %s,Subukan ang Ligtas na Pagbutas sa %s
+UI_BATTLEPASS_PIERCEWEAPON,Weapon,Armas
+UI_BATTLEPASS_PIERCEARMOR,Armor,Baluti
+UI_BATTLEPASS_PIERCESHIELD,Shield,Kalasag
+UI_DUNGEON_RANKING_RESET,Ranking Reset: #b%s#nb,Pag-reset ng Ranggo: #b%s#nb
+UI_DUNGEON_RANKING_CLEARTIME,Clear Time,Oras ng Paglilinis
+UI_DUNGEON_RANKING_UPDATE,Updated every 5 minutes,Na-update bawat 5 minuto
+UI_PKUSEITEM,Only usable on PK channel,Maaaring gamitin lamang sa PK channel
+UI_TELEPORT_TITLE,Exit,Lumabas
+UI_TELEPORT_MESSAGE,Do you want to exit the dungeon?,Gusto mo bang lumabas sa dungeon?
+UI_DUNGEON_FREE_ENTRANCE,Free Entrance Used #b%d / %d#nb,Libreng Pagpasok Ginamit #b%d / %d#nb
+UI_CASHSHOP_MAXPURCHASE_DAILY,Maximum daily amount of purchases per character: %d,Maksimum na araw-araw na halaga ng mga pagbili bawat karakter: %d
+UI_BATTLEPASS_MISSION_CLEARDUNGEON2,Clear Dungeon %s,Linisin ang Dungeon %s
+UI_BATTLEPASS_MISSION_PK,Kill Players on PK Channel,Pumatay ng mga Manlalaro sa PK Channel
+UI_BATTLEPASS_MISSION_PREMIUMAREA,Consume a Ticket Item,Gumamit ng Ticket Item
+UI_BATTLEPASS_MISSION_PIERCINGCARD,Insert Piercing Card,Ipasok ang Piercing Card
+UI_BATTLEPASS_MISSION_PIERCINGCARD2,Insert Piercing Card On %s,Ipasok ang Piercing Card sa %s
+UI_EVENTS_TITLE,Events,Mga Kaganapan
+UI_EVENTS_BANNER_TAB,Events,Mga Kaganapan
+UI_TOOLTOP_EVENTUSED,Collection effect ON,Epekto ng Koleksyon ON
+UI_EVENT_TIMELEFT_FORMAT,%s left,%s natitira
 UI_EVENT_BANNER_SCHEDULE,%s ~ %s,%s ~ %s
-UI_COSTUMECOLLECTION,Costume collection,Costume collection
-UI_COSTUMECOLLECTION_DESC,Costume collection,Costume collection
-UI_EVENTS_REWARD_RECEIVED,Received,Received
-UI_EVENTS_COSTUME_COMPLETED,Completed,Completed
+UI_COSTUMECOLLECTION,Costume collection,Koleksyon ng Kasuotan
+UI_COSTUMECOLLECTION_DESC,Costume collection,Deskripsyon ng Koleksyon ng Kasuotan
+UI_EVENTS_REWARD_RECEIVED,Received,Natanggap
+UI_EVENTS_COSTUME_COMPLETED,Completed,Natapos
 UI_EVENTS_COSTUME_SCORE,(%d),(%d)
-UI_APP_EVENTS_TIP,Displays the events menu.,Displays the events menu.
-UI_COSTUMECOLLECTION_GRP1,Lucky costumes,Lucky costumes
-UI_COSTUMECOLLECTION_GRP1_SET1,Alien Octopus\nCostume Set,Alien Octopus\nCostume Set
-UI_COSTUMECOLLECTION_GRP1_SET2,Rider\nCostume Set,Rider\nCostume Set
-UI_COSTUMECOLLECTION_GRP1_SET3,Baby Shark\nCostume Set,Baby Shark\nCostume Set
-UI_COSTUMECOLLECTION_GRP2,Existing costumes,Existing costumes
-UI_COSTUMECOLLECTION_GRP2_SET1,FV-13 Power Armor\nCostume Set,FV-13 Power Armor\nCostume Set
-UI_COSTUMECOLLECTION_GRP2_SET2,Space Samurai\nCostume Set,Space Samurai\nCostume Set
-UI_COSTUMECOLLECTION_GRP2_SET3,Casual Hanbok\nCostume Set,Casual Hanbok\nCostume Set
-UI_COSTUMECOLLECTION_GRP3,Event costumes,Event costumes
-UI_COSTUMECOLLECTION_GRP3_SET1,Spy\nCostume Set\n(7Days),Spy\nCostume Set\n(7Days)
-UI_COSTUMECOLLECTION_GRP3_SET2,Giraffe\nCostume Set\n(7Days),Giraffe\nCostume Set\n(7Days)
-UI_COSTUMECOLLECTION_GRP3_SET3,Steam Punk\nCostume Set\n(7Days),Steam Punk\nCostume Set\n(7Days)
-UI_COSTUMECOLLECTION_PART1,Hat,Hat
+UI_APP_EVENTS_TIP,Displays the events menu.,Ipinapakita ang menu ng mga kaganapan.
+UI_COSTUMECOLLECTION_GRP1,Lucky costumes,Masuwerteng kasuotan
+UI_COSTUMECOLLECTION_GRP1_SET1,Alien Octopus\nCostume Set,Alien Octopus\nKasuotan Set
+UI_COSTUMECOLLECTION_GRP1_SET2,Rider\nCostume Set,Rider\nKasuotan Set
+UI_COSTUMECOLLECTION_GRP1_SET3,Baby Shark\nCostume Set,Baby Shark\nKasuotan Set
+UI_COSTUMECOLLECTION_GRP2,Existing costumes,Umiiral na mga kasuotan
+UI_COSTUMECOLLECTION_GRP2_SET1,FV-13 Power Armor\nCostume Set,FV-13 Power Armor\nKasuotan Set
+UI_COSTUMECOLLECTION_GRP2_SET2,Space Samurai\nCostume Set,Space Samurai\nKasuotan Set
+UI_COSTUMECOLLECTION_GRP2_SET3,Casual Hanbok\nCostume Set,Casual Hanbok\nKasuotan Set
+UI_COSTUMECOLLECTION_GRP3,Event costumes,Mga Kaganapan na Kasuotan
+UI_COSTUMECOLLECTION_GRP3_SET1,Spy\nCostume Set\n(7Days),Spy\nKasuotan Set\n(7Araw)
+UI_COSTUMECOLLECTION_GRP3_SET2,Giraffe\nCostume Set\n(7Days),Giraffe\nKasuotan Set\n(7Araw)
+UI_COSTUMECOLLECTION_GRP3_SET3,Steam Punk\nCostume Set\n(7Days),Steam Punk\nKasuotan Set\n(7Araw)
+UI_COSTUMECOLLECTION_PART1,Hat,Sumbrero
 UI_COSTUMECOLLECTION_PART2,Suit,Terno
-UI_COSTUMECOLLECTION_PART3,Gloves,Gloves
+UI_COSTUMECOLLECTION_PART3,Gloves,Guwantes
 UI_COSTUMECOLLECTION_PART4,Boots,Bota
-UI_ACHIEVEMENTS_SUBMITBTN,Submit,Submit
-UI_ACHIEVEMENTS_SUBMITTIP,Submit your costumes!,Submit your costumes!
-UI_BATTLEPASS_MISSION_SAFETYALL,Try Safe Upgrade or Piercing,Try Safe Upgrade or Piercing
-UI_TOOLTIP_DST_UPGRADERATE,Upgrade Rate,Upgrade Rate
-UI_ACHIEVEMENT_TITLE,Title '%s',Title '%s'
-UI_EXCHANGE_1,1 Exchange,1 Exchange
-UI_EXCHANGE_2,2 Exchanges,2 Exchanges
-UI_EXCHANGE_3,3 Exchanges,3 Exchanges
-UI_EXCHANGE_4,4 Exchanges,4 Exchanges
-UI_EXCHANGE_5,5 Exchanges,5 Exchanges
-UI_QUEST_TRIGGERCTRL,Open %s #cffc32f07#b%d/%d#nb#nc,Open %s #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_RESCUE_CHILDRENS,Rescue the Children(s) #cffc32f07#b%d/%d#nb#nc,Rescue the Children(s) #cffc32f07#b%d/%d#nb#nc
-UI_GACHA_RESET_CONFIRM,Do you want to reset the gacha? You cannot cancel the action.,Do you want to reset the gacha? You cannot cancel the action.
-UI_FITTINGROOM_REMOVE_FASHION,Remove Fashion,Remove Fashion
-UI_FITTINGROOM_TIP,Preview the visuals of items on your character.,Preview the visuals of items on your character.
-UI_FITTINGROOM_NEXT_TIP,Preview the next animation.,Preview the next animation.
-UI_FITTINGROOM_PREV_TIP,Preview the previous animation.,Preview the previous animation.
-UI_FITTINGROOM_PAUSE_TIP,Toggle the current animation playback state.,Toggle the current animation playback state.
-UI_PVPCONTEST_TITLE,FWC PVP Registrations Board,FWC PVP Registrations Board
-UI_PVPCONTEST_INFO,"Will your guild be the one to win the trip to Manila? \nTake your chance by participating in the FWC PVP Contest! \nRegister your guild, choose your top %d players, and battle until the end!","Will your guild be the one to win the trip to Manila? \nTake your chance by participating in the FWC PVP Contest! \nRegister your guild, choose your top %d players, and battle until the end!"
-UI_PVPCONTEST_REGISTRATIONCOST,Registration cost:,Registration cost:
-UI_PVPCONTEST_MINGUILDLEVEL,Min. Guild Level:,Min. Guild Level:
-UI_PVPCONTEST_MAXPARTICIPATINGPLAYERS,Max participating players: ,Max participating players: 
-UI_PVPCONTEST_REGISTEREDGUILDS,Registered Guilds (Count: %d),Registered Guilds (Count: %d)
-UI_PVPCONTEST_REGISTER,Register,Register
-UI_PVPCONTEST_LINEUP,Line up,Line up
-UI_PVPCONTEST_REMAKE_MAKEUP,Would like to organize line up for FWC PVP Contest again?,Would like to organize line up for FWC PVP Contest again?
-UI_PVPCONTEST_CONFIRM_LINEUP,Do you confirm the line up for FWC PVP Contest? You cannot change it after.,Do you confirm the line up for FWC PVP Contest? You cannot change it after.
-UI_PVPCONTEST_SELECT_TITLE,Set Entry List for FWC PVP Contest,Set Entry List for FWC PVP Contest
-UI_PVPCONTEST_SELECT_CONNECTED,Connected Guild Members,Connected Guild Members
-UI_PVPCONTEST_SELECT_ENTRANT,Entrant List,Entrant List
-UI_PVPCONTEST_SELECT_RIGHT_TIP,Add a connected Guild Member to the entrant list.,Add a connected Guild Member to the entrant list.
-UI_PVPCONTEST_SELECT_LEFT_TIP,Delete a Guild Member from the entrant list.,Delete a Guild Member from the entrant list.
-UI_PVPCONTEST_SELECT_UP_TIP,Arrange the selected Guild member to the upper side.,Arrange the selected Guild member to the upper side.
-UI_PVPCONTEST_SELECT_DOWN_TIP,Arrange the selected Guild member to the lower side.,Arrange the selected Guild member to the lower side.
-UI_PVPCONTEST_SELECT_COMPLETE,Complete,Complete
-UI_PVPCONTEST_SELECT_COMPLETE_TIP,Complete the entry list.,Complete the entry list.
-UI_PVPCONTEST_SELECT_REMAKE,Remake,Remake
-UI_PVPCONTEST_SELECT_REMAKE_TIP,Remake the entry list.,Remake the entry list.
-UI_PVPCONTEST_SELECT_INFO,Register your team. You can select a maximum of %d participating players. #b#cffff0000You CANNOT change the participating members later after registering.#nc#nb,Register your team. You can select a maximum of %d participating players. #b#cffff0000You CANNOT change the participating members later after registering.#nc#nb
-UI_PVPCONTEST_SELECT_ENTRANT_TIP,A maximum of %d members can join the FWC PVP Contest. Choose your best players wisely.,A maximum of %d members can join the FWC PVP Contest. Choose your best players wisely.
-UI_PVPCONTEST_SELECTMATCH,Select Match,Select Match
-UI_PVPCONTEST_SELECTMATCH_TOOLTIP,Select today's match schedule.,Select today's match schedule.
-UI_PVPCONTEST_MATCH_TITLE,Select today's match,Select today's match
-UI_PVPCONTEST_MATCH_INFO,"Select today's match schedules. Please note that if you're not here in time, your opponent will receive an #binstant#nb win. You can only pick #bone#nb match per day.","Select today's match schedules. Please note that if you're not here in time, your opponent will receive an #binstant#nb win. You can only pick #bone#nb match per day."
-UI_PVPCONTEST_MATCH_SELECT,Select match,Select match
-UI_PVPCONTEST_TELEPORT,Your match will start in a few minutes. Do you want to teleport to the match arena? #b#cffff0000Declining means you won't be able to join later.#nc#nb,Your match will start in a few minutes. Do you want to teleport to the match arena? #b#cffff0000Declining means you won't be able to join later.#nc#nb
+UI_ACHIEVEMENTS_SUBMITBTN,Submit,Isumite
+UI_ACHIEVEMENTS_SUBMITTIP,Submit your costumes!,Isumite ang iyong mga kasuotan!
+UI_BATTLEPASS_MISSION_SAFETYALL,Try Safe Upgrade or Piercing,Subukan ang Ligtas na Pag-upgrade o Piercing
+UI_TOOLTIP_DST_UPGRADERATE,Upgrade Rate,Rate ng Pag-upgrade
+UI_ACHIEVEMENT_TITLE,Title '%s',Pamagat '%s'
+UI_EXCHANGE_1,1 Exchange,1 Palitan
+UI_EXCHANGE_2,2 Exchanges,2 Palitan
+UI_EXCHANGE_3,3 Exchanges,3 Palitan
+UI_EXCHANGE_4,4 Exchanges,4 Palitan
+UI_EXCHANGE_5,5 Exchanges,5 Palitan
+UI_QUEST_TRIGGERCTRL,Open %s #cffc32f07#b%d/%d#nb#nc,Buksan %s #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_RESCUE_CHILDRENS,Rescue the Children(s) #cffc32f07#b%d/%d#nb#nc,Iligtas ang mga bata #cffc32f07#b%d/%d#nb#nc
+UI_GACHA_RESET_CONFIRM,Do you want to reset the gacha? You cannot cancel the action.,Gusto mo bang i-reset ang gacha? Hindi mo mababawi ang aksyon.
+UI_FITTINGROOM_REMOVE_FASHION,Remove Fashion,Alisin ang Kasuotan
+UI_FITTINGROOM_TIP,Preview the visuals of items on your character.,I-preview ang mga visual ng mga item sa iyong karakter.
+UI_FITTINGROOM_NEXT_TIP,Preview the next animation.,I-preview ang susunod na animasyon.
+UI_FITTINGROOM_PREV_TIP,Preview the previous animation.,I-preview ang nakaraang animasyon.
+UI_FITTINGROOM_PAUSE_TIP,Toggle the current animation playback state.,I-toggle ang kasalukuyang estado ng playback ng animasyon.
+UI_PVPCONTEST_TITLE,FWC PVP Registrations Board,Laharan ng Pagpaparehistro ng FWC PVP
+UI_PVPCONTEST_INFO,"Will your guild be the one to win the trip to Manila? \nTake your chance by participating in the FWC PVP Contest! \nRegister your guild, choose your top %d players, and battle until the end!","Will your guild be the one to win the trip to Manila? \nTake your chance by participating in the FWC PVP Contest! \nIrehistro ang iyong guild, piliin ang iyong nangungunang %d manlalaro, at lumaban hanggang sa katapusan!"
+UI_PVPCONTEST_REGISTRATIONCOST,Registration cost:,Gastos sa Pagpaparehistro:
+UI_PVPCONTEST_MINGUILDLEVEL,Min. Guild Level:,Min. Antas ng Guild:
+UI_PVPCONTEST_MAXPARTICIPATINGPLAYERS,Max participating players: ,Pinakamataas na bilang ng mga manlalaro:
+UI_PVPCONTEST_REGISTEREDGUILDS,Registered Guilds (Count: %d),Mga Nirehistrong Guild (Bilang: %d)
+UI_PVPCONTEST_REGISTER,Register,Magrehistro
+UI_PVPCONTEST_LINEUP,Line up,Ayusin ang Puwesto
+UI_PVPCONTEST_REMAKE_MAKEUP,Would like to organize line up for FWC PVP Contest again?,Gusto mo bang ayusin muli ang puwesto para sa FWC PVP Contest?
+UI_PVPCONTEST_CONFIRM_LINEUP,Do you confirm the line up for FWC PVP Contest? You cannot change it after.,Kumpirmahin mo ba ang puwesto para sa FWC PVP Contest? Hindi mo na ito mababago pagkatapos.
+UI_PVPCONTEST_SELECT_TITLE,Set Entry List for FWC PVP Contest,Itakda ang Listahan ng Paglahok para sa FWC PVP Contest
+UI_PVPCONTEST_SELECT_CONNECTED,Connected Guild Members,Mga Konektadong Miyembro ng Guild
+UI_PVPCONTEST_SELECT_ENTRANT,Entrant List,Listaan ng mga kalahok
+UI_PVPCONTEST_SELECT_RIGHT_TIP,Add a connected Guild Member to the entrant list.,Idagdag ang isang konektadong Miyembro ng Guild sa listahan ng mga kalahok.
+UI_PVPCONTEST_SELECT_LEFT_TIP,Delete a Guild Member from the entrant list.,Tanggalin ang isang Miyembro ng Guild mula sa listahan ng mga kalahok.
+UI_PVPCONTEST_SELECT_UP_TIP,Arrange the selected Guild member to the upper side.,Ayusin ang napiling Miyembro ng Guild sa itaas na bahagi.
+UI_PVPCONTEST_SELECT_DOWN_TIP,Arrange the selected Guild member to the lower side.,Ayusin ang napiling Miyembro ng Guild sa ibabang bahagi.
+UI_PVPCONTEST_SELECT_COMPLETE,Complete,Kompleto
+UI_PVPCONTEST_SELECT_COMPLETE_TIP,Complete the entry list.,Kumpletuhin ang listahan ng paglahok.
+UI_PVPCONTEST_SELECT_REMAKE,Remake,Gumawa Muli
+UI_PVPCONTEST_SELECT_REMAKE_TIP,Remake the entry list.,Gumawa muli ng listahan ng paglahok.
+UI_PVPCONTEST_SELECT_INFO,Register your team. You can select a maximum of %d participating players. #b#cffff0000You CANNOT change the participating members later after registering.#nc#nb,Magrehistro ng iyong koponan. Maaari kang pumili ng maximum na %d manlalaro na kalahok. #b#cffff0000Hindi mo maaaring baguhin ang mga kalahok pagkatapos ng pagpaparehistro.#nc#nb
+UI_PVPCONTEST_SELECT_ENTRANT_TIP,A maximum of %d members can join the FWC PVP Contest. Choose your best players wisely.,Isang maximum na %d miyembro lamang ang maaaring sumali sa FWC PVP Contest. Piliin ang iyong pinakamahusay na mga manlalaro nang matalino.
+UI_PVPCONTEST_SELECTMATCH,Select Match,Pumili ng Laban
+UI_PVPCONTEST_SELECTMATCH_TOOLTIP,Select today's match schedule.,Pumili ng iskedyul ng laban para sa araw na ito.
+UI_PVPCONTEST_MATCH_TITLE,Select today's match,Pumili ng laban para sa araw na ito
+UI_PVPCONTEST_MATCH_INFO,"Select today's match schedules. Please note that if you're not here in time, your opponent will receive an #binstant#nb win. You can only pick #bone#nb match per day.","Pumili ng iskedyul ng laban para sa araw na ito. Pakitandaan na kung hindi ka narito sa oras, ang iyong kalaban ay makakakuha ng #binstant#nb panalo. Maaari ka lamang pumili ng #bone#nb laban bawat araw."
+UI_PVPCONTEST_MATCH_SELECT,Select match,Pumili ng laban
+UI_PVPCONTEST_TELEPORT,Your match will start in a few minutes. Do you want to teleport to the match arena? #b#cffff0000Declining means you won't be able to join later.#nc#nb,Ang iyong laban ay magsisimula sa loob ng ilang minuto. Gusto mo bang mag-teleport sa arena ng laban? #b#cffff0000Ang pagtanggi ay nangangahulugang hindi ka na makakasali mamaya.#nc#nb
 UI_PVPCONTEST_JOINWAR_RANDOM,Random,Random
-UI_PVPCONTEST_JOINWAR_TITLE,Resurrection Location,Resurrection Location
-UI_PVPCONTEST_JOINWAR_1_TIP,You have entered the 1st area.,You have entered the 1st area.
-UI_PVPCONTEST_JOINWAR_2_TIP,You have entered the 2nd area.,You have entered the 2nd area.
-UI_PVPCONTEST_JOINWAR_3_TIP,You have entered the 3rd area.,You have entered the 3rd area.
-UI_PVPCONTEST_JOINWAR_4_TIP,You have entered the 4th area.,You have entered the 4th area.
-UI_PVPCONTEST_JOINWAR_SELECT,Select the area you wish to enter.,Select the area you wish to enter.
-UI_PVPCONTEST_JOINWAR_MSG,"After %d, you enter %s.","After %d, you enter %s."
-UI_PVPCONTEST_SELECTEDMATCH,Your next match will start at: %s,Your next match will start at: %s
-UI_STARTERPASS,Starter Pass,Starter Pass
+UI_PVPCONTEST_JOINWAR_TITLE,Resurrection Location,Lokasyon ng Muling Pagkabuhay
+UI_PVPCONTEST_JOINWAR_1_TIP,You have entered the 1st area.,Pumasok ka sa unang lugar.
+UI_PVPCONTEST_JOINWAR_2_TIP,You have entered the 2nd area.,Pumasok ka sa ikalawang lugar.
+UI_PVPCONTEST_JOINWAR_3_TIP,You have entered the 3rd area.,Pumasok ka sa ikatlong lugar.
+UI_PVPCONTEST_JOINWAR_4_TIP,You have entered the 4th area.,Pumasok ka sa ikaapat na lugar.
+UI_PVPCONTEST_JOINWAR_SELECT,Select the area you wish to enter.,Pumili ng lugar na nais mong pasukin.
+UI_PVPCONTEST_JOINWAR_MSG,"After %d, you enter %s.","Pagkatapos ng %d, papasok ka sa %s."
+UI_PVPCONTEST_SELECTEDMATCH,Your next match will start at: %s,Ang iyong susunod na laban ay magsisimula sa: %s
+UI_STARTERPASS,Starter Pass,Pasimulang Pass
 UI_PETPASS,Pet Pass,Pet Pass
-UI_PIERCINGPASS,Piercing Pass,Piercing Pass
-UI_UPGRADEPASS,Upgrade Pass,Upgrade Pass
-UI_ELEMENT_UPGRADEPASS,Element Upgrade Pass,Element Upgrade Pass
-UI_PARTYPASS,Party Pass,Party Pass
-UI_COSTUMEPASS,Costume Pass,Costume Pass
-UI_BATTLEPASS_MISSION_PETSKILL,Use pet grace skill,Use pet grace skill
-UI_BATTLEPASS_MISSION_PIERCING,"Attempt Weapon, Shield or Suit Piercing","Attempt Weapon, Shield or Suit Piercing"
-UI_BATTLEPASS_MISSION_ELEMENT_SMELT,Attempt Elemental Upgrade,Attempt Elemental Upgrade
-UI_BATTLEPASS_MISSION_ELEMENT_SAFETY_SMELT,Try safety upgrade (Elemental),Try safety upgrade (Elemental)
-UI_BATTLEPASS_MISSION_ELEMENT_SMELT_SUCCESS,Reach gear element upgrade %s or above,Reach gear element upgrade %s or above
-UI_BATTLEPASS_MISSION_NORMAL_SMELT,Attempt to Upgrade Gear or Accessories,Attempt to Upgrade Gear or Accessories
-UI_BATTLEPASS_MISSION_NORMAL_SAFETY_SMELT,Try safety upgrade (Normal/Acc),Try safety upgrade (Normal/Acc)
-UI_BATTLEPASS_MISSION_NORMAL_SMELT_SUCCESS,Gear or accessory upgrade %s or above,Gear or accessory upgrade %s or above
-UI_BATTLEPASS_MISSION_PARTYKILLMONSTER,Kill Normal Monsters With Party,Kill Normal Monsters With Party
-UI_BATTLEPASS_MISSION_PARTYKILLMONSTER2,Kill %s With Party,Kill %s With Party
-UI_BATTLEPASS_MISSION_PARTYCLEARDUNGEON,Clear dungeon as a party,Clear dungeon as a party
-UI_BATTLEPASS_MISSION_PARTYCLEARDUNGEON2,Clear Dungeon %s as a party,Clear Dungeon %s as a party
-UI_BATTLEPASS_MISSION_PARTYPOINT,Obtain Party Skill points,Obtain Party Skill points
-UI_BATTLEPASS_MISSION_COSTUMETRANSMUTATION,Put costume in wardrobe,Put costume in wardrobe
-UI_BATTLEPASS_MISSION_GETCOSTUME,Obtain costumes,Obtain costumes
-UI_BATTLEPASS_SAFETYSMELT_ELECARD,(Elemental),(Elemental)
+UI_PIERCINGPASS,Piercing Pass,Pagbutas Pass
+UI_UPGRADEPASS,Upgrade Pass,Pag-upgrade Pass
+UI_ELEMENT_UPGRADEPASS,Element Upgrade Pass,Pag-upgrade ng Elemento Pass
+UI_PARTYPASS,Party Pass,Partido Pass
+UI_COSTUMEPASS,Costume Pass,Kasuotan Pass
+UI_BATTLEPASS_MISSION_PETSKILL,Use pet grace skill,Gamitin ang kasanayan ng pet grace
+UI_BATTLEPASS_MISSION_PIERCING,"Attempt Weapon, Shield or Suit Piercing","Subukan ang Pagbutas ng Sandata, Kalasag o Kasuotan"
+UI_BATTLEPASS_MISSION_ELEMENT_SMELT,Attempt Elemental Upgrade,Subukan ang Pag-upgrade ng Elemento
+UI_BATTLEPASS_MISSION_ELEMENT_SAFETY_SMELT,Try safety upgrade (Elemental),Subukan ang ligtas na pag-upgrade (Elemento)
+UI_BATTLEPASS_MISSION_ELEMENT_SMELT_SUCCESS,Reach gear element upgrade %s or above,Maabot ang pag-upgrade ng elemento ng kagamitan %s o higit pa
+UI_BATTLEPASS_MISSION_NORMAL_SMELT,Attempt to Upgrade Gear or Accessories,Subukan ang Pag-upgrade ng Kagamitan o Aksesorya
+UI_BATTLEPASS_MISSION_NORMAL_SAFETY_SMELT,Try safety upgrade (Normal/Acc),Subukan ang ligtas na pag-upgrade (Normal/Aksesorya)
+UI_BATTLEPASS_MISSION_NORMAL_SMELT_SUCCESS,Gear or accessory upgrade %s or above,Pag-upgrade ng kagamitan o aksesorya %s o higit pa
+UI_BATTLEPASS_MISSION_PARTYKILLMONSTER,Kill Normal Monsters With Party,Pumatay ng Normal na Halimaw Kasama ang Partido
+UI_BATTLEPASS_MISSION_PARTYKILLMONSTER2,Kill %s With Party,Pumatay ng %s Kasama ang Partido
+UI_BATTLEPASS_MISSION_PARTYCLEARDUNGEON,Clear dungeon as a party,Linisin ang dungeon bilang isang partido
+UI_BATTLEPASS_MISSION_PARTYCLEARDUNGEON2,Clear Dungeon %s as a party,Linisin ang Dungeon %s bilang isang partido
+UI_BATTLEPASS_MISSION_PARTYPOINT,Obtain Party Skill points,Kumuha ng Party Skill points
+UI_BATTLEPASS_MISSION_COSTUMETRANSMUTATION,Put costume in wardrobe,Ilagay ang kasuotan sa wardrobe
+UI_BATTLEPASS_MISSION_GETCOSTUME,Obtain costumes,Kumuha ng mga kasuotan
+UI_BATTLEPASS_SAFETYSMELT_ELECARD,(Elemental),(Pang-elemento)
 UI_BATTLEPASS_SAFETYSMELT_POWERDICE,(Normal/Acc),(Normal/Acc)
-UI_BATTLEPASS_MISSION_LEVELUP,Level Up,Level Up
-UI_BATTLEPASS_MISSION_LEVELUP2,Reach Level %s,Reach Level %s
-UI_BATTLEPASS_MISSION_JOBCHANGE_EXPERT,Do the 1st Job Change,Do the 1st Job Change
-UI_BATTLEPASS_MISSION_JOBCHANGE_PROFESSIONAL,Do the 2nd Job Change,Do the 2nd Job Change
-UI_BATTLEPASS_MISSION_SKILLMASTER,Increase a Skill to its Maximum Level,Increase a Skill to its Maximum Level
-UI_BATTLEPASS_MISSION_KILLCATCHER,Hunt a Catcher Monster,Hunt a Catcher Monster
-UI_BATTLEPASS_MISSION_CRAFTPETCANDY,Craft Pet Candy,Craft Pet Candy
-UI_BATTLEPASS_MISSION_CRAFTPETCANDY2,Craft Pet Candy (%s),Craft Pet Candy (%s)
-UI_BATTLEPASS_MISSION_JOINGUILD,Join a Guild,Join a Guild
-UI_BATTLEPASS_MISSION_JOINPARTY,Join a Party,Join a Party
-UI_BATTLEPASS_MISSION_GETPKCHIP,Obtain PK Chips,Obtain PK Chips
-UI_BATTLEPASS_MISSION_FLYING,Travel %s km on a Flying Item,Travel %s km on a Flying Item
-UI_BATTLEPASS_MISSION_KILLFLYMONSTER,Defeat Aerial Monsters,Defeat Aerial Monsters
-UI_BATTLEPASS_MISSION_ACTIVEBEGINNERBUFF,Receive Buffs from the Buff Pang,Receive Buffs from the Buff Pang
-UI_BATTLEPASS_MISSION_USECOMBOSKILL,Perform %s or More Combos Using the action slot,Perform %s or More Combos Using the action slot
-UI_BATTLEPASS_MISSION_ACTIVEEQUIPSET,Have a set effect activated,Have a set effect activated
-UI_BATTLEPASS_MISSION_KALGAS_ASSAULT,Finish Kalgas Assault,Finish Kalgas Assault
-UI_BATTLEPASS_INFO2,End of the %s season: #b%s#nb (Server Time)\nPoints limit for this week: #b%d / %d#nb\n#iPoints earned through the Season missions are not included in the weekly limit.#ni,End of the %s season: #b%s#nb (Server Time)\nPoints limit for this week: #b%d / %d#nb\n#iPoints earned through the Season missions are not included in the weekly limit.#ni
-UI_BATTLEPASS_INFO3,End of the %s season: #b%s#nb (Server Time)\n#ni\n#iSome rewards are enhanced after reaching level %d#ni,End of the %s season: #b%s#nb (Server Time)\n#ni\n#iSome rewards are enhanced after reaching level %d#ni
-UI_BATTLEPASS_INFO4,End of the %s season: #b%s#nb (Server Time)\n#ni,End of the %s season: #b%s#nb (Server Time)\n#ni
-UI_BATTLEPASS_INFO5,There is no expiration date for the Starter Pass and all players can use it.,There is no expiration date for the Starter Pass and all players can use it.
-UI_QUEST_STARTABLE,Startable,Startable
-UI_SUMMERPASS2023,Summer Pass,Summer Pass
-UI_APP_SWITCHEQUIP_TIP,Displays the Switch Equip Menu.,Displays the Switch Equip Menu.
+UI_BATTLEPASS_MISSION_LEVELUP,Level Up,Pag-level Up
+UI_BATTLEPASS_MISSION_LEVELUP2,Reach Level %s,Maabot ang Antas %s
+UI_BATTLEPASS_MISSION_JOBCHANGE_EXPERT,Do the 1st Job Change,Gawin ang 1st Job Change
+UI_BATTLEPASS_MISSION_JOBCHANGE_PROFESSIONAL,Do the 2nd Job Change,Gawin ang 2nd Job Change
+UI_BATTLEPASS_MISSION_SKILLMASTER,Increase a Skill to its Maximum Level,Pataasin ang Kasanayan sa Kanyang Pinakamataas na Antas
+UI_BATTLEPASS_MISSION_KILLCATCHER,Hunt a Catcher Monster,Humili ng Halimaw na Catcher
+UI_BATTLEPASS_MISSION_CRAFTPETCANDY,Craft Pet Candy,Mag-craft ng Pet Candy
+UI_BATTLEPASS_MISSION_CRAFTPETCANDY2,Craft Pet Candy (%s),Mag-craft ng Pet Candy (%s)
+UI_BATTLEPASS_MISSION_JOINGUILD,Join a Guild,Sumali sa isang Guild
+UI_BATTLEPASS_MISSION_JOINPARTY,Join a Party,Sumali sa isang Partido
+UI_BATTLEPASS_MISSION_GETPKCHIP,Obtain PK Chips,Kumuha ng PK Chips
+UI_BATTLEPASS_MISSION_FLYING,Travel %s km on a Flying Item,Maglakbay ng %s km gamit ang Flying Item
+UI_BATTLEPASS_MISSION_KILLFLYMONSTER,Defeat Aerial Monsters,Talo ang mga Aerial Monsters
+UI_BATTLEPASS_MISSION_ACTIVEBEGINNERBUFF,Receive Buffs from the Buff Pang,Tanggapin ang mga Buff mula sa Buff Pang
+UI_BATTLEPASS_MISSION_USECOMBOSKILL,Perform %s or More Combos Using the action slot,Gumawa ng %s o Higit pang Combos Gamit ang action slot
+UI_BATTLEPASS_MISSION_ACTIVEEQUIPSET,Have a set effect activated,Magkaroon ng aktibong set effect
+UI_BATTLEPASS_MISSION_KALGAS_ASSAULT,Finish Kalgas Assault,Tapusin ang Kalgas Assault
+UI_BATTLEPASS_INFO2,End of the %s season: #b%s#nb (Server Time)\nPoints limit for this week: #b%d / %d#nb\n#iPoints earned through the Season missions are not included in the weekly limit.#ni,Katapusan ng %s season: #b%s#nb (Oras ng Server)\nLimitadong puntos para sa linggong ito: #b%d / %d#nb\n#iAng mga puntos na nakuha sa pamamagitan ng mga misyon sa Season ay hindi kasama sa lingguhang limitasyon.#ni
+UI_BATTLEPASS_INFO3,End of the %s season: #b%s#nb (Server Time)\n#ni\n#iSome rewards are enhanced after reaching level %d#ni,Katapusan ng %s season: #b%s#nb (Oras ng Server)\n#ni\n#iAng ilang mga gantimpala ay pinahusay pagkatapos maabot ang antas %d#ni
+UI_BATTLEPASS_INFO4,End of the %s season: #b%s#nb (Server Time)\n#ni,Katapusan ng %s season: #b%s#nb (Oras ng Server)\n#ni
+UI_BATTLEPASS_INFO5,There is no expiration date for the Starter Pass and all players can use it.,Walang petsa ng pag-expire para sa Starter Pass at lahat ng manlalaro ay maaaring gamitin ito.
+UI_QUEST_STARTABLE,Startable,Maaaring Simulan
+UI_SUMMERPASS2023,Summer Pass,Tag-init Pass
+UI_APP_SWITCHEQUIP_TIP,Displays the Switch Equip Menu.,Ipinapakita ang Switch Equip Menu.
 UI_APP_SWITCHEQUIP_DELETE,Delete,Burahin
-UI_APP_SWITCHEQUIP_SAVE,Save,Save
-UI_APP_SWITCHEQUIP_COPY,Copy Equipment,Copy Equipment
-UI_APP_SWITCHEQUIP_USE,Use,Use
-UI_APP_SWITCHEQUIP_TITLE,Name ,Name 
-UI_APP_SWITCHEQUIP_SWITCHLIST,Presets,Presets
-UI_APP_SWITCHEQUIP_ERROR_NAME,You have to set a preset name!,You have to set a preset name!
-UI_APP_SWITCHEQUIP_ERROR_NAMEFORMAT,The name you set for the preset is incorrect!,The name you set for the preset is incorrect!
-UI_APP_SWITCHEQUIP_NEWSWITCH,Create new,Create new
-UI_APP_SWITCHEQUIP_SHORTCUT,Make shortcut,Make shortcut
-UI_APP_SWITCHEQUIP_PRESETNAME,Preset Name,Preset Name
-UI_APP_SWITCHEQUIP_DELETE_TEXT,Are you sure you want to delete preset %s?,Are you sure you want to delete preset %s?
-UI_APP_SWITCHEQUIP_DELETE_SELECT,You need to select a preset.,You need to select a preset.
-UI_BATTLEPASS_MISSION_UNSAFETYALL,Try Upgrade or Piercing,Try Upgrade or Piercing
-UI_LEVEL_REQUIRED,Available after level %d.,Available after level %d.
-UI_QUEST_KILLSTEP_RWD,%d Monsters defeated: %s,%d Monsters defeated: %s
+UI_APP_SWITCHEQUIP_SAVE,Save,I-save
+UI_APP_SWITCHEQUIP_COPY,Copy Equipment,Kopyahin ang Kagamitan
+UI_APP_SWITCHEQUIP_USE,Use,Gamitin
+UI_APP_SWITCHEQUIP_TITLE,Name ,Pangalan 
+UI_APP_SWITCHEQUIP_SWITCHLIST,Presets,Mga preset
+UI_APP_SWITCHEQUIP_ERROR_NAME,You have to set a preset name!,Kailangan mong magtakda ng pangalan ng preset!
+UI_APP_SWITCHEQUIP_ERROR_NAMEFORMAT,The name you set for the preset is incorrect!,Ang pangalan na itinakda mo para sa preset ay mali!
+UI_APP_SWITCHEQUIP_NEWSWITCH,Create new,Lumikha ng bago
+UI_APP_SWITCHEQUIP_SHORTCUT,Make shortcut,Gumawa ng shortcut
+UI_APP_SWITCHEQUIP_PRESETNAME,Preset Name,Pangalan ng Preset
+UI_APP_SWITCHEQUIP_DELETE_TEXT,Are you sure you want to delete preset %s?,Sigurado ka bang gusto mong burahin ang preset %s?
+UI_APP_SWITCHEQUIP_DELETE_SELECT,You need to select a preset.,Kailangan mong pumili ng preset.
+UI_BATTLEPASS_MISSION_UNSAFETYALL,Try Upgrade or Piercing,Subukan ang Upgrade o Piercing
+UI_LEVEL_REQUIRED,Available after level %d.,Magagamit pagkatapos maabot ang antas %d.
+UI_QUEST_KILLSTEP_RWD,%d Monsters defeated: %s,%d Tinalong Monsters: %s
 UI_QUEST_REWARDSTEP_ITEM,%s(%d),%s(%d)
-UI_QUEST_KILLSTEP_COND,Defeat monsters (%d/%d),Defeat monsters (%d/%d)
-UI_PVPCONTEST_TELEPORT_AUTOCLOSE,You have %d seconds to join.,You have %d seconds to join.
-UI_PVPCONTEST_RANKING_DAILY,Today's Matchs,Today's Matchs
-UI_PVPCONTEST_RANKING_PRELIMINARY,Preliminary,Preliminary
-UI_PVPCONTEST_RANKING_BACKUP,Back-up,Back-up
+UI_QUEST_KILLSTEP_COND,Defeat monsters (%d/%d),Tinalong Monsters (%d/%d)
+UI_PVPCONTEST_TELEPORT_AUTOCLOSE,You have %d seconds to join.,Mayroon kang %d segundo para makasali.
+UI_PVPCONTEST_RANKING_DAILY,Today's Matchs,Mga Laban Ngayon
+UI_PVPCONTEST_RANKING_PRELIMINARY,Preliminary,Paunang
+UI_PVPCONTEST_RANKING_BACKUP,Back-up,Reserba
 UI_PVPCONTEST_RANKING_FINALS,Finals,Finals
-UI_PVPCONTEST_RANKING_DESC,"This contains all the ranking data for the current FWC PVP Contest.\nIf only one guild has showed up in the preliminary's ranking, then that means it had no opponent!\n#b#uClick on a guild to see the participating players stats.#nu#nb","This contains all the ranking data for the current FWC PVP Contest.\nIf only one guild has showed up in the preliminary's ranking, then that means it had no opponent!\n#b#uClick on a guild to see the participating players stats.#nu#nb"
-UI_PVPCONTEST_RANKING_TITLE,FWC PvP Contest Ranking,FWC PvP Contest Ranking
-UI_PVPCONTEST_RANKING_RANKING,Ranking,Ranking
-UI_PVPCONTEST_RANKING_RANK,Rank,Rank
-UI_PVPCONTEST_RANKING_GUILDNAME,Guild Name,Guild Name
-UI_PVPCONTEST_RANKING_POINTS_TOOLTIP,Points,Points
-UI_PVPCONTEST_RANKING_KILLS_TOOLTIP,Kills,Kills
-UI_PVPCONTEST_RANKING_DEATHS_TOOLTIP,Deaths,Deaths
-UI_APP_INFO_PANG_HIDE,You can summon Info-Pang again by going to Menu > Helper > Info-Pang.,You can summon Info-Pang again by going to Menu > Helper > Info-Pang.
-UI_APP_INFO_PANG_LIST,You can view this information again if you click Info-Pang > Right Click > Check the List.,You can view this information again if you click Info-Pang > Right Click > Check the List.
-UI_PVPCONTEST_MATCHLIST_INFO,Here you can select a match and spectate it. #bNote: you will be invisible for participating players and will only be able to communicate with others spectators.#nb,Here you can select a match and spectate it. #bNote: you will be invisible for participating players and will only be able to communicate with others spectators.#nb
-UI_PVPCONTEST_SPECTATE_INFO,Do you want to spectate that match? You will get teleported in the match arena.,Do you want to spectate that match? You will get teleported in the match arena.
-UI_SERVERTRANSFER_TITLE,Server Transfer,Server Transfer
-UI_SERVERTRANSFER_MSG,Select server:,Select server:
-UI_SERVERTRANSFER_BASE_DESC,Select which server you want to transfer your character to. Please check the website for exact transfer rules.,Select which server you want to transfer your character to. Please check the website for exact transfer rules.
-UI_SERVERTRANSFER_DESC,Note that transfer requests are done periodically so the transfer is not immediate after using the scroll.,Note that transfer requests are done periodically so the transfer is not immediate after using the scroll.
-UI_SERVERTRANSFER_FWC_TITLE,FWC Server Transfer,FWC Server Transfer
-UI_SERVERTRANSFER_FWC_DESC,The transfer will happen after the end of the FWC period and you can still login on your character meanwhile. If you are not sure then you can close this window and select on next login. You cannot change your choice after confirming.,The transfer will happen after the end of the FWC period and you can still login on your character meanwhile. If you are not sure then you can close this window and select on next login. You cannot change your choice after confirming.
-UI_PVPCONTEST_SPECTATE_CAMERAMODE_1,Free Camera,Free Camera
-UI_PVPCONTEST_SPECTATE_CAMERAMODE_2,Normal Camera,Normal Camera
-UI_PVPCONTEST_SPECTATE_LEAVE,Leave spectating,Leave spectating
-UI_PVPCONTEST_SPECTATE_TITLE,Spectating Settings,Spectating Settings
-UI_FULLSCREEN_ERROR,Fullscreen is not available. If you use Safari press Share > Add to Home Screen and launch the game from your App List.,Fullscreen is not available. If you use Safari press Share > Add to Home Screen and launch the game from your App List.
-UI_PVPCONTEST_RANKING_FINALISTS,Finalists,Finalists
-UI_SERVERTRANSFER_CONFIRM,Are you sure you want to transfer your character to %s? You cannot change your choice after confirming.,Are you sure you want to transfer your character to %s? You cannot change your choice after confirming.
-UI_RPS_INFO,RPS Game\nYou can do the Global Limited Gacha only if you win.,RPS Game\nYou can do the Global Limited Gacha only if you win.
-UI_GACHA_DESC_GLOBAL_DAILY,"When you do the random Gacha, you can receive 1 of the items listed below.\nThe Random Gacha is global with all players on the server so please try to obtain the limited amount of prizes.\nThe quantity limit resets on 00:00 server time.","When you do the random Gacha, you can receive 1 of the items listed below.\nThe Random Gacha is global with all players on the server so please try to obtain the limited amount of prizes.\nThe quantity limit resets on 00:00 server time."
-UI_RPS_REWARD_TITLE,Result,Result
-UI_RPS_REWARD_TEXT,Would you like to accept the item?,Would you like to accept the item?
+UI_PVPCONTEST_RANKING_DESC,"This contains all the ranking data for the current FWC PVP Contest.\nIf only one guild has showed up in the preliminary's ranking, then that means it had no opponent!\n#b#uClick on a guild to see the participating players stats.#nu#nb",Naglalaman ito ng lahat ng datos ng ranggo para sa kasalukuyang FWC PVP Contest. Kung isang guild lamang ang lumabas sa paunang ranggo - ibig sabihin ay wala itong kalaban! #b#i-click ang isang guild upang makita ang mga stats ng mga kalahok na manlalaro.#nu#nb
+UI_PVPCONTEST_RANKING_TITLE,FWC PvP Contest Ranking,Pangkat ng Paligsahan sa PvP ng FWC
+UI_PVPCONTEST_RANKING_RANKING,Ranking,Pagraranggo
+UI_PVPCONTEST_RANKING_RANK,Rank,Ranggo
+UI_PVPCONTEST_RANKING_GUILDNAME,Guild Name,Pangalan ng Guild
+UI_PVPCONTEST_RANKING_POINTS_TOOLTIP,Points,Puntos
+UI_PVPCONTEST_RANKING_KILLS_TOOLTIP,Kills,Pinatay
+UI_PVPCONTEST_RANKING_DEATHS_TOOLTIP,Deaths,Kamatayan
+UI_APP_INFO_PANG_HIDE,You can summon Info-Pang again by going to Menu > Helper > Info-Pang.,Maaari mong ipatawag muli si Info-Pang sa pamamagitan ng pagpunta sa Menu > Helper > Info-Pang.
+UI_APP_INFO_PANG_LIST,You can view this information again if you click Info-Pang > Right Click > Check the List.,Maaari mong muling tingnan ang impormasyong ito kung i-click mo ang Info-Pang > Right Click > Check the List.
+UI_PVPCONTEST_MATCHLIST_INFO,Here you can select a match and spectate it. #bNote: you will be invisible for participating players and will only be able to communicate with others spectators.#nb,Dito maaari kang pumili ng laban at panoorin ito. #bTandaan: hindi ka makikita ng mga kalahok na manlalaro at makikipag-usap ka lamang sa ibang mga manonood.#nb
+UI_PVPCONTEST_SPECTATE_INFO,Do you want to spectate that match? You will get teleported in the match arena.,Gusto mo bang panoorin ang laban na iyon? Ikaw ay ililipat sa arena ng laban.
+UI_SERVERTRANSFER_TITLE,Server Transfer,Paglilipat ng Server
+UI_SERVERTRANSFER_MSG,Select server:,Pumili ng server:
+UI_SERVERTRANSFER_BASE_DESC,Select which server you want to transfer your character to. Please check the website for exact transfer rules.,Pumili kung aling server ang gusto mong paglilipatan ng iyong karakter. Mangyaring tingnan ang website para sa eksaktong mga patakaran sa paglilipat.
+UI_SERVERTRANSFER_DESC,Note that transfer requests are done periodically so the transfer is not immediate after using the scroll.,Tandaan na ang mga kahilingan sa paglilipat ay ginagawa nang pana-panahon kaya ang paglilipat ay hindi agad-agad pagkatapos gamitin ang scroll.
+UI_SERVERTRANSFER_FWC_TITLE,FWC Server Transfer,Paglilipat ng Server ng FWC
+UI_SERVERTRANSFER_FWC_DESC,The transfer will happen after the end of the FWC period and you can still login on your character meanwhile. If you are not sure then you can close this window and select on next login. You cannot change your choice after confirming.,Magaganap ang paglilipat pagkatapos ng pagtatapos ng panahon ng FWC at maaari ka pa ring mag-login sa iyong karakter habang naghihintay. Kung hindi ka sigurado - maaari mong isara ang bintanang ito at piliin sa susunod na pag-login. Hindi mo na mababago ang iyong napili pagkatapos mong kumpirmahin.
+UI_PVPCONTEST_SPECTATE_CAMERAMODE_1,Free Camera,Libreng Kamera
+UI_PVPCONTEST_SPECTATE_CAMERAMODE_2,Normal Camera,Karaniwang Kamera
+UI_PVPCONTEST_SPECTATE_LEAVE,Leave spectating,Umalis sa panonood
+UI_PVPCONTEST_SPECTATE_TITLE,Spectating Settings,Mga Setting ng Panonood
+UI_FULLSCREEN_ERROR,Fullscreen is not available. If you use Safari press Share > Add to Home Screen and launch the game from your App List.,Hindi magagamit ang buong-screen. Kung gagamit ka ng Safari - pindutin ang Ibahagi > Idagdag sa Home Screen at ilunsad ang laro mula sa iyong listahan ng mga app.
+UI_PVPCONTEST_RANKING_FINALISTS,Finalists,Mga Finalista
+UI_SERVERTRANSFER_CONFIRM,Are you sure you want to transfer your character to %s? You cannot change your choice after confirming.,Sigurado ka bang gusto mong ilipat ang iyong karakter sa %s? Hindi mo na mababago ang iyong pagpili pagkatapos mong kumpirmahin.
+UI_RPS_INFO,RPS Game\nYou can do the Global Limited Gacha only if you win.,RPS Game\nMagagawa mo lang ang Global Limited Gacha kung mananalo ka.
+UI_GACHA_DESC_GLOBAL_DAILY,"When you do the random Gacha, you can receive 1 of the items listed below.\nThe Random Gacha is global with all players on the server so please try to obtain the limited amount of prizes.\nThe quantity limit resets on 00:00 server time.",Kapag gumawa ka ng Random Gacha - maaari kang makatanggap ng isa sa mga item na nakalista sa ibaba.   Ang Random Gacha ay global para sa lahat ng manlalaro sa server - kaya pakisikapang makuha ang limitadong bilang ng mga premyo.   Ang limitasyon sa dami ay i-reset tuwing 00:00 ng oras ng server.
+UI_RPS_REWARD_TITLE,Result,Resulta
+UI_RPS_REWARD_TEXT,Would you like to accept the item?,Nais mo bang tanggapin ang bagay?
 UI_RPS_REWARD_ACCEPT,Accept,Tangapin
 UI_RPS_REWARD_DECLINE,Decline,Tanggihan
-UI_RPS_TITLE,Rock Paper Scissors,Rock Paper Scissors
+UI_RPS_TITLE,Rock Paper Scissors,Bato Papel Gunting
 UI_RPS_VS,VS,VS
-UI_RPS_DEFEAT,You Lose!,You Lose!
+UI_RPS_DEFEAT,You Lose!,Talo Ka!
 UI_RPS_PAPER,Paper,Papel
 UI_RPS_ROCK,Rock,Bato
 UI_RPS_SCISSORS,Scissors,Gunting
-UI_RPS_WIN_TITLE,You Win!,You Win!
+UI_RPS_WIN_TITLE,You Win!,Panalo Ka!
 UI_GACHA_ACCEPT,Accept,Tangapin
 UI_GACHA_DECLINE,Decline,Tanggihan
-UI_MSGBOX_PASTE,Paste,Paste
-UI_MSGBOX_CUT,Cut,Cut
-UI_GUILDBUFF_LEVEL,Activated Buff Level,Activated Buff Level
+UI_MSGBOX_PASTE,Paste,Idikit
+UI_MSGBOX_CUT,Cut,Gupitin
+UI_GUILDBUFF_LEVEL,Activated Buff Level,Niveles ng Aktibong Buff
 UI_GUILDBUFF_NEXTLEVEL,Next Level %s / %s,Next Level %s / %s
-UI_GUILDBUFF_DONATE,Donation,Donation
-UI_GUILDBUFF_TAB_LIST,Buff Information,Buff Information
-UI_GUILDBUFF_TAB_TOKENS,Token Donation,Token Donation
-UI_TOOLTIP_DST_DROP_EXP,Monster Exp and Drop,Monster Exp and Drop
+UI_GUILDBUFF_DONATE,Donation,Donasyon
+UI_GUILDBUFF_TAB_LIST,Buff Information,Impormasyon ng Buff
+UI_GUILDBUFF_TAB_TOKENS,Token Donation,Donasyon ng Token
+UI_TOOLTIP_DST_DROP_EXP,Monster Exp and Drop,Exp at Drop ng Halimaw
 UI_GUILD_TAB_BUFFS,Guild Buff,Guild Buff
-UI_TOOLTIP_DST_SPEED_ALL,Attack & Casting Speed,Attack & Casting Speed
-UI_GUILDBUFF_MEMBER,Member,Member
-UI_GUILDBUFF_NONE,There is no donation yet. ,There is no donation yet. 
-UI_TOOLTIP_BUYREQLV,Purchase requirement is level %d or higher,Purchase requirement is level %d or higher
-UI_COSTUME_BOX_ITEM,Costume Box,Costume Box
-UI_COSTUME_BOX_MATERIAL,Repair Hammer,Repair Hammer
-UI_COSTUME_BOX_UPGRADE_PROB,Success: #b%s#nb,Success: #b%s#nb
-UI_COSTUME_BOX_DECREASED,The Costume Box Upgrade Level has decreased,The Costume Box Upgrade Level has decreased
+UI_TOOLTIP_DST_SPEED_ALL,Attack & Casting Speed,Bilis ng Atake at Kasting
+UI_GUILDBUFF_MEMBER,Member,Myembro
+UI_GUILDBUFF_NONE,There is no donation yet. ,Wala pang donasyon.
+UI_TOOLTIP_BUYREQLV,Purchase requirement is level %d or higher,Kinakailangan ang antas %d o mas mataas pa para makabili
+UI_COSTUME_BOX_ITEM,Costume Box,Kahon ng Kasuotan
+UI_COSTUME_BOX_MATERIAL,Repair Hammer,Pang-ayos na Martilyo
+UI_COSTUME_BOX_UPGRADE_PROB,Success: #b%s#nb,Tagumpay: #b%s#nb
+UI_COSTUME_BOX_DECREASED,The Costume Box Upgrade Level has decreased,Nabawasan ang Antas ng Pag-upgrade ng Kahon ng Kasuotan
 UI_MATERIAL_COUNT,%s x%d,%s x%d
-UI_PURCHASE_LIMIT,Purchase Limit: %d / %d,Purchase Limit: %d / %d
-UI_FITTINGROOM_BG,Background,Background
-UI_OPTION_PRECISECURSOR,Pixel Perfect Cursor Selection,Pixel Perfect Cursor Selection
-UI_WEBVIEW_OPEN,Please open your web browser to continue.,Please open your web browser to continue.
-UI_BATTLEPASS_JAN,January %d Pass,January %d Pass
-UI_BATTLEPASS_FEB,February %d Pass,February %d Pass
-UI_BATTLEPASS_MAR,March %d Pass,March %d Pass
-UI_BATTLEPASS_APR,April %d Pass,April %d Pass
-UI_BATTLEPASS_MAY,May %d Pass,May %d Pass
-UI_BATTLEPASS_JUN,June %d Pass,June %d Pass
-UI_BATTLEPASS_JUL,July %d Pass,July %d Pass
-UI_BATTLEPASS_AUG,August %d Pass,August %d Pass
-UI_BATTLEPASS_SEP,September %d Pass,September %d Pass
-UI_BATTLEPASS_OCT,October %d Pass,October %d Pass
-UI_BATTLEPASS_NOV,November %d Pass,November %d Pass
-UI_BATTLEPASS_DEC,December %d Pass,December %d Pass
+UI_PURCHASE_LIMIT,Purchase Limit: %d / %d,Limitasyon sa Pagbili: %d / %d
+UI_FITTINGROOM_BG,Background,Kaligiran
+UI_OPTION_PRECISECURSOR,Pixel Perfect Cursor Selection,Perpektong Seleksyon ng Cursor sa Pixel
+UI_WEBVIEW_OPEN,Please open your web browser to continue.,Mangyaring buksan ang iyong web browser upang magpatuloy.
+UI_BATTLEPASS_JAN,January %d Pass,Enero %d Pass
+UI_BATTLEPASS_FEB,February %d Pass,Pebrero %d Pass
+UI_BATTLEPASS_MAR,March %d Pass,Marso %d Pass
+UI_BATTLEPASS_APR,April %d Pass,Abril %d Pass
+UI_BATTLEPASS_MAY,May %d Pass,Mayo %d Pass
+UI_BATTLEPASS_JUN,June %d Pass,Hunyo %d Pass
+UI_BATTLEPASS_JUL,July %d Pass,Hulyo %d Pass
+UI_BATTLEPASS_AUG,August %d Pass,Agosto %d Pass
+UI_BATTLEPASS_SEP,September %d Pass,Setyembre %d Pass
+UI_BATTLEPASS_OCT,October %d Pass,Oktubre %d Pass
+UI_BATTLEPASS_NOV,November %d Pass,Nobyembre %d Pass
+UI_BATTLEPASS_DEC,December %d Pass,Disyembre %d Pass
 UI_BATTLEPASS_MISSION_CONSECUTIVE_LOGIN,Login Consecutive %s days,Login Consecutive %s days
-UI_BATTLEPASS_INFO6,End of the %s season: #b%s#nb (UTC Time)\nPoints limit for this week: #b%d / %d#nb\n#iPoints earned through the Season missions are not included in the weekly limit.#ni\n#iSome rewards are enhanced after reaching level %d#ni,End of the %s season: #b%s#nb (UTC Time)\nPoints limit for this week: #b%d / %d#nb\n#iPoints earned through the Season missions are not included in the weekly limit.#ni\n#iSome rewards are enhanced after reaching level %d#ni
-UI_BATTLEPASS_INFO7,End of the %s season: #b%s#nb (UTC Time)\nPoints limit for this week: #b%d / %d#nb\n#iPoints earned through the Season missions are not included in the weekly limit.#ni,End of the %s season: #b%s#nb (UTC Time)\nPoints limit for this week: #b%d / %d#nb\n#iPoints earned through the Season missions are not included in the weekly limit.#ni
-UI_BATTLEPASS_INFO8,End of the %s season: #b%s#nb (UTC Time)\n#ni\n#iSome rewards are enhanced after reaching level %d#ni,End of the %s season: #b%s#nb (UTC Time)\n#ni\n#iSome rewards are enhanced after reaching level %d#ni
-UI_BATTLEPASS_INFO9,End of the %s season: #b%s#nb (UTC Time)\n#ni,End of the %s season: #b%s#nb (UTC Time)\n#ni
-UI_REMOTE_SHOP_TITLE,Remote Shop,Remote Shop
+UI_BATTLEPASS_INFO6,End of the %s season: #b%s#nb (UTC Time)\nPoints limit for this week: #b%d / %d#nb\n#iPoints earned through the Season missions are not included in the weekly limit.#ni\n#iSome rewards are enhanced after reaching level %d#ni,Katapusan ng %s na panahon: #b%s#nb (UTC Time)\nLimit ng puntos para sa linggong ito: #b%d / %d#nb\n#iAng mga puntos na nakuha mula sa mga misyon ng panahon ay hindi kasama sa lingguhang limitasyon.#ni\n#iAng ilang gantimpala ay pinahusay pagkatapos maabot ang antas na %d#ni
+UI_BATTLEPASS_INFO7,End of the %s season: #b%s#nb (UTC Time)\nPoints limit for this week: #b%d / %d#nb\n#iPoints earned through the Season missions are not included in the weekly limit.#ni,Katapusan ng %s na panahon: #b%s#nb (UTC Time)\nLimit ng puntos para sa linggong ito: #b%d / %d#nb\n#iAng mga puntos na nakuha mula sa mga misyon ng panahon ay hindi kasama sa lingguhang limitasyon.#ni
+UI_BATTLEPASS_INFO8,End of the %s season: #b%s#nb (UTC Time)\n#ni\n#iSome rewards are enhanced after reaching level %d#ni,Katapusan ng %s na panahon: #b%s#nb (UTC Time)\n#ni\n#iAng ilang gantimpala ay pinahusay pagkatapos maabot ang antas na %d#ni
+UI_BATTLEPASS_INFO9,End of the %s season: #b%s#nb (UTC Time)\n#ni,Katapusan ng %s na panahon: #b%s#nb (UTC Time)\n#ni
+UI_REMOTE_SHOP_TITLE,Remote Shop,Malayuang Tindahan
 UI_HALLOWEENPASS,Halloween Pass,Halloween Pass
-UI_PURCHASE_BANK_EXTRA_BAG,Add Slot,Add Slot
-UI_SEARCH_BANK_EXTRA_BAG,Bank Extra Bag,Bank Extra Bag
-UI_EXTRA_BAG_FMT,Add Slot %s,Add Slot %s
-UI_RAINBOWRACE_ITEMS,Rainbow Items,Rainbow Items
-UI_RAINBOWRACE_ITEMS_INFO,Fly through items throughout the race to use them against others!,Fly through items throughout the race to use them against others!
-UI_RAINBOWRACE_POINTS,Rank %d / %d (%d points),Rank %d / %d (%d points)
-UI_RAINBOWRACE_FARWARNING,"Speed decreased, fly near the race track to avoid disqualification!","Speed decreased, fly near the race track to avoid disqualification!"
-UI_RAINBOWRACE_SPEEDMULTI,Current speed multiplier: %d,Current speed multiplier: %d
-UI_RAINBOWRACE_APP_TITLE,Rainbow Race Application,Rainbow Race Application
-UI_RAINBOWRACE_APP_CONFIRM,This will deduct %lld penya. Would you like to continue?,This will deduct %lld penya. Would you like to continue?
-UI_RAINBOWRACE_APP_CURRENT,Current Applicants: %d,Current Applicants: %d
-UI_RAINBOWRACE_APP_FEE,Application Fee: %lld,Application Fee: %lld
-UI_RAINBOWRACE_APP_TIP,Apply for the Rainbow Race.,Apply for the Rainbow Race.
-UI_RAINBOWRACE_RANKING_TIP,View the rankings of the previous race.,View the rankings of the previous race.
-UI_RAINBOWRACE_APP_DISABLE_TIP,It is not currently the application period.,It is not currently the application period.
-UI_RAINBOWRACE_APP_TIMELEFT,Next Race: ,Next Race: 
-UI_CREATEULTIMATEWEAPON_TITLE,Create ultimate weapon,Create ultimate weapon
+UI_PURCHASE_BANK_EXTRA_BAG,Add Slot,Magdagdag ng Slot
+UI_SEARCH_BANK_EXTRA_BAG,Bank Extra Bag,Karagdagang Bag ng Bangko
+UI_EXTRA_BAG_FMT,Add Slot %s,Magdagdag ng Slot %s
+UI_RAINBOWRACE_ITEMS,Rainbow Items,Mga Item ng Rainbow
+UI_RAINBOWRACE_ITEMS_INFO,Fly through items throughout the race to use them against others!,Lumipad sa mga item sa buong karera upang magamit laban sa iba!
+UI_RAINBOWRACE_POINTS,Rank %d / %d (%d points),Ranggo %d / %d (%d puntos)
+UI_RAINBOWRACE_FARWARNING,"Speed decreased, fly near the race track to avoid disqualification!","Bumagal ang bilis, lumipad malapit sa karerahan para hindi ma-disqualify!"
+UI_RAINBOWRACE_SPEEDMULTI,Current speed multiplier: %d,Kasalukuyang multiplier ng bilis: %d
+UI_RAINBOWRACE_APP_TITLE,Rainbow Race Application,Aplikasyon ng Rainbow Race
+UI_RAINBOWRACE_APP_CONFIRM,This will deduct %lld penya. Would you like to continue?,Ibabawas nito ang %lld penya. Nais mo bang magpatuloy?
+UI_RAINBOWRACE_APP_CURRENT,Current Applicants: %d,Kasalukuyang mga Aplikante: %d
+UI_RAINBOWRACE_APP_FEE,Application Fee: %lld,Bayad sa Aplikasyon: %lld
+UI_RAINBOWRACE_APP_TIP,Apply for the Rainbow Race.,Mag-apply para sa Rainbow Race.
+UI_RAINBOWRACE_RANKING_TIP,View the rankings of the previous race.,Tingnan ang ranggo ng nakaraang karera.
+UI_RAINBOWRACE_APP_DISABLE_TIP,It is not currently the application period.,Hindi pa panahon ng aplikasyon.
+UI_RAINBOWRACE_APP_TIMELEFT,Next Race: ,Susunod na Karera: 
+UI_CREATEULTIMATEWEAPON_TITLE,Create ultimate weapon,Lumikha ng ultimate weapon
 UI_CREATEULTIMATEWEAPON_DETAIL,"Ultimate Weapon Conversion\nYou can create Ultimate Weapons for equipment level 140 or above. You can convert a +10 Weapon into an Ultimate Weapon. The conversion will not fail and for the conversion you will need 3 Shining Orikalkums, 3 Ultimate Orbs and 100 Million Penya. Ultimate weapons will convert retaining all elemental upgrades and Piercing status.","Ultimate Weapon Conversion\nYou can create Ultimate Weapons for equipment level 140 or above. You can convert a +10 Weapon into an Ultimate Weapon. The conversion will not fail and for the conversion you will need 3 Shining Orikalkums, 3 Ultimate Orbs and 100 Million Penya. Ultimate weapons will convert retaining all elemental upgrades and Piercing status."
 UI_CREATEULTIMATEWEAPON_CONFIRM,Do you want to continue?,Do you want to continue?
 UI_CREATEULTIMATEWEAPON_ERROR_ITEM,This item cannot be used.,This item cannot be used.
