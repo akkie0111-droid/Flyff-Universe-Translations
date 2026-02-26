@@ -1413,7 +1413,7 @@ UI_EXPSTOP_RELOAD,Reload,Mag-reload
 UI_EXPSTOP_BTN,Lock Exp,I-lock ang Exp
 UI_EXPSTOP_BTN_TIP,Stop gaining experience from killed monsters. You still get experience from quests.,Itigil ang pagkuha ng karanasan mula sa mga napatay na halimaw. Makakakuha ka pa rin ng karanasan mula sa mga quest.
 UI_EXPSTOP_RELOAD_TITLE,Exp Lock Reload,I-lock ang ekspansyon at muling mag-load
-UI_EXPSTOP_RELOAD_MSG,"You can stop gaining experience, the price is #b%d Penya#nb per monster killed to reload the gauge. How many monsters do you want to kill?","Maaari mong itigil ang pagkuha ng karanasan; ang presyo ay #b%d Penya#nb bawat halimaw na pinatay para ma-reload ang sukatan. Ilan ang gusto mong patayin na halimaw?"
+UI_EXPSTOP_RELOAD_MSG,"You can stop gaining experience, the price is #b%d Penya#nb per monster killed to reload the gauge. How many monsters do you want to kill?",Maaari mong itigil ang pagkuha ng karanasan; ang presyo ay #b%d Penya#nb bawat halimaw na pinatay para ma-reload ang sukatan. Ilan ang gusto mong patayin na halimaw?
 UI_EXPSTOP_RELOAD_LABEL,Monsters:,Halimaw:
 UI_EXPSTOP_RELOAD_CONFIRM,Will you pay %s Penya to reload the Exp Lock gauge?,Babayaran mo ba si %s Penya para punuin muli ang sukatan ng Exp Lock?
 UI_ARENA_RANKING_TITLE,Arena Ranking,Ranggo ng Arena
@@ -1526,7 +1526,7 @@ UI_PET_REROLL_CONFIRM,#bThe pet in the window will be destroyed.#nb Do you want 
 UI_PET_TIER,Tier,Antas
 UI_PET_USE_SKILL,Grace,Biyaya
 UI_PET_SKILL_TOOLTIP,Use your pet's grace skill. Consumes energy and depletes the progress bar. There is a draggable key in the Motion window.,Gamitin ang kasanayan ng iyong alagang hayop. Kumakain ng enerhiya at nagpapababa ng progress bar. Mayroong isang draggable key sa Motion window.
-UI_PET_RESTAT_TITLE,Pet Muling simulan,Muling pag-roll ng alagang hayop
+UI_PET_RESTAT_TITLE,Pet Reroll,Muling pag-roll ng alagang hayop
 UI_PET_RESTAT_BUTTON,Reroll,Muling pag-roll
 UI_PET_RESTAT_DISCARD,Discard,Itapon
 UI_PET_RESTAT_KEEP,Keep,Panatilihin
@@ -1592,8 +1592,8 @@ UI_GUILDCOMBAT_RANKING_TITLE1,Level 80 Guild Member Ranking,Ranggo ng Miyembro n
 UI_GUILDCOMBAT_RANKING_TITLE2,Level 60 Guild Member Ranking,Ranggo ng Miyembro ng Guild sa Level 60
 UI_OPTION_EVENTLIGHT,Event Light,Iliwan ng Kaganapan
 UI_LEVELREACH,Level Reach,Antas na Abot
-  UI_LEVELREACH_DESC,"Reach new levels during the event period and receive rewards! The number of rewards is limited per level so hurry up. First come, first served!","Abutin ang mga bagong antas sa panahon ng kaganapan at tumanggap ng mga gantimpala! Ang bilang ng mga gantimpala ay limitado sa bawat antas kaya magmadali. Unang dumating, unang makakakuha!"
-  UI_LEVELREACH_LVL01,Level 1,Antas 1
+UI_LEVELREACH_DESC,"Reach new levels during the event period and receive rewards! The number of rewards is limited per level so hurry up. First come, first served!","Abutin ang mga bagong antas sa panahon ng kaganapan at tumanggap ng mga gantimpala! Ang bilang ng mga gantimpala ay limitado sa bawat antas kaya magmadali. Unang dumating, unang makakakuha!"
+UI_LEVELREACH_LVL01,Level 1,Antas 1
 UI_LEVELREACH_LVL02,Level 2,Antas 2
 UI_LEVELREACH_LVL15,Level 15,Antas 15
 UI_LEVELREACH_LVL16,Level 16,Antas 16

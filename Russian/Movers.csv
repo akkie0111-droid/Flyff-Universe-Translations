@@ -1,4 +1,4 @@
-Key,English,Russian
+﻿Key,English,Russian
 PROPMOVER_TXT_000002,Male,Мужик
 PROPMOVER_TXT_000004,Female,Женщина
 PROPMOVER_TXT_000006,Small Aibatt,Слабый сглаз
@@ -526,7 +526,7 @@ PROPMOVER_TXT_001714,[Rock Scissor Paper NPC] Demian,Злыдень
 PROPMOVER_TXT_001716,Chameleon,Хамелеон
 PROPMOVER_TXT_001804,Braaaaains,Крошка-зомби
 PROPMOVER_TXT_001814,Male Zombie,Восставший мертвец
-PROPMOVER_TXT_001816,Female Zombie,Восставшая покойница
+PROPMOVER_TXT_001816,Female Zombie ,Восставшая покойница
 PROPMOVER_TXT_001826,Big Red,Лутьеро
 PROPMOVER_TXT_002000,Buur,Лемуррик
 PROPMOVER_TXT_002002,Saphyryan,Сапфирион
@@ -819,10 +819,10 @@ PROPMOVER_TXT_100255,White Winter Pixie,Белая Зимняя Фея
 PROPMOVER_TXT_100256,Fu Lion King,Симба
 PROPMOVER_TXT_100257,Black Winter Tiger,Черный Зимней Тигер
 PROPMOVER_TXT_100258,Pink Winter Tiger,Розовый Зимней Тигер
-PROPMOVER_TXT_100259,Green Winter Tiger,Зеленый Зимней Тигер
-PROPMOVER_TXT_100260,Purple Winter Tiger,Фиолетовый Зимней Тигер
-PROPMOVER_TXT_100261,Orange Winter Tiger,Оранжевый Зимней Тигер
-PROPMOVER_TXT_100262,Cyan Winter Tiger,Голубой Зимней Тигер
+PROPMOVER_TXT_100259,Green Winter Tiger ,Зеленый Зимней Тигер
+PROPMOVER_TXT_100260,Purple Winter Tiger ,Фиолетовый Зимней Тигер
+PROPMOVER_TXT_100261,Orange Winter Tiger ,Оранжевый Зимней Тигер
+PROPMOVER_TXT_100262,Cyan Winter Tiger ,Голубой Зимней Тигер
 PROPMOVER_TXT_100263,Tonge,Тонга
 PROPMOVER_TXT_100264,Fox,Лиса
 PROPMOVER_TXT_100265,Mermaid Beauty,Ведьма-глубин
@@ -864,7 +864,7 @@ PROPMOVER_TXT_001116,Small Abraxas,Маленький аспид
 PROPMOVER_TXT_001118,Abraxas,Аспид
 PROPMOVER_TXT_001120,Captain Abraxas,Капитан аспид
 PROPMOVER_TXT_001122,Giant Abraxas,Гигантский аспид
-PROPMOVER_TXT_001124,Маленькая ведьма,Small Hague
+PROPMOVER_TXT_001124,Small Hague,Small Hague
 PROPMOVER_TXT_001126,Hague,Ведьма
 PROPMOVER_TXT_001128,Captain Hague,Капитан ведьма
 PROPMOVER_TXT_001130,Giant Hague,Гигантская ведьма
@@ -1507,7 +1507,7 @@ PROPMOVER_TXT_500050,[Tormented Soul] Nergal,[Истерзанная душа] �
 PROPMOVER_TXT_500051,[Demonic Soul] Hel,[Демоническая душа] Хель
 PROPMOVER_TXT_500052,[Perverted Soul] Morrigan,[Извращенная душа] Morrigan
 PROPMOVER_TXT_500053,[Anguished Soul] Mara,[Измученная душа] Mara
-PROPMOVER_TXT_500054,[Violent Soul] Ghed,[Лиловая душа] Гед
+PROPMOVER_TXT_500054,[Violent Soul] Ghed ,[Лиловая душа] Гед
 PROPMOVER_TXT_500055,[God of Death] Ankou,[Бог смерти] Анку
 PROPMOVER_TXT_500056,[God of Death] Blazing Ankou,[Бог смерти] Пылающий Анку
 PROPMOVER_TXT_500057,[God of Death] Demonic Ankou,[Бог смерти] Демонический Анку
