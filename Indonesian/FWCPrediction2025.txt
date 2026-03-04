@@ -26,7 +26,7 @@
  * Hadiah: Pengguna mendapatkan Koin Juara berdasarkan (jumlah taruhan) × (peringkat akhir Guild yang mereka pertaruhkan).
  * Peringkat dividen akan diungkapkan, dan gelar khusus akan diberikan sesuai dengan itu.
  * Catatan:
-  - Semua hadiah akan didistribusikan sekaligus (tidak secara waktu asli).
+  - Semua hadiah akan didistribusikan sekaligus (tidak secara waktu nyata).
   - Koin Juara akan dihapus setelah periode pertukaran item berakhir.
   - Jika dikirim melalui surat, masa berlaku akan disesuaikan dengan akhir periode pertukaran item.
 
