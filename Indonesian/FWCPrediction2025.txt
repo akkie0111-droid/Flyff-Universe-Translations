@@ -8,7 +8,7 @@
  * Sistem: Pengali pembayaran tetap (bukan peluang waktu nyata).
  * Catatan Penting:
   - Setelah ditempatkan, taruhan tidak dapat dibatalkan atau diubah.
-  - Kamu dapat meninjau riwayat taruhan Anda di Log Prediksi.
+  - Kamu dapat meninjau riwayat taruhan kamu di Log Prediksi.
   - Jumlah taruhan minimum: 50 koin.
 
 3. Periode Penyelesaian (Okt 18 – Okt 23, 5 hari)
