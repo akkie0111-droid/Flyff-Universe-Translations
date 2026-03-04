@@ -2376,7 +2376,7 @@ UI_OPTION_KEYREPEAT,Holding Keys,Holding Keys
 UI_DELETEACCOUNT_TITLE,Delete Account,Delete Account
 UI_DELETEACCOUNT_PASS,Password for deleting account\nEnter the password,Password for deleting account\nEnter the password
 UI_DELETEACCOUNT_NOPASS,Do you confirm?,Vahvistatko?
-UI_DELETEACCOUNT_NOTICE,"When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies.","Kun peruuttat jäsenyytesi, kaikki tiedot poistetaan, etkä voi käyttää palvelua, palauttaa tiliäsi tai saada hyvitystä mistään jäljellä olevista maksetuista tuotteista tai valuutoista."
+UI_DELETEACCOUNT_NOTICE,"When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies.","Kun peruutat jäsenyytesi, kaikki tiedot poistetaan, etkä voi käyttää palvelua, palauttaa tiliäsi tai saada hyvitystä mistään jäljellä olevista maksetuista tuotteista tai valuutoista."
 UI_APP_SEARCHSHOP_TIP,Find items in Personal and Vendor shops.,Find items in Personal and Vendor shops.
 UI_SEARCHSHOP_RARITY,Rarity,Rarity
 UI_SEARCHSHOP_UPGRADE,Upgrade:,Upgrade:
