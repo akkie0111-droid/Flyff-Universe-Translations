@@ -1105,8 +1105,8 @@ TEXTCLIENT_HOUSEOBJECTS_AREA,You cannot place a furniture here.
 TEXTCLIENT_HOUSEOBJECTS_CLICK,Touch on the ground where you want the object to be placed. Rotate it with mouse wheel. Press mouse wheel and move mouse left/right to resize it.
 TEXTCLIENT_HOUSEOBJECTS_CANCEL,Decoration object placement was cancelled.
 TEXTCLIENT_HOUSEOBJECTS_NOTALLOWED,You don't have the right to place a furniture in that house.
-TEXTCLIENT_HOUSEOBJECTS_NOTIN,You need to be in your house or guild house to place that furniture.
-TEXTCLIENT_HOUSEOBJECTS_NOHOUSE,You have neither a house nor a guild house.
+TEXTCLIENT_HOUSEOBJECTS_NOTIN,You need to be in your house or guild ship to place that furniture.
+TEXTCLIENT_HOUSEOBJECTS_NOHOUSE,You have neither a house nor a guild ship.
 TEXTCLIENT_PLAYERHOUSING_VISITORADD,You successfully added %s as a visitor!
 TEXTCLIENT_PLAYERHOUSING_VISITORNOTONLINE,The player you selected is offline.
 TEXTCLIENT_PLAYERHOUSING_VISITORREMOVE,You successfully removed that player from your visitor list.
@@ -1128,12 +1128,12 @@ TEXTCLIENT_HOUSINGTEMPLATE_EXPIRED,The house template %s has expired! Purchase t
 TEXTCLIENT_HOUSINGTEMPLATE_ALREADYOWNED,You already own this house template.
 TEXTCLIENT_HOUSINGTEMPLATE_UNLOCKSUCCESS,"You successfully unlocked house template ""%s""!"
 TEXTCLIENT_PLAYERHOUSING_BUYTEMPLATENOTOWNED,You need to unlock that housing template first.
-TEXTCLIENT_GUILDHOUSING_NOOWNER,This guild house does not belong to anyone. Place a bid if you want it!
-TEXTCLIENT_GUILDHOUSING_NOTOWNER,This guild house does not belong to your guild. You can't enter.
-TEXTCLIENT_GUILDHOUSING_BID_OWNED,This guild house already belong to a guild. You can't place a bid on it.
+TEXTCLIENT_GUILDHOUSING_NOOWNER,This guild ship does not belong to anyone. Place a bid if you want it!
+TEXTCLIENT_GUILDHOUSING_NOTOWNER,This guild ship does not belong to your guild. You can't enter.
+TEXTCLIENT_GUILDHOUSING_BID_OWNED,This guild ship already belong to a guild. You can't place a bid on it.
 TEXTCLIENT_GUILDHOUSING_BID_WINNER,Your guild won the auction for the guild ship! You can now teleport to it using the map and right clicking on your ship. Congratulations!
 TEXTCLIENT_GUILDHOUSING_BID_NORIGHT,You don't have the rights to place a bid.
-TEXTCLIENT_GUILDHOUSING_BID_SUCCESS,Your new bid for that guild house is now %s!
+TEXTCLIENT_GUILDHOUSING_BID_SUCCESS,Your new bid for that guild ship is now %s!
 TEXTCLIENT_GUILDHOUSING_BID_NOMONEY,You don't have enough Penya in your guild bank.
 TEXTCLIENT_GUILDHOUSING_BID_ALREADY,You have already placed a bid on a different guild ship.
 TEXTCLIENT_GUILDHOUSING_BID_MIN,You have to set a minimum initial bid of %s Penya.
@@ -1154,7 +1154,7 @@ TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_2,You retain ownership and %s Penya ha
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPROTECTED_3,The guild %s managed to protect the artifact! You'll have better luck next time.
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_NOGUILD,You must be in a guild to attack an artifact.
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_ATTACK_SAMEGUILD,You can't attack your own ship artifact!
-TEXTCLIENT_GUILDHOUSING_SHIPTELEPORT_CHANNEL,You need to be on the channel 1 to teleport to the guild house ship!
+TEXTCLIENT_GUILDHOUSING_SHIPTELEPORT_CHANNEL,You need to be on channel 1 to teleport to the guild ship!
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_EDIT_SUCCESS,You successfully updated your artifact spawn position.
 TEXTCLIENT_HOUSINGPRESETS_DELETE_NOSELECT,You need to select a preset to delete.
 TEXTCLIENT_HOUSINGPRESETS_TOOMANY,You have too many presets for that map.
@@ -1195,7 +1195,7 @@ TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_SUCCESS,You succesfully registered for
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_CANCEL_SUCCESS,You succesfully cancelled your application for the next artifact battle. The %d Penya fee has been deposited back into your guild bank.
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_CANCEL_STARTED,"The Artifact Battle has already started, you can't cancel your application!"
 TEXTCLIENT_GUILDHOUSING_ARTIFACT_REGISTER_NOBATTLE,There is no artifact battle this week. Please try again next week!
-TEXTCLIENT_HOUSING_NPC_GUILDHOUSE,You can only place a guild house NPC here.
+TEXTCLIENT_HOUSING_NPC_GUILDHOUSE,You can only place a guild ship NPC here.
 TEXTCLIENT_EVENT_COLLECTION_WRONG_ITEM,This item cannot be used.
 TEXTCLIENT_EVENT_COLLECTION_SUBMIT_SUCCESS,Successfully submitted.
 TEXTCLIENT_HOUSING_NPC_PLAYERHOUSE,You can only place a Personal House NPC here.
@@ -1204,8 +1204,8 @@ TEXTCLIENT_HOUSEOBJECTS_TOOMUCH,You can't have more than %d props placed at the 
 TEXTCLIENT_ITEM_CANNOT_ROOT_QUEST,The %s can only be obtained while the %s is in progress.
 TEXTCLIENT_HOUSEDITION_INFO,"You can move props / npcs using edition menu. To quit that mode, press ESC."
 TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED,Guild %s has destroyed Guild %s's artifact!
-TEXTCLIENT_GUILDHOUSING_DISMISSED_1,The owner of this guild house has dismantled the guild!
-TEXTCLIENT_GUILDHOUSING_DISMISSED_2,"The guild house's artifact is now in ruins, and the ownership of the house is now vacant."
+TEXTCLIENT_GUILDHOUSING_DISMISSED_1,The owner of this guild ship has dismantled the guild!
+TEXTCLIENT_GUILDHOUSING_DISMISSED_2,"The guild ship's artifact is now in ruins, and the ownership of the house is now vacant."
 TEXTCLIENT_KALGASASSAULT_FAIL,Registration failed.
 TEXTCLIENT_KALGASASSAULT_FAIL_LEVEL,The registration is not possible due to low level.
 TEXTCLIENT_KALGASASSAULT_SUCCESS,You have successfully registered.
@@ -1404,7 +1404,7 @@ TEXTCLIENT_PETTRAINING_COMPLETE,Trainer %s has completed your pet training!
 TEXTCLIENT_HOUSEPETSLOTS_MAX,You have already unlocked the maximum pet inventory slots!
 TEXTCLIENT_PLAYERHOUSEPETSLOTS_SUCCESS,You have successfully unlocked a new pet inventory slot for your house!
 TEXTCLIENT_GUILDHOUSEPETSLOTS_NOGUILD,You need a guild to use this scroll!
-TEXTCLIENT_GUILDHOUSEPETSLOTS_SUCCESS,"You have successfully unlocked a new pet inventory slot for the guild house. If you do not have a house yet, it will be applied to your future houses."
+TEXTCLIENT_GUILDHOUSEPETSLOTS_SUCCESS,"You have successfully unlocked a new pet inventory slot for the guild ship. If you do not have a house yet, it will be applied to your future houses."
 TEXTCLIENT_COUPLE_MOTION,You must be in a level %d couple to use this emote.
 TEXTCLIENT_COUPLE_MOTION_NOTARGET,You must select your partner in order to request this emote.
 TEXTCLIENT_COUPLE_MOTION_REFUSE,Your partner refused to perform the emote.

@@ -12685,7 +12685,7 @@ PROPITEM_TXT_422044,Teleport to one of the towns and return later where the scro
 PROPITEM_TXT_124000,Forest World Template (XL)
 PROPITEM_TXT_124001,Volcano World Template (XL)
 PROPITEM_TXT_124002,Snow World Template (XL)
-PROPITEM_TXT_124003,Guild House Blinkwing
+PROPITEM_TXT_124003,Guild Ship Blinkwing
 PROPITEM_TXT_131001,Scroll of Housing Preset
 PROPITEM_TXT_131002,Using this scroll will increase your maximum housing presets count by 1! (This maximum count will be increased for all templates).
 PROPITEM_TXT_131003,Common Trees Housing Pack
@@ -13398,68 +13398,68 @@ PROPITEM_TXT_131824,[Personal House NPC] Cachu
 PROPITEM_TXT_131825,This NPC will grant you the following bonus when placed on the Personal House: Party Exp +10%.
 PROPITEM_TXT_131826,[Personal House NPC] Pang
 PROPITEM_TXT_131827,This NPC will grant you the following bonus when placed on the Personal House: Buffs limited to characters level 120 and below.
-PROPITEM_TXT_131828,[Guild House NPC] Gira
-PROPITEM_TXT_131829,This NPC will grant you the following bonus when placed on the Guild House: MP Consumption Decrease +10%.
-PROPITEM_TXT_131830,[Guild House NPC] Affe
-PROPITEM_TXT_131831,This NPC will grant you the following bonus when placed on the Guild House: FP Consumption Decrease +10%.
-PROPITEM_TXT_131832,[Guild House NPC] Sham
-PROPITEM_TXT_131833,This NPC will grant you the following bonus when placed on the Guild House: Increased MP +10%.
-PROPITEM_TXT_131834,[Guild House NPC] Lamew
-PROPITEM_TXT_131835,This NPC will grant you the following bonus when placed on the Guild House: Increased FP +10%.
-PROPITEM_TXT_131836,[Guild House NPC] Quarter
-PROPITEM_TXT_131837,This NPC will grant you the following bonus when placed on the Guild House: Increased HP +10%.
-PROPITEM_TXT_131838,[Guild House NPC] Duron
-PROPITEM_TXT_131839,This NPC will grant you the following bonus when placed on the Guild House: Battle Artifact HP +10%.
-PROPITEM_TXT_131840,[Guild House NPC] Dolphie
-PROPITEM_TXT_131841,This NPC will grant you the following bonus when placed on the Guild House: Battle Artifact DEF +10%.
-PROPITEM_TXT_131842,[Guild House NPC] Fuba
-PROPITEM_TXT_131843,This NPC will grant you the following bonus when placed on the Guild House: Battle Artifact Recovery +10%.
-PROPITEM_TXT_131844,[Guild House NPC] Bako
-PROPITEM_TXT_131845,This NPC will grant you the following bonus when placed on the Guild House: Allies HP near house artifact +500.
-PROPITEM_TXT_131846,[Guild House NPC] Wick
-PROPITEM_TXT_131847,This NPC will grant you the following bonus when placed on the Guild House: Allies ATK near house artifact +3%.
-PROPITEM_TXT_131848,[Guild House NPC] Wina
-PROPITEM_TXT_131849,This NPC will grant you the following bonus when placed on the Guild House: Allies DEF near house artifact +3%.
-PROPITEM_TXT_131850,[Guild House NPC] Pitch
-PROPITEM_TXT_131851,This NPC will grant you the following bonus when placed on the Guild House: Allies Attack Speed near house artifact +5%.
-PROPITEM_TXT_131852,[Guild House NPC] Catch
-PROPITEM_TXT_131853,This NPC will grant you the following bonus when placed on the Guild House: Allies Casting Speed near house artifact +5%.
-PROPITEM_TXT_131854,[Guild House NPC] Met
-PROPITEM_TXT_131855,This NPC will grant you the following bonus when placed on the Guild House: Drop Rate Increase +5%.
-PROPITEM_TXT_131856,[Guild House NPC] Ego
-PROPITEM_TXT_131857,This NPC will grant you the following bonus when placed on the Guild House: Drop Rate Increase +5%.
-PROPITEM_TXT_131858,[Guild House NPC] Wifielder
-PROPITEM_TXT_131859,This NPC will grant you the following bonus when placed on the Guild House: Drop Rate Increase +5%.
-PROPITEM_TXT_131860,[Guild House NPC] Simid
-PROPITEM_TXT_131861,This NPC will grant you the following bonus when placed on the Guild House: Drop Rate Increase +5%.
-PROPITEM_TXT_131862,[Guild House NPC] Chord
-PROPITEM_TXT_131863,This NPC will grant you the following bonus when placed on the Guild House: PvP Damage +3%.
-PROPITEM_TXT_131864,[Guild House NPC] Anura
-PROPITEM_TXT_131865,This NPC will grant you the following bonus when placed on the Guild House: PvP Damage Reduction +3%.
-PROPITEM_TXT_131866,[Guild House NPC] Vikel
-PROPITEM_TXT_131867,This NPC will grant you the following bonus when placed on the Guild House: PvP Melee/Range Block +3%.
-PROPITEM_TXT_131868,[Guild House NPC] Soz
-PROPITEM_TXT_131869,This NPC will grant you the following bonus when placed on the Guild House: PvP Block Penetration +3%.
-PROPITEM_TXT_131870,[Guild House NPC] Naso
-PROPITEM_TXT_131871,This NPC will grant you the following bonus when placed on the Guild House: PvP Critical Chance +3%.
-PROPITEM_TXT_131872,[Guild House NPC] Nuso
-PROPITEM_TXT_131873,This NPC will grant you the following bonus when placed on the Guild House: PvP Critical Damage +3%.
-PROPITEM_TXT_131874,[Guild House NPC] Cobao
-PROPITEM_TXT_131875,This NPC will grant you the following bonus when placed on the Guild House: Healing +3%.
-PROPITEM_TXT_131876,[Guild House NPC] Aibao
-PROPITEM_TXT_131877,This NPC will grant you the following bonus when placed on the Guild House: Magic Resistance +3%.
-PROPITEM_TXT_131878,[Guild House NPC] Nanco
-PROPITEM_TXT_131879,This NPC will grant you the following bonus when placed on the Guild House: Critical Resist +3%.
-PROPITEM_TXT_131880,[Guild House NPC] Asa
-PROPITEM_TXT_131881,This NPC will grant you the following bonus when placed on the Guild House: Allow you to teleport to the place of your choice.
-PROPITEM_TXT_131882,[Guild House NPC] Alyn
-PROPITEM_TXT_131883,This NPC will grant you the following bonus when placed on the Guild House: Weapon/Armor upgrade chance +3%.
-PROPITEM_TXT_131884,[Guild House NPC] Lane
-PROPITEM_TXT_131885,This NPC will grant you the following bonus when placed on the Guild House: Accessory upgrade chance +3%.
-PROPITEM_TXT_131886,[Guild House NPC] Runni
-PROPITEM_TXT_131887,This NPC will grant you the following bonus when placed on the Guild House: Piercing upgrade chance +3%.
-PROPITEM_TXT_131888,[Guild House NPC] Pang
-PROPITEM_TXT_131889,This NPC will grant you the following bonus when placed on the Guild House: Buffs limited to characters level 140 and below.
+PROPITEM_TXT_131828,[Guild Ship NPC] Gira
+PROPITEM_TXT_131829,This NPC will grant you the following bonus when placed on the Guild Ship: MP Consumption Decrease +10%.
+PROPITEM_TXT_131830,[Guild Ship NPC] Affe
+PROPITEM_TXT_131831,This NPC will grant you the following bonus when placed on the Guild Ship: FP Consumption Decrease +10%.
+PROPITEM_TXT_131832,[Guild Ship NPC] Sham
+PROPITEM_TXT_131833,This NPC will grant you the following bonus when placed on the Guild Ship: Increased MP +10%.
+PROPITEM_TXT_131834,[Guild Ship NPC] Lamew
+PROPITEM_TXT_131835,This NPC will grant you the following bonus when placed on the Guild Ship: Increased FP +10%.
+PROPITEM_TXT_131836,[Guild Ship NPC] Quarter
+PROPITEM_TXT_131837,This NPC will grant you the following bonus when placed on the Guild Ship: Increased HP +10%.
+PROPITEM_TXT_131838,[Guild Ship NPC] Duron
+PROPITEM_TXT_131839,This NPC will grant you the following bonus when placed on the Guild Ship: Battle Artifact HP +10%.
+PROPITEM_TXT_131840,[Guild Ship NPC] Dolphie
+PROPITEM_TXT_131841,This NPC will grant you the following bonus when placed on the Guild Ship: Battle Artifact DEF +10%.
+PROPITEM_TXT_131842,[Guild Ship NPC] Fuba
+PROPITEM_TXT_131843,This NPC will grant you the following bonus when placed on the Guild Ship: Battle Artifact Recovery +10%.
+PROPITEM_TXT_131844,[Guild Ship NPC] Bako
+PROPITEM_TXT_131845,This NPC will grant you the following bonus when placed on the Guild Ship: Allies HP near house artifact +500.
+PROPITEM_TXT_131846,[Guild Ship NPC] Wick
+PROPITEM_TXT_131847,This NPC will grant you the following bonus when placed on the Guild Ship: Allies ATK near house artifact +3%.
+PROPITEM_TXT_131848,[Guild Ship NPC] Wina
+PROPITEM_TXT_131849,This NPC will grant you the following bonus when placed on the Guild Ship: Allies DEF near house artifact +3%.
+PROPITEM_TXT_131850,[Guild Ship NPC] Pitch
+PROPITEM_TXT_131851,This NPC will grant you the following bonus when placed on the Guild Ship: Allies Attack Speed near house artifact +5%.
+PROPITEM_TXT_131852,[Guild Ship NPC] Catch
+PROPITEM_TXT_131853,This NPC will grant you the following bonus when placed on the Guild Ship: Allies Casting Speed near house artifact +5%.
+PROPITEM_TXT_131854,[Guild Ship NPC] Met
+PROPITEM_TXT_131855,This NPC will grant you the following bonus when placed on the Guild Ship: Drop Rate Increase +5%.
+PROPITEM_TXT_131856,[Guild Ship NPC] Ego
+PROPITEM_TXT_131857,This NPC will grant you the following bonus when placed on the Guild Ship: Drop Rate Increase +5%.
+PROPITEM_TXT_131858,[Guild Ship NPC] Wifielder
+PROPITEM_TXT_131859,This NPC will grant you the following bonus when placed on the Guild Ship: Drop Rate Increase +5%.
+PROPITEM_TXT_131860,[Guild Ship NPC] Simid
+PROPITEM_TXT_131861,This NPC will grant you the following bonus when placed on the Guild Ship: Drop Rate Increase +5%.
+PROPITEM_TXT_131862,[Guild Ship NPC] Chord
+PROPITEM_TXT_131863,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Damage +3%.
+PROPITEM_TXT_131864,[Guild Ship NPC] Anura
+PROPITEM_TXT_131865,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Damage Reduction +3%.
+PROPITEM_TXT_131866,[Guild Ship NPC] Vikel
+PROPITEM_TXT_131867,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Melee/Range Block +3%.
+PROPITEM_TXT_131868,[Guild Ship NPC] Soz
+PROPITEM_TXT_131869,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Block Penetration +3%.
+PROPITEM_TXT_131870,[Guild Ship NPC] Naso
+PROPITEM_TXT_131871,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Critical Chance +3%.
+PROPITEM_TXT_131872,[Guild Ship NPC] Nuso
+PROPITEM_TXT_131873,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Critical Damage +3%.
+PROPITEM_TXT_131874,[Guild Ship NPC] Cobao
+PROPITEM_TXT_131875,This NPC will grant you the following bonus when placed on the Guild Ship: Healing +3%.
+PROPITEM_TXT_131876,[Guild Ship NPC] Aibao
+PROPITEM_TXT_131877,This NPC will grant you the following bonus when placed on the Guild Ship: Magic Resistance +3%.
+PROPITEM_TXT_131878,[Guild Ship NPC] Nanco
+PROPITEM_TXT_131879,This NPC will grant you the following bonus when placed on the Guild Ship: Critical Resist +3%.
+PROPITEM_TXT_131880,[Guild Ship NPC] Asa
+PROPITEM_TXT_131881,This NPC will grant you the following bonus when placed on the Guild Ship: Allow you to teleport to the place of your choice.
+PROPITEM_TXT_131882,[Guild Ship NPC] Alyn
+PROPITEM_TXT_131883,This NPC will grant you the following bonus when placed on the Guild Ship: Weapon/Armor upgrade chance +3%.
+PROPITEM_TXT_131884,[Guild Ship NPC] Lane
+PROPITEM_TXT_131885,This NPC will grant you the following bonus when placed on the Guild Ship: Accessory upgrade chance +3%.
+PROPITEM_TXT_131886,[Guild Ship NPC] Runni
+PROPITEM_TXT_131887,This NPC will grant you the following bonus when placed on the Guild Ship: Piercing upgrade chance +3%.
+PROPITEM_TXT_131888,[Guild Ship NPC] Pang
+PROPITEM_TXT_131889,This NPC will grant you the following bonus when placed on the Guild Ship: Buffs limited to characters level 140 and below.
 PROPITEM_TXT_522047,Cushion Chair Single Pack
 PROPITEM_TXT_522048,Spinning Globe Single Pack
 PROPITEM_TXT_522049,Compass Single Pack
@@ -14526,37 +14526,37 @@ PROPITEM_TXT_722864,[Personal House NPC] Lala (7 Days)
 PROPITEM_TXT_722865,[Personal House NPC] Tino (7 Days)
 PROPITEM_TXT_722866,[Personal House NPC] Cachu (7 Days)
 PROPITEM_TXT_722867,[Personal House NPC] Pang (7 Days)
-PROPITEM_TXT_722868,[Guild House NPC] Gira (7 Days)
-PROPITEM_TXT_722869,[Guild House NPC] Affe (7 Days)
-PROPITEM_TXT_722870,[Guild House NPC] Sham (7 Days)
-PROPITEM_TXT_722871,[Guild House NPC] Lamew (7 Days)
-PROPITEM_TXT_722872,[Guild House NPC] Quarter (7 Days)
-PROPITEM_TXT_722873,[Guild House NPC] Duron (7 Days)
-PROPITEM_TXT_722874,[Guild House NPC] Dolphie (7 Days)
-PROPITEM_TXT_722875,[Guild House NPC] Fuba (7 Days)
-PROPITEM_TXT_722876,[Guild House NPC] Bako (7 Days)
-PROPITEM_TXT_722877,[Guild House NPC] Wick (7 Days)
-PROPITEM_TXT_722878,[Guild House NPC] Wina (7 Days)
-PROPITEM_TXT_722879,[Guild House NPC] Pitch (7 Days)
-PROPITEM_TXT_722880,[Guild House NPC] Catch (7 Days)
-PROPITEM_TXT_722881,[Guild House NPC] Met (7 Days)
-PROPITEM_TXT_722882,[Guild House NPC] Ego (7 Days)
-PROPITEM_TXT_722883,[Guild House NPC] Wifielder (7 Days)
-PROPITEM_TXT_722884,[Guild House NPC] Simid (7 Days)
-PROPITEM_TXT_722885,[Guild House NPC] Chord (7 Days)
-PROPITEM_TXT_722886,[Guild House NPC] Anura (7 Days)
-PROPITEM_TXT_722887,[Guild House NPC] Vikel (7 Days)
-PROPITEM_TXT_722888,[Guild House NPC] Soz (7 Days)
-PROPITEM_TXT_722889,[Guild House NPC] Naso (7 Days)
-PROPITEM_TXT_722890,[Guild House NPC] Nuso (7 Days)
-PROPITEM_TXT_722891,[Guild House NPC] Cobao (7 Days)
-PROPITEM_TXT_722892,[Guild House NPC] Aibao (7 Days)
-PROPITEM_TXT_722893,[Guild House NPC] Nanco (7 Days)
-PROPITEM_TXT_722894,[Guild House NPC] Asa (7 Days)
-PROPITEM_TXT_722895,[Guild House NPC] Alyn (7 Days)
-PROPITEM_TXT_722896,[Guild House NPC] Lane (7 Days)
-PROPITEM_TXT_722897,[Guild House NPC] Runni (7 Days)
-PROPITEM_TXT_722898,[Guild House NPC] Pang (7 Days)
+PROPITEM_TXT_722868,[Guild Ship NPC] Gira (7 Days)
+PROPITEM_TXT_722869,[Guild Ship NPC] Affe (7 Days)
+PROPITEM_TXT_722870,[Guild Ship NPC] Sham (7 Days)
+PROPITEM_TXT_722871,[Guild Ship NPC] Lamew (7 Days)
+PROPITEM_TXT_722872,[Guild Ship NPC] Quarter (7 Days)
+PROPITEM_TXT_722873,[Guild Ship NPC] Duron (7 Days)
+PROPITEM_TXT_722874,[Guild Ship NPC] Dolphie (7 Days)
+PROPITEM_TXT_722875,[Guild Ship NPC] Fuba (7 Days)
+PROPITEM_TXT_722876,[Guild Ship NPC] Bako (7 Days)
+PROPITEM_TXT_722877,[Guild Ship NPC] Wick (7 Days)
+PROPITEM_TXT_722878,[Guild Ship NPC] Wina (7 Days)
+PROPITEM_TXT_722879,[Guild Ship NPC] Pitch (7 Days)
+PROPITEM_TXT_722880,[Guild Ship NPC] Catch (7 Days)
+PROPITEM_TXT_722881,[Guild Ship NPC] Met (7 Days)
+PROPITEM_TXT_722882,[Guild Ship NPC] Ego (7 Days)
+PROPITEM_TXT_722883,[Guild Ship NPC] Wifielder (7 Days)
+PROPITEM_TXT_722884,[Guild Ship NPC] Simid (7 Days)
+PROPITEM_TXT_722885,[Guild Ship NPC] Chord (7 Days)
+PROPITEM_TXT_722886,[Guild Ship NPC] Anura (7 Days)
+PROPITEM_TXT_722887,[Guild Ship NPC] Vikel (7 Days)
+PROPITEM_TXT_722888,[Guild Ship NPC] Soz (7 Days)
+PROPITEM_TXT_722889,[Guild Ship NPC] Naso (7 Days)
+PROPITEM_TXT_722890,[Guild Ship NPC] Nuso (7 Days)
+PROPITEM_TXT_722891,[Guild Ship NPC] Cobao (7 Days)
+PROPITEM_TXT_722892,[Guild Ship NPC] Aibao (7 Days)
+PROPITEM_TXT_722893,[Guild Ship NPC] Nanco (7 Days)
+PROPITEM_TXT_722894,[Guild Ship NPC] Asa (7 Days)
+PROPITEM_TXT_722895,[Guild Ship NPC] Alyn (7 Days)
+PROPITEM_TXT_722896,[Guild Ship NPC] Lane (7 Days)
+PROPITEM_TXT_722897,[Guild Ship NPC] Runni (7 Days)
+PROPITEM_TXT_722898,[Guild Ship NPC] Pang (7 Days)
 PROPITEM_TXT_722899,Cushion Chair Single Pack (10 Days)
 PROPITEM_TXT_722900,Spinning Globe Single Pack (10 Days)
 PROPITEM_TXT_722901,Compass Single Pack (10 Days)
@@ -17301,8 +17301,8 @@ PROPITEM_TXT_800217,Rainbow Jewel (10)
 PROPITEM_TXT_800218,Gives +10 All stat when applied to a ultimate weapon. Can only be attached once.
 PROPITEM_TXT_801000,Scroll of Pet Inventory (Character House)
 PROPITEM_TXT_801001,Using this scroll will increase your maximum character house pet inventory slots by 1!
-PROPITEM_TXT_801002,Scroll of Pet Inventory (Guild House)
-PROPITEM_TXT_801003,Using this scroll will increase your maximum guild house pet inventory slots by 1! (Warning: this will be linked to the guild)
+PROPITEM_TXT_801002,Scroll of Pet Inventory (Guild Ship)
+PROPITEM_TXT_801003,Using this scroll will increase your maximum guild ship pet inventory slots by 1! (Warning: this will be linked to the guild)
 PROPITEM_TXT_140000,Cubic Ring
 PROPITEM_TXT_140001,"This ring is used to propose to another player, and is deleted when the couple is broken."
 PROPITEM_TXT_140002,Fancy Cubic Ring
